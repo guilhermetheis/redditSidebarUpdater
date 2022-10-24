@@ -84,7 +84,7 @@ LUT_Teams_oldRed = {
         'Minnesota':'[](/r/timberwolves)'   
     }
 
-
+#Roster
 roster_url = 'https://www.espn.com/nba/team/roster/_/name/bos/boston-celtics'
 
 table_roster_init = pd.read_html(roster_url)[0]
@@ -128,7 +128,9 @@ for i in range(len(table_roster_dropped)):
     )
 
 outputRoster_df = pd.DataFrame(outputRoster)
-#outputRoster_df.to_markdown('../outputs/roster.md',index=False)
+outputRoster_df.to_markdown('../outputs/roster.md',index=False)
+
+#Schedule
 
 schedule_url = 'https://www.espn.com/nba/team/schedule/_/name/bos/season/2023'
 table_schedule_init = pd.read_html(schedule_url)[0]
@@ -148,4 +150,25 @@ table_schedule_toBePlayed = table_schedule_toBePlayed.reset_index()
 table_schedule_toBePlayed.columns = table_schedule_toBePlayed.iloc[0]
 table_schedule_toBePlayed = table_schedule_toBePlayed.drop([0], axis=0)
 
+#Standings
 
+standings_url = 'https://www.espn.com/nba/standings'
+
+standings_teamNames = pd.read_html(standings_url)[0]
+standings_records = pd.read_html(standings_url)[1]
+a =standings_teamNames.columns.to_frame()
+
+a = a.rename(columns={a.columns[0]:standings_teamNames.columns[0]})
+
+
+standings_teamNames = pd.concat([a,standings_teamNames])
+
+standings_teamNames = standings_teamNames.rename(columns={standings_teamNames.columns[0]:'Team'})
+
+standings_teamNames = standings_teamNames.reset_index(drop=True)
+
+standings_teamNames['Team']
+
+finalStandings = pd.concat([standings_teamNames,standings_records['W'],standings_records['L'],standings_records['PCT'],standings_records['GB']], axis =1)
+
+finalStandings = finalStandings.rename(columns={'PCT':'W%'})
