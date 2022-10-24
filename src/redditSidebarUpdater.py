@@ -197,10 +197,18 @@ standings_teamNames = standings_teamNames.rename(columns={standings_teamNames.co
 
 standings_teamNames = standings_teamNames.reset_index(drop=True)
 
-standings_teamNames['Team']
 
-finalStandings = pd.concat([standings_teamNames,standings_records['W'],standings_records['L'],standings_records['PCT'],standings_records['GB']], axis =1)
+standings_teamNames['Team'] = standings_teamNames['Team'].str.split('^\w*([A-Z]{1}[a-z]+.*)$', regex=True).str[1]
+
+standings_records['GB'] = standings_records['GB'].str.replace('-', '0',regex=True)
+standings_records['GB'] = standings_records['GB'].replace(0, np.nan)
+
+
+finalStandings = pd.concat([standings_teamNames,standings_records['W'],standings_records['L'],pd.to_numeric(standings_records['PCT'], downcast='float'), pd.to_numeric(standings_records['GB'], downcast='float')], axis =1)
 
 finalStandings = finalStandings.rename(columns={'PCT':'W%'})
+finalStandings['W%'] = finalStandings['W%'].astype('float64')
+finalStandings['GB'] = finalStandings['GB'].astype('float64')
 
-finalStandings.to_markdown('../outputs/standings.md',index=False)
+
+finalStandings.to_markdown('../outputs/standings.md', stralign='left', index=False, floatfmt='.3f')
