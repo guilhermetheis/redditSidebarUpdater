@@ -132,6 +132,8 @@ outputRoster_df.to_markdown('../outputs/roster.md',index=False)
 
 #Schedule
 
+month = datetime.today().strftime('%b')
+
 schedule_url = 'https://www.espn.com/nba/team/schedule/_/name/bos/season/2023'
 table_schedule_init = pd.read_html(schedule_url)[0]
 duplicatedValues = table_schedule_init.duplicated(subset=[0,1])
@@ -149,6 +151,20 @@ table_schedule_toBePlayed = table_schedule_init[numRows:]
 table_schedule_toBePlayed = table_schedule_toBePlayed.reset_index()
 table_schedule_toBePlayed.columns = table_schedule_toBePlayed.iloc[0]
 table_schedule_toBePlayed = table_schedule_toBePlayed.drop([0], axis=0)
+
+boleeanPlayed = table_schedule_playedGames['DATE'].str.contains(month)
+
+boleeanToBePlayed = table_schedule_toBePlayed['DATE'].str.contains(month)
+
+finaltable_schedule_playedGames = table_schedule_playedGames[boleeanPlayed]
+finaltable_schedule_toBePlayed = table_schedule_toBePlayed[boleeanToBePlayed]
+
+finaltable_schedule_playedGames = finaltable_schedule_playedGames[['DATE', 'OPPONENT','RESULT']]
+finaltable_schedule_toBePlayed = finaltable_schedule_toBePlayed[['DATE', 'OPPONENT','TIME']]
+final_schedule = pd.concat([finaltable_schedule_playedGames, finaltable_schedule_toBePlayed], axis=0, ignore_index=True)
+final_schedule = final_schedule.fillna('')
+
+final_schedule.to_markdown('../outputs/schedule.md',index=False)
 
 #Standings
 
@@ -172,3 +188,5 @@ standings_teamNames['Team']
 finalStandings = pd.concat([standings_teamNames,standings_records['W'],standings_records['L'],standings_records['PCT'],standings_records['GB']], axis =1)
 
 finalStandings = finalStandings.rename(columns={'PCT':'W%'})
+
+finalStandings.to_markdown('../outputs/standings.md',index=False)
