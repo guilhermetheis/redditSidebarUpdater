@@ -6,15 +6,84 @@ Created on Fri Oct 21 12:29:06 2022
 """
 
 
-
+## Import space
 import pandas as pd
 import numpy as np
 import re
 
+## functions space
 def remove(list):
     pattern = '[0-9]'
     list = [re.sub(pattern, '', i) for i in list]
     return list
+
+## LUTS space
+
+
+LUT_Teams_newRed = {
+        'Philadelphia':'[Philly](/r/sixers)',
+        'Miami':'[Heat](/r/heat)',
+        'Orlando':'[Magic](/r/OrlandoMagic)',
+        'Chicago': '[Bulls](/r/chicagobulls)',
+        'Cleveland':'[Cavs](/r/clevelandcavs)',
+        'Washington':'[Wizards](/r/washingtonwizards)',
+        'New York':'[Knicks](/r/NYKnicks)',
+        'Memphis':'[Memphis](/r/memphisgrizzlies)',
+        'Detroit':'[Pistons](/r/DetroitPistons)',
+        'Oklahoma City':'[Thunder](/r/Thunder)',
+        'Atlanta':'[Hawks](/r/AtlantaHawks)',
+        'New Orleans':'[Pelicans](/r/NOLAPelicans)',
+        'Dallas':'[Dallas](/r/Mavericks)',
+        'Sacramento':'[Kings](/r/kings)',
+        'Charlotte':'[Hornets](/r/CharlotteHornets)',
+        'Brooklyn':'[Nets](/r/GoNets)',
+        'Toronto':'[Raptors](/r/torontoraptors)',
+        'Phoenix':'[Suns](/r/suns)',
+        'Golden State':'[Warriors](/r/warriors)',
+        'LA':'[Clippers](LAClippers)',
+        'Los Angeles':'[Lakers](/r/lakers)',
+        'Indiana':'[Pacers](/r/pacers)',
+        'Milwaukee':'[Bucks](/r/MkeBucks)',
+        'Houston':'[Houston](/r/rockets)',
+        'Denver':'[Denver](/r/denvernuggets)',
+        'San Antonio':'[Spurs](/r/NBASpurs)',
+        'Portland':'[Blazers](/r/ripcity)',
+        'Utah':'[Jazz](UtahJazz)',
+        'Minnesota':'[Wolves](/r/timberwolves)'   
+    }
+
+LUT_Teams_oldRed = {
+        'Philadelphia':'[](/r/sixers)',
+        'Miami':'[](/r/heat)',
+        'Orlando':'[](/r/OrlandoMagic)',
+        'Chicago': '[](/r/chicagobulls)',
+        'Cleveland':'[](/r/clevelandcavs)',
+        'Washington':'[](/r/washingtonwizards)',
+        'New York':'[](/r/NYKnicks)',
+        'Memphis':'[](/r/memphisgrizzlies)',
+        'Detroit':'[](/r/DetroitPistons)',
+        'Oklahoma City':'[](/r/Thunder)',
+        'Atlanta':'[](/r/AtlantaHawks)',
+        'New Orleans':'[](/r/NOLAPelicans)',
+        'Dallas':'[](/r/Mavericks)',
+        'Sacramento':'[](/r/kings)',
+        'Charlotte':'[](/r/CharlotteHornets)',
+        'Brooklyn':'[](/r/GoNets)',
+        'Toronto':'[](/r/torontoraptors)',
+        'Phoenix':'[](/r/suns)',
+        'Golden State':'[](/r/warriors)',
+        'LA':'[](LAClippers)',
+        'Los Angeles':'[](/r/lakers)',
+        'Indiana':'[](/r/pacers)',
+        'Milwaukee':'[](/r/MkeBucks)',
+        'Houston':'[](/r/rockets)',
+        'Denver':'[](/r/denvernuggets)',
+        'San Antonio':'[](/r/NBASpurs)',
+        'Portland':'[](/r/ripcity)',
+        'Utah':'[](UtahJazz)',
+        'Minnesota':'[](/r/timberwolves)'   
+    }
+
 
 roster_url = 'https://www.espn.com/nba/team/roster/_/name/bos/boston-celtics'
 
@@ -79,11 +148,4 @@ table_schedule_toBePlayed = table_schedule_toBePlayed.reset_index()
 table_schedule_toBePlayed.columns = table_schedule_toBePlayed.iloc[0]
 table_schedule_toBePlayed = table_schedule_toBePlayed.drop([0], axis=0)
 
-LUT_Teams = {
-        'Philadelphia':'[Philly](/r/sixers)',
-        'Miami':'[Heat](/r/heat)',
-        'Orlando':'[Magic](/r/OrlandoMagic)',
-        'Chicago': '[Bulls](/r/chicagobulls)',
-        'Cleveland':'[Cavs](/r/clevelandcavs)',
-    }
 
