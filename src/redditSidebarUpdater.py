@@ -10,6 +10,7 @@ Created on Fri Oct 21 12:29:06 2022
 import pandas as pd
 import numpy as np
 import re
+from datetime import datetime
 
 ## functions space
 def remove(list):
@@ -163,8 +164,21 @@ finaltable_schedule_playedGames = finaltable_schedule_playedGames[['DATE', 'OPPO
 finaltable_schedule_toBePlayed = finaltable_schedule_toBePlayed[['DATE', 'OPPONENT','TIME']]
 final_schedule = pd.concat([finaltable_schedule_playedGames, finaltable_schedule_toBePlayed], axis=0, ignore_index=True)
 final_schedule = final_schedule.fillna('')
+final_schedule['RESULT'] = final_schedule['RESULT'].replace('W', 'W ', regex=True)
+final_schedule['RESULT'] = final_schedule['RESULT'].replace('L', 'L ', regex=True)
 
-final_schedule.to_markdown('../outputs/schedule.md',index=False)
+pre_split =  final_schedule['OPPONENT'].str.split('(?=[A-Z])').str[0]
+
+final_schedule['OPPONENT'] = final_schedule['OPPONENT'].str.split(r'vs |@ ').str[1]
+final_schedule_new = final_schedule.copy()
+final_schedule_old = final_schedule.copy()
+final_schedule_new = final_schedule_new.replace({'OPPONENT':LUT_Teams_newRed})
+final_schedule_old = final_schedule_old.replace({'OPPONENT':LUT_Teams_oldRed})
+final_schedule_new['OPPONENT'] = pre_split+final_schedule_new['OPPONENT']
+final_schedule_old['OPPONENT'] = pre_split+final_schedule_old['OPPONENT']
+
+final_schedule_new.to_markdown('../outputs/new_schedule.md',index=False)
+final_schedule_old.to_markdown('../outputs/old_schedule.md',index=False)
 
 #Standings
 
