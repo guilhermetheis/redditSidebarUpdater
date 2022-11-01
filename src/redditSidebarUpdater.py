@@ -20,6 +20,41 @@ def remove(list):
 
 ## LUTS space
 
+LUT_Standings_newRed = {         
+        'Milwaukee Bucks':'[Bucks](/r/MkeBucks)',
+         'Boston Celtics':'[Celtics](/r/bostonceltics)',
+    'Charlotte Hornets':'[Hornets](/r/CharlotteHornets)',
+     'Cleveland Cavaliers':'[Cavs](/r/clevelandcavs)',
+         'New York Knicks':'[Knicks](/r/NYKnicks)',
+      'Washington Wizards':'[Wizards](/r/washingtonwizards)',
+           'Atlanta Hawks':'[Hawks](/r/AtlantaHawks)',
+         'Toronto Raptors':'[Raptors](/r/torontoraptors)',
+           'Chicago Bulls':'[Bulls](/r/chicagobulls)',
+           'Brooklyn Nets':'[Nets](/r/GoNets)',
+        'Detroit Pistons':'[Pistons](/r/DetroitPistons)',
+     'Philadelphia 76ers':'[Philly](/r/sixers)',
+         'Indiana Pacers':'[Pacers](/r/pacers)',
+             'Miami Heat':'[Heat](/r/heat)',
+          'Orlando Magic':'[Magic](/r/OrlandoMagic)'
+    }
+
+LUT_Standings_oldRed = {         
+        'Milwaukee Bucks':'[](/r/mkebucks) Bucks',
+         'Boston Celtics':'[](/r/bostonceltics) Celtics',
+    'Charlotte Hornets':'[](/r/charlottehornets) Hornets',
+     'Cleveland Cavaliers':'[](/r/clevelandcavs) Cavs',
+         'New York Knicks':'[](/r/nyknicks) Knicks',
+      'Washington Wizards':'[](/r/washingtonwizards) Wizards',
+           'Atlanta Hawks':'[](/r/atlantahawks) Hawks',
+         'Toronto Raptors':'[](/r/torontoraptors) Raptors',
+           'Chicago Bulls':'[](/r/chicagobulls) Bulls',
+           'Brooklyn Nets':'[](/r/gonets) Nets',
+        'Detroit Pistons':'[](/r/detroitpistons) Pistons',
+     'Philadelphia 76ers':'[](/r/sixers) Philly',
+         'Indiana Pacers':'[](/r/pacers) Pacers',
+             'Miami Heat':'[](/r/heat) Heat',
+          'Orlando Magic':'[](/r/orlandomagic) Magic'
+    }
 
 LUT_Teams_newRed = {
         'Philadelphia':'[Philly](/r/sixers)',
@@ -56,32 +91,32 @@ LUT_Teams_newRed = {
 LUT_Teams_oldRed = {
         'Philadelphia':'[](/r/sixers)',
         'Miami':'[](/r/heat)',
-        'Orlando':'[](/r/OrlandoMagic)',
+        'Orlando':'[](/r/orlandomagic)',
         'Chicago': '[](/r/chicagobulls)',
         'Cleveland':'[](/r/clevelandcavs)',
         'Washington':'[](/r/washingtonwizards)',
-        'New York':'[](/r/NYKnicks)',
+        'New York':'[](/r/nyknicks)',
         'Memphis':'[](/r/memphisgrizzlies)',
-        'Detroit':'[](/r/DetroitPistons)',
-        'Oklahoma City':'[](/r/Thunder)',
-        'Atlanta':'[](/r/AtlantaHawks)',
-        'New Orleans':'[](/r/NOLAPelicans)',
-        'Dallas':'[](/r/Mavericks)',
+        'Detroit':'[](/r/detroitpistons)',
+        'Oklahoma City':'[](/r/thunder)',
+        'Atlanta':'[](/r/atlantahawks)',
+        'New Orleans':'[](/r/nolapelicans)',
+        'Dallas':'[](/r/mavericks)',
         'Sacramento':'[](/r/kings)',
-        'Charlotte':'[](/r/CharlotteHornets)',
-        'Brooklyn':'[](/r/GoNets)',
+        'Charlotte':'[](/r/charlottehornets)',
+        'Brooklyn':'[](/r/gonets)',
         'Toronto':'[](/r/torontoraptors)',
         'Phoenix':'[](/r/suns)',
         'Golden State':'[](/r/warriors)',
-        'LA':'[](LAClippers)',
+        'LA':'[](laclippers)',
         'Los Angeles':'[](/r/lakers)',
         'Indiana':'[](/r/pacers)',
-        'Milwaukee':'[](/r/MkeBucks)',
+        'Milwaukee':'[](/r/mkebucks)',
         'Houston':'[](/r/rockets)',
         'Denver':'[](/r/denvernuggets)',
-        'San Antonio':'[](/r/NBASpurs)',
+        'San Antonio':'[](/r/nbaspurs)',
         'Portland':'[](/r/ripcity)',
-        'Utah':'[](UtahJazz)',
+        'Utah':'[](utahjazz)',
         'Minnesota':'[](/r/timberwolves)'   
     }
 
@@ -103,6 +138,7 @@ name_link_dict = {}
 
 for i in range(len(table_roster_links)):
     name_link_dict[names[i]] = espn_links[i]
+    
 
 table_roster_dropped = table_roster_dropped.drop(['Unnamed: 0'], axis=1)
 table_roster_dropped['Salary'] = table_roster_dropped['Salary'].str.replace('$', '',regex=True)
@@ -115,21 +151,71 @@ table_roster_dropped['Salary'] = table_roster_dropped['Salary'].div(1e6).round(d
 table_roster_dropped['Name'] = table_roster_dropped['Name'].str.replace('\d+', '',regex=True)
 table_roster_dropped = table_roster_dropped.reset_index(drop=True)
 
+
+
 outputRoster = []
 
 for i in range(len(table_roster_dropped)):
-    nameAndLink = '[' + table_roster_dropped['Name'][i] +']('+name_link_dict[table_roster_dropped['Name'][i]]+')'
+    nameAndLink = '[' + table_roster_dropped['Name'][i].split(' ',1)[1] +']('+name_link_dict[table_roster_dropped['Name'][i]]+')'
     tempSalary = str(table_roster_dropped['Salary'][i]) + 'M'
     outputRoster.append(
         {
             'Name':nameAndLink,
-            'Age':table_roster_dropped['Name'][i],
+            'Age':table_roster_dropped['Age'][i],
             'Salary': tempSalary
         }
     )
 
 outputRoster_df = pd.DataFrame(outputRoster)
-outputRoster_df.to_markdown('../outputs/roster.md',index=False)
+
+
+allStats = []
+for index, row in table_roster_dropped.iterrows():
+    #print(row)
+    dataread = pd.read_html(name_link_dict[row['Name']])
+    if len(dataread)>1:
+        
+        if 'GP' in dataread[2].columns:
+            allStats.append(
+                {   
+                    'Name':row['Name'],
+                    'PPG':dataread[2]['PTS'][0],
+                    'FG%':dataread[2]['FG%'][0],
+                    '3P%':dataread[2]['3P%'][0],
+                    'RBG': dataread[2]['REB'][0],
+                    'APG': dataread[2]['AST'][0],
+                    'STOCK':sum(dataread[2]['BLK']+dataread[2]['STL'])
+                    })
+        else:
+            
+            allStats.append({   
+                'Name':row['Name'],
+                'PPG':np.nan,
+                'FG%':np.nan,
+                '3P%':np.nan,
+                'RBG':np.nan,
+                'APG':np.nan,
+                'STOCK':(np.nan)
+                })
+    else:
+        allStats.append({   
+            'Name':row['Name'],
+            'PPG':np.nan,
+            'FG%':np.nan,
+            '3P%':np.nan,
+            'RBG':np.nan,
+            'APG':np.nan,
+            'STOCK':(np.nan)
+            })
+        
+
+
+
+allStats_df = pd.DataFrame(allStats)
+dict_lookup = dict(zip(allStats_df['Name'], outputRoster_df['Name']))
+allStats_df = allStats_df.replace({'Name':dict_lookup})
+
+allStats_df.to_markdown('../outputs/roster.md',stralign='center', numalign='center',index=False)
 
 #Schedule
 
@@ -177,8 +263,8 @@ final_schedule_old = final_schedule_old.replace({'OPPONENT':LUT_Teams_oldRed})
 final_schedule_new['OPPONENT'] = pre_split+final_schedule_new['OPPONENT']
 final_schedule_old['OPPONENT'] = pre_split+final_schedule_old['OPPONENT']
 
-final_schedule_new.to_markdown('../outputs/new_schedule.md',index=False)
-final_schedule_old.to_markdown('../outputs/old_schedule.md',index=False)
+final_schedule_new.to_markdown('../outputs/new_schedule.md', stralign='center',numalign='center',index=False)
+final_schedule_old.to_markdown('../outputs/old_schedule.md', stralign='center',numalign='center',index=False)
 
 #Standings
 
@@ -210,5 +296,11 @@ finalStandings = finalStandings.rename(columns={'PCT':'W%'})
 finalStandings['W%'] = finalStandings['W%'].astype('float64')
 finalStandings['GB'] = finalStandings['GB'].astype('float64')
 
+finalStandings_oldRed = finalStandings.copy()
+finalStandings_oldRed = finalStandings_oldRed.replace({'Team':LUT_Standings_oldRed})
 
-finalStandings.to_markdown('../outputs/standings.md', stralign='left', index=False, floatfmt='.3f')
+finalStandings_newRed = finalStandings.copy()
+finalStandings_newRed = finalStandings_newRed.replace({'Team':LUT_Standings_newRed})
+
+finalStandings_newRed.to_markdown('../outputs/standings_new.md', stralign='left',numalign='center', index=False, floatfmt='.3f')
+finalStandings_oldRed.to_markdown('../outputs/standings_old.md', stralign='left',numalign='center', index=False, floatfmt='.3f')
