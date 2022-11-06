@@ -349,7 +349,7 @@ widgets = bostonceltics.widgets #for newReddit
 
 f = open("outputs/new_schedule.md", "r")
 newScheduleVar = f.read()+'\n\n'+updateTime
-f = open("standings_new.md", "r")
+f = open("outputs/standings_new.md", "r")
 newStandingVar = f.read()+'\n\n'+updateTime
 f = open("outputs/roster.md", "r")
 newRosterVar = f.read() +'\n\n'+updateTime
