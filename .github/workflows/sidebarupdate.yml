@@ -20,7 +20,7 @@ jobs:
         run: |
           pip install -r src/requirements.txt
           
-      - name: Create ENV file and run winampbot
+      - name: Create ENV file and run mybot
         env:
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
           REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
@@ -28,4 +28,4 @@ jobs:
           API_CLIENT: ${{ secrets.API_CLIENT }}
         run: |
           pip install -r src/requirements.txt
-          python redditSidebarUpdater.py
+          python src/redditSidebarUpdater.py
