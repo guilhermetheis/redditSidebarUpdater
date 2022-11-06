@@ -1,0 +1,31 @@
+name: Reddit Sidebar Updater
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setting up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          pip install -r src/requirements.txt
+          
+      - name: Create ENV file and run winampbot
+        env:
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          API_SECRET: ${{ secrets.API_SECRET }}
+          API_CLIENT: ${{ secrets.API_CLIENT }}
+        run: |
+          pip install -r src/requirements.txt
+          python redditSidebarUpdater.py

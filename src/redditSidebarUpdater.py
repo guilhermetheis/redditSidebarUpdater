@@ -12,7 +12,11 @@ import numpy as np
 import re
 from datetime import datetime
 from pytz import timezone
-#import praw
+import praw
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 ## functions space
@@ -218,7 +222,7 @@ allStats_df = pd.DataFrame(allStats)
 dict_lookup = dict(zip(allStats_df['Name'], outputRoster_df['Name']))
 allStats_df = allStats_df.replace({'Name':dict_lookup})
 
-allStats_df.to_markdown('/home/theis159/redditSidebarUpdater/outputs/roster.md',stralign='center', numalign='center',index=False)
+allStats_df.to_markdown('outputs/roster.md',stralign='center', numalign='center',index=False)
 
 #Schedule
 
@@ -266,8 +270,8 @@ final_schedule_old = final_schedule_old.replace({'OPPONENT':LUT_Teams_oldRed})
 final_schedule_new['OPPONENT'] = pre_split+final_schedule_new['OPPONENT']
 final_schedule_old['OPPONENT'] = pre_split+final_schedule_old['OPPONENT']
 
-final_schedule_new.to_markdown('/home/theis159/redditSidebarUpdater/outputs/new_schedule.md', stralign='center',numalign='center',index=False)
-final_schedule_old.to_markdown('/home/theis159/redditSidebarUpdater/outputs/old_schedule.md', stralign='center',numalign='center',index=False)
+final_schedule_new.to_markdown('outputs/new_schedule.md', stralign='center',numalign='center',index=False)
+final_schedule_old.to_markdown('outputs/old_schedule.md', stralign='center',numalign='center',index=False)
 
 #Standings
 
@@ -305,8 +309,8 @@ finalStandings_oldRed = finalStandings_oldRed.replace({'Team':LUT_Standings_oldR
 finalStandings_newRed = finalStandings.copy()
 finalStandings_newRed = finalStandings_newRed.replace({'Team':LUT_Standings_newRed})
 
-finalStandings_newRed.to_markdown('/home/theis159/redditSidebarUpdater/outputs/standings_new.md', stralign='left',numalign='center', index=False, floatfmt='.3f')
-finalStandings_oldRed.to_markdown('/home/theis159/redditSidebarUpdater/outputs/standings_old.md', stralign='left',numalign='center', index=False, floatfmt='.3f')
+finalStandings_newRed.to_markdown('outputs/standings_new.md', stralign='left',numalign='center', index=False, floatfmt='.3f')
+finalStandings_oldRed.to_markdown('outputs/standings_old.md', stralign='left',numalign='center', index=False, floatfmt='.3f')
 
 
 # PRAW stuff
@@ -318,27 +322,36 @@ updateTime = 'Last Update ' + now_time.strftime('%H:%M, %m/%d/%Y') + ' EDT'
 
 #create old reddit sidebar
 
-f = open("/home/theis159/redditSidebarUpdater/outputs/old_schedule.md", "r")
+f = open("outputs/old_schedule.md", "r")
 oldScheduleVar = f.read()+'\n\n'+updateTime
-f = open("/home/theis159/redditSidebarUpdater/outputs/standings_old.md", "r")
+f = open("outputs/standings_old.md", "r")
 oldStandingVar = f.read()+'\n\n'+updateTime
-f = open("/home/theis159/redditSidebarUpdater/outputs/roster.md", "r")
+f = open("outputs/roster.md", "r")
 oldRosterVar = f.read() +'\n\n'+updateTime
-f = open("/home/theis159/redditSidebarUpdater/outputs/restOfSidebar.md", "r")
+f = open("outputs/restOfSidebar.md", "r")
 restOfOldReddit = f.read()
 
 oldSidebar = '#Schedule \n\n' + oldScheduleVar + '\n\n#Regular Season Stats \n\n' + oldRosterVar + '\n\n#Standings \n\n' + oldStandingVar + '\n\n' + restOfOldReddit
 
-reddit = praw.Reddit('Bot1', user-agent='bot1 user agent')
+
+
+reddit = praw.Reddit(
+    client_id=os.getenv('API_CLIENT'),
+    client_secret=os.getenv('API_SECRET'),
+    password=os.getenv('REDDIT_PASSWORD'),
+    user_agent="Sidebar Updater",
+    username=os.getenv('REDDIT_USERNAME'),
+)
+
 bostonceltics = reddit.subreddit('bostoncelticsmods')
 widgets = subreddit.widgets #for newReddit
 
 
-f = open("/home/theis159/redditSidebarUpdater/outputs/new_schedule.md", "r")
+f = open("outputs/new_schedule.md", "r")
 newScheduleVar = f.read()+'\n\n'+updateTime
-f = open("/home/theis159/redditSidebarUpdater/outputs/standings_new.md", "r")
+f = open("standings_new.md", "r")
 newStandingVar = f.read()+'\n\n'+updateTime
-f = open("/home/theis159/redditSidebarUpdater/outputs/roster.md", "r")
+f = open("outputs/roster.md", "r")
 newRosterVar = f.read() +'\n\n'+updateTime
 
 schedule = widgets.sidebar[1]
