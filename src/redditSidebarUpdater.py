@@ -344,7 +344,7 @@ reddit = praw.Reddit(
 )
 
 bostonceltics = reddit.subreddit('bostoncelticsmods')
-widgets = subreddit.widgets #for newReddit
+widgets = bostonceltics.widgets #for newReddit
 
 
 f = open("outputs/new_schedule.md", "r")
