@@ -191,7 +191,7 @@ for index, row in table_roster_dropped.iterrows():
                     '3P%':dataread[2]['3P%'][0],
                     'RBG': dataread[2]['REB'][0],
                     'APG': dataread[2]['AST'][0],
-                    'STOCK':sum(dataread[2]['BLK']+dataread[2]['STL'])
+                    'STOCK':sum(dataread[2]['BLK'][0]+dataread[2]['STL'][0])
                     })
         else:
             
