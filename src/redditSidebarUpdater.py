@@ -186,12 +186,12 @@ for index, row in table_roster_dropped.iterrows():
             allStats.append(
                 {   
                     'Name':row['Name'],
-                    'PPG':dataread[1]['PTS'][0],
-                    'FG%':dataread[1]['FG%'][0],
-                    '3P%':dataread[1]['3P%'][0],
-                    'RBG': dataread[1]['REB'][0],
-                    'APG': dataread[1]['AST'][0],
-                    'STOCK':sum(dataread[1]['BLK'][0]+dataread[1]['STL'][0])
+                    'PPG':dataread[2]['PTS'][0],
+                    'FG%':dataread[2]['FG%'][0],
+                    '3P%':dataread[2]['3P%'][0],
+                    'RBG': dataread[2]['REB'][0],
+                    'APG': dataread[2]['AST'][0],
+                    'STOCK':(dataread[2]['BLK'][0]+dataread[2]['STL'][0])
                     })
         else:
             
