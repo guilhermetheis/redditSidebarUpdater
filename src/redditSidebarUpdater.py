@@ -355,8 +355,8 @@ f = open("outputs/roster.md", "r")
 newRosterVar = f.read() +'\n\n'+updateTime
 
 schedule = widgets.sidebar[1]
-standings = widgets.sidebar[2]
-roster = widgets.sidebar[3]
+standings = widgets.sidebar[3]
+roster = widgets.sidebar[2]
 
 styles = {"backgroundColor": "#edeff1", "headerColor": "#349e48"}
 schedule.mod.update(
