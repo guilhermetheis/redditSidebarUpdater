@@ -343,7 +343,7 @@ reddit = praw.Reddit(
     username=os.getenv('REDDIT_USERNAME'),
 )
 
-bostonceltics = reddit.subreddit('bostoncelticsmods')
+bostonceltics = reddit.subreddit('bostonceltics')
 widgets = bostonceltics.widgets #for newReddit
 
 
