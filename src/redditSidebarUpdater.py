@@ -83,7 +83,7 @@ LUT_Teams_newRed = {
         'Toronto':'[Raptors](/r/torontoraptors)',
         'Phoenix':'[Suns](/r/suns)',
         'Golden State':'[Warriors](/r/warriors)',
-        'LA':'[Clippers](LAClippers)',
+        'LA':'[Clippers](/r/LAClippers)',
         'Los Angeles':'[Lakers](/r/lakers)',
         'Indiana':'[Pacers](/r/pacers)',
         'Milwaukee':'[Bucks](/r/MkeBucks)',
@@ -91,7 +91,7 @@ LUT_Teams_newRed = {
         'Denver':'[Denver](/r/denvernuggets)',
         'San Antonio':'[Spurs](/r/NBASpurs)',
         'Portland':'[Blazers](/r/ripcity)',
-        'Utah':'[Jazz](UtahJazz)',
+        'Utah':'[Jazz](/r/UtahJazz)',
         'Minnesota':'[Wolves](/r/timberwolves)'   
     }
 
@@ -115,7 +115,7 @@ LUT_Teams_oldRed = {
         'Toronto':'[](/r/torontoraptors)',
         'Phoenix':'[](/r/suns)',
         'Golden State':'[](/r/warriors)',
-        'LA':'[](laclippers)',
+        'LA':'[](/r/laclippers)',
         'Los Angeles':'[](/r/lakers)',
         'Indiana':'[](/r/pacers)',
         'Milwaukee':'[](/r/mkebucks)',
@@ -123,7 +123,7 @@ LUT_Teams_oldRed = {
         'Denver':'[](/r/denvernuggets)',
         'San Antonio':'[](/r/nbaspurs)',
         'Portland':'[](/r/ripcity)',
-        'Utah':'[](utahjazz)',
+        'Utah':'[](/r/utahjazz)',
         'Minnesota':'[](/r/timberwolves)'   
     }
 
