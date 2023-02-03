@@ -10,6 +10,10 @@ To install and use the code first please install the dependencies through `src/r
 
 We use the `styles` variable to set the different color schemes for the widgets. Please note that the color codes can be easily found when you set manually the widgets on the subreddit. Further, we use a file called `restOfSidebar.md` found in `outputs/` that is the rest of the markdown required for the old reddit setup, please add yours accordingly. Finally, be aware to run locally praw and indentify if your widgets are properly assigned, in our case we have a fixed rules widget which occupies the position `widgets.sidebar[0]` so we have schedule, roster and standings to be placed at the positions [1], [2], [3] respectively. 
 
+## Constant updates
+
+In order to keep your repo actions running you need to constantly update the repo. Maximum 3 months without updates are allowed.
+
 # License
 
 This project is under the GNU General Public License v3.0. 
