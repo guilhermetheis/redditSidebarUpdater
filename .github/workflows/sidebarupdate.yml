@@ -1,9 +1,9 @@
 name: Reddit Sidebar Updater
 
-#on:
- # workflow_dispatch:
-  #schedule:
-   # - cron: "0 */8 * * *"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */8 * * *"
 
 jobs:
   build:
@@ -28,4 +28,4 @@ jobs:
           API_CLIENT: ${{ secrets.API_CLIENT }}
         run: |
           pip install -r src/requirements.txt
-          python src/redditSidebarUpdater.py
+          python src/redditSidebarUpdater_Playoffs.py
