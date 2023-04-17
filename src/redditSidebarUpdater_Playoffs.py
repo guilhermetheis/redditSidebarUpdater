@@ -244,7 +244,6 @@ schedule_url = 'https://www.espn.com/nba/team/schedule/_/name/bos/season/2023/se
 table_schedule_init = pd.read_html(schedule_url)
 
 
-
 table_schedule=table_schedule_init[0]
 
 table_schedule = table_schedule[~table_schedule[0].isin(['Conference First Round', 'Conference Semifinals', 'Conference Finals', 'NBA Finals'])]
@@ -254,21 +253,49 @@ table_schedule = table_schedule.drop([3, 4, 5], axis=1)
 
 final_schedule = table_schedule
 
-final_schedule.columns = final_schedule.iloc[0]
-final_schedule = final_schedule.drop([1])
 
+
+if len(table_schedule) > 1:
+    duplicatedValues = table_schedule.duplicated(subset=[0,1])    
+else:
+    pass 
+numRows = 0
+for i in range(len(table_schedule)):
+    if duplicatedValues[i]:
+        break
+    else:
+        numRows = numRows+1
+        
+table_schedule_playedGames = table_schedule[0:numRows]
+table_schedule_playedGames.columns = table_schedule_playedGames.iloc[0]
+table_schedule_playedGames = table_schedule_playedGames.reset_index()
+table_schedule_playedGames = table_schedule_playedGames.drop([0], axis=0)
+table_schedule_toBePlayed = table_schedule[numRows:]
+table_schedule_toBePlayed = table_schedule_toBePlayed.reset_index()
+table_schedule_toBePlayed.columns = table_schedule_toBePlayed.iloc[0]
+table_schedule_toBePlayed = table_schedule_toBePlayed.drop([0], axis=0)
+
+boleeanPlayed = table_schedule_playedGames['DATE'].str.contains(month)
+
+boleeanToBePlayed = table_schedule_toBePlayed['DATE'].str.contains(month)
+
+finaltable_schedule_playedGames = table_schedule_playedGames[boleeanPlayed]
+finaltable_schedule_toBePlayed = table_schedule_toBePlayed[boleeanToBePlayed]
+
+finaltable_schedule_playedGames = finaltable_schedule_playedGames[['DATE', 'OPPONENT','RESULT']]
+finaltable_schedule_toBePlayed = finaltable_schedule_toBePlayed[['DATE', 'OPPONENT','TIME']]
+final_schedule = pd.concat([finaltable_schedule_playedGames, finaltable_schedule_toBePlayed], axis=0, ignore_index=True)
 final_schedule = final_schedule.fillna('')
+final_schedule['RESULT'] = final_schedule['RESULT'].replace('W', 'W ', regex=True)
+final_schedule['RESULT'] = final_schedule['RESULT'].replace('L', 'L ', regex=True)
 
 pre_split =  final_schedule['OPPONENT'].str.split('(?=[A-Z])').str[0]
 
 final_schedule['OPPONENT'] = final_schedule['OPPONENT'].str.split(r'vs |@ ').str[1]
-
 final_schedule_new = final_schedule.copy()
 final_schedule_old = final_schedule.copy()
 final_schedule_new = final_schedule_new.replace({'OPPONENT':LUT_Teams_newRed})
 final_schedule_old = final_schedule_old.replace({'OPPONENT':LUT_Teams_oldRed})
-final_schedule_new['OPPONENT'] = pre_split+final_schedule_new['OPPONENT']
-final_schedule_old['OPPONENT'] = pre_split+final_schedule_old['OPPONENT']
 
 final_schedule_new.to_markdown('outputs/new_schedule.md', stralign='center',numalign='center',index=False)
 final_schedule_old.to_markdown('outputs/old_schedule.md', stralign='center',numalign='center',index=False)
