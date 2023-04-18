@@ -236,6 +236,104 @@ allStats_df = allStats_df.replace({'Name':dict_lookup})
 
 allStats_df.to_markdown('outputs/roster.md',stralign='center', numalign='center',index=False)
 
+#Roster playoffs
+roster_url = 'https://www.espn.com/nba/team/roster/_/name/bos/boston-celtics'
+
+table_roster_init = pd.read_html(roster_url)[0]
+table_roster_links_init = pd.read_html(roster_url,extract_links='body')[0] 
+table_roster_links = table_roster_links_init['Name']
+names = []
+espn_links = []
+for i in range(len(table_roster_links)):
+    names.append(table_roster_links[i][0])
+    espn_links.append(str(table_roster_links[i][1]))
+names = remove(names)
+table_roster_dropped = (table_roster_init.copy())
+
+name_link_dict = {}
+
+for i in range(len(table_roster_links)):
+    name_link_dict[names[i]] = espn_links[i]
+    
+
+table_roster_dropped = table_roster_dropped.drop(['Unnamed: 0'], axis=1)
+table_roster_dropped['Salary'] = table_roster_dropped['Salary'].str.replace('$', '',regex=True)
+table_roster_dropped['Salary'] = table_roster_dropped['Salary'].str.replace('--', '0',regex=True)
+table_roster_dropped['Salary'] = table_roster_dropped['Salary'].str.replace(',', '', regex=True)
+table_roster_dropped['Salary'] = table_roster_dropped['Salary'].astype(int)
+table_roster_dropped['Salary'] = table_roster_dropped['Salary'].replace(0, np.nan)
+table_roster_dropped.sort_values(by='Salary', inplace=True, ascending=False)
+table_roster_dropped['Salary'] = table_roster_dropped['Salary'].div(1e6).round(decimals=1)
+table_roster_dropped['Name'] = table_roster_dropped['Name'].str.replace('\d+', '',regex=True)
+table_roster_dropped = table_roster_dropped.reset_index(drop=True)
+
+
+
+outputRoster = []
+
+for i in range(len(table_roster_dropped)):
+    nameAndLink = '[' + table_roster_dropped['Name'][i].split(' ',1)[1] +']('+name_link_dict[table_roster_dropped['Name'][i]]+')'
+    tempSalary = str(table_roster_dropped['Salary'][i]) + 'M'
+    outputRoster.append(
+        {
+            'Name':nameAndLink,
+            'Age':table_roster_dropped['Age'][i],
+            'Salary': tempSalary
+        }
+    )
+
+outputRoster_df = pd.DataFrame(outputRoster)
+
+
+allStats = []
+for index, row in table_roster_dropped.iterrows():
+    #print(row)
+    dataread = pd.read_html(name_link_dict[row['Name']])
+    if len(dataread)>1:
+        
+        if 'GP' in dataread[2].columns and dataread[2].iloc[1]['GP'] != '-' and dataread[2].iloc[1]['GP'] <28:
+            allStats.append(
+                {   
+                    'Name':row['Name'],
+                    'PPG':dataread[2]['PTS'][1],
+                    'FG%':dataread[2]['FG%'][1],
+                    '3P%':dataread[2]['3P%'][1],
+                    'RBG': dataread[2]['REB'][1],
+                    'APG': dataread[2]['AST'][1],
+                    'STOCK':(dataread[2]['BLK'][1]+dataread[2]['STL'][1])
+                    })
+        else:
+            
+            allStats.append({   
+                'Name':row['Name'],
+                'PPG':np.nan,
+                'FG%':np.nan,
+                '3P%':np.nan,
+                'RBG':np.nan,
+                'APG':np.nan,
+                'STOCK':(np.nan)
+                })
+    else:
+        allStats.append({   
+            'Name':row['Name'],
+            'PPG':np.nan,
+            'FG%':np.nan,
+            '3P%':np.nan,
+            'RBG':np.nan,
+            'APG':np.nan,
+            'STOCK':(np.nan)
+            })
+        
+
+
+
+allStats_df = pd.DataFrame(allStats)
+dict_lookup = dict(zip(allStats_df['Name'], outputRoster_df['Name']))
+allStats_df = allStats_df.replace({'Name':dict_lookup})
+
+allStats_df.to_markdown('outputs/rosterPlayoffs.md',stralign='center', numalign='center',index=False)
+
+
 #Schedule
 
 month = datetime.today().strftime('%b')
@@ -354,10 +452,12 @@ f = open("outputs/standings_old.md", "r")
 oldStandingVar = f.read()+'\n\n'+updateTime
 f = open("outputs/roster.md", "r")
 oldRosterVar = f.read() +'\n\n'+updateTime
+f = open("outputs/rosterPlayoffs.md", "r")
+rosterPlayoffs = f.read() +'\n\n'+updateTime
 f = open("outputs/restOfSidebar.md", "r")
 restOfOldReddit = f.read()
 
-oldSidebar = '#Schedule \n\n' + oldScheduleVar + '\n\n#Regular Season Stats \n\n' + oldRosterVar + '\n\n#Standings \n\n' + oldStandingVar + '\n\n' + restOfOldReddit
+oldSidebar = '#Schedule \n\n' + oldScheduleVar + '\n\n#Playoffs Stats \n\n'+rosterPlayoffs+'\n\n#Regular Season Stats \n\n' + oldRosterVar + '\n\n#Standings \n\n' + oldStandingVar + '\n\n' + restOfOldReddit
 
 
 
@@ -379,10 +479,13 @@ f = open("outputs/standings_new.md", "r")
 newStandingsVar = f.read()+'\n\n'+updateTime
 f = open("outputs/roster.md", "r")
 newRosterVar = f.read() +'\n\n'+updateTime
+f = open("outputs/rosterPlayoffs.md", "r")
+newRosterPlayoffs = f.read() +'\n\n'+updateTime
 
 schedule = widgets.sidebar[1]
-standings = widgets.sidebar[3]
-roster = widgets.sidebar[2]
+standings = widgets.sidebar[4]
+rosterNewPlayoffs = widgets.sidebar[2]
+roster = widgets.sidebar[3]
 
 styles = {"backgroundColor": "#edeff1", "headerColor": "#349e48"}
 schedule.mod.update(
@@ -396,7 +499,11 @@ standings.mod.update(
 
 styles = {"backgroundColor": "#edeff1", "headerColor": "#349e48"}
 roster.mod.update(
-    short_name="Player Stats", text=newRosterVar, styles=styles
+    short_name="Regular Season Stats", text=newRosterVar, styles=styles
+    )
+styles = {"backgroundColor": "#edeff1", "headerColor": "#349e48"}
+rosterNewPlayoffs.mod.update(
+    short_name="Playoff Stats", text=newRosterPlayoffs, styles=styles
     )
 
 sidebar = bostonceltics.wiki["config/sidebar"]
