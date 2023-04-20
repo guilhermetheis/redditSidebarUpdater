@@ -203,7 +203,7 @@ for index, row in table_roster_dropped.iterrows():
                     '3P%':dataread[2]['3P%'][0],
                     'RBG': dataread[2]['REB'][0],
                     'APG': dataread[2]['AST'][0],
-                    'STOCK':(dataread[2]['BLK'][0]+dataread[2]['STL'][0])
+                    'STOCK':(float(dataread[2]['BLK'][0])+float(dataread[2]['STL'][0]))
                     })
         else:
             
@@ -300,7 +300,7 @@ for index, row in table_roster_dropped.iterrows():
                     '3P%':dataread[2]['3P%'][1],
                     'RBG': dataread[2]['REB'][1],
                     'APG': dataread[2]['AST'][1],
-                    'STOCK':(dataread[2]['BLK'][1]+dataread[2]['STL'][1])
+                    'STOCK':(float(dataread[2]['BLK'][1])+float(dataread[2]['STL'][1]))
                     })
         else:
             
