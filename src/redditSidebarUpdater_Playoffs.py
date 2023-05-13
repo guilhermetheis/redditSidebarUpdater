@@ -337,9 +337,10 @@ table_schedule = table_schedule.drop([3, 4, 5], axis=1)
 
 
 final_schedule = table_schedule
+final_schedule = final_schedule.drop_duplicates()
+final_schedule = final_schedule.reset_index(drop=True)
 
-
-duplicatedValues = table_schedule.duplicated(subset=[0,1])    
+duplicatedValues = final_schedule.duplicated(subset=[0,1])    
 duplicatedValues =duplicatedValues.reset_index(drop=True)
 
 numRows = 0
@@ -349,11 +350,11 @@ for i in range(len(table_schedule)):
     else:
         numRows = numRows+1
         
-table_schedule_playedGames = table_schedule[0:numRows+1]
+table_schedule_playedGames = final_schedule[0:numRows+1]
 table_schedule_playedGames.columns = table_schedule_playedGames.iloc[0]
 table_schedule_playedGames = table_schedule_playedGames.reset_index()
 table_schedule_playedGames = table_schedule_playedGames.drop([0], axis=0)
-table_schedule_toBePlayed = table_schedule[numRows+1:]
+table_schedule_toBePlayed = final_schedule[numRows+1:]
 table_schedule_toBePlayed = table_schedule_toBePlayed.reset_index()
 table_schedule_toBePlayed.columns = table_schedule_toBePlayed.iloc[0]
 table_schedule_toBePlayed = table_schedule_toBePlayed.drop([0], axis=0)
