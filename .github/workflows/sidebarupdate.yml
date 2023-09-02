@@ -28,4 +28,12 @@ jobs:
           API_CLIENT: ${{ secrets.API_CLIENT }}
         run: |
           pip install -r src/requirements.txt
-          python src/redditSidebarUpdater_Playoffs.py
+          python src/redditSidebarUpdater.py
+          
+      - name: Commit scrapping
+        run: |
+          git config --global user.name 'guilhermetheis'
+          git config --global user.email 'guilhermetheis15@gmail.com'
+          git add .
+          git commit -am "Update the markdown"
+          git push
