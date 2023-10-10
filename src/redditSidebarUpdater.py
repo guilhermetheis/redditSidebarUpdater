@@ -205,26 +205,6 @@ allStats = []
 for index, row in table_roster_dropped.iterrows():
     #print(row)
     dataread = pd.read_html(name_link_dict[row['Name']])
-    if len(dataread)>1:
-        
-        if 'GP' in dataread[2].columns and row['Name'] != "Danilo Gallinari":
-            allStats.append(
-                {   
-                    'Name':row['Name'],
-                    'PPG':dataread[2]['PTS'][0],
-                    'FG%':dataread[2]['FG%'][0],
-                    '3P%':dataread[2]['3P%'][0],
-                    'RBG': dataread[2]['REB'][0],
-                    'APG': dataread[2]['AST'][0],
-                    'STOCK':(float(dataread[2]['BLK'][0])+float(dataread[2]['STL'][0]))
-                    })
-        else:
-            
-            pass
-    else:
-        pass
-        
-
 
         
 
