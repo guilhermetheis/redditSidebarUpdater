@@ -4,9 +4,9 @@
 | [](/r/orlandomagic) Magic        |  2  |  0  | 1.000 | 0.500 |
 | [](/r/washingtonwizards) Wizards |  2  |  0  | 1.000 | 0.500 |
 | [](/r/torontoraptors) Raptors    |  1  |  0  | 1.000 | 1.000 |
-| [](/r/nyknicks) Knicks           |  1  |  0  | 1.000 | 1.000 |
 | [](/r/bostonceltics) Celtics     |  2  |  1  | 0.667 | 1.000 |
 | [](/r/mkebucks) Bucks            |  1  |  1  | 0.500 | 1.500 |
+| [](/r/nyknicks) Knicks           |  1  |  1  | 0.500 | 1.500 |
 | [](/r/gonets) Nets               |  1  |  1  | 0.500 | 1.500 |
 | [](/r/chicagobulls) Bulls        |  1  |  1  | 0.500 | 1.500 |
 | [](/r/detroitpistons) Pistons    |  1  |  1  | 0.500 | 1.500 |
