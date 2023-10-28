@@ -1,5 +1,5 @@
 |    DATE     |          OPPONENT          |  RESULT   |  TIME   |
 |:-----------:|:--------------------------:|:---------:|:-------:|
 | Wed, Oct 25 |     @ [](/r/nyknicks)      | W 108-104 |         |
-| Fri, Oct 27 |       vs [](/r/heat)       |           | 7:30 PM |
+| Fri, Oct 27 |       vs [](/r/heat)       |           |  LIVE   |
 | Mon, Oct 30 | @ [](/r/washingtonwizards) |           | 7:00 PM |
