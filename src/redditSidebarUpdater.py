@@ -185,18 +185,17 @@ table_roster_dropped = table_roster_dropped.reset_index(drop=True)
 outputRoster = []
 
 for i in range(len(table_roster_dropped)):
-    if "Gallinari" in table_roster_dropped['Name'][i]:
-        pass
-    else:
-        nameAndLink = '[' + table_roster_dropped['Name'][i].split(' ',1)[1] +']('+name_link_dict[table_roster_dropped['Name'][i]]+')'
-        tempSalary = str(table_roster_dropped['Salary'][i]) + 'M'
-        outputRoster.append(
-            {
-                'Name':nameAndLink,
-                'Age':table_roster_dropped['Age'][i],
-                'Salary': tempSalary
-            }
-        )
+ 
+    nameAndLink = '[' + table_roster_dropped['Name'][i].split(
+        ' ', 1)[1] + ']('+name_link_dict[table_roster_dropped['Name'][i]]+')'
+    tempSalary = str(table_roster_dropped['Salary'][i]) + 'M'
+    outputRoster.append(
+        {
+            'Name': nameAndLink,
+            'Age': table_roster_dropped['Age'][i],
+            'Salary': tempSalary
+        }
+    )
 
 outputRoster_df = pd.DataFrame(outputRoster)
 
@@ -205,14 +204,47 @@ allStats = []
 for index, row in table_roster_dropped.iterrows():
     #print(row)
     dataread = pd.read_html(name_link_dict[row['Name']])
-
+    if len(dataread)>1:
+        
+        if 'GP' in dataread[2].columns:
+            allStats.append(
+                {   
+                    'Name':row['Name'],
+                    'PPG':dataread[2]['PTS'][0],
+                    'FG%':dataread[2]['FG%'][0],
+                    '3P%':dataread[2]['3P%'][0],
+                    'RBG': dataread[2]['REB'][0],
+                    'APG': dataread[2]['AST'][0],
+                    'STOCK':(dataread[2]['BLK'][0]+dataread[2]['STL'][0])
+                    })
+        else:
+            
+            allStats.append({   
+                'Name':row['Name'],
+                'PPG':np.nan,
+                'FG%':np.nan,
+                '3P%':np.nan,
+                'RBG':np.nan,
+                'APG':np.nan,
+                'STOCK':(np.nan)
+                })
+    else:
+        allStats.append({   
+            'Name':row['Name'],
+            'PPG':np.nan,
+            'FG%':np.nan,
+            '3P%':np.nan,
+            'RBG':np.nan,
+            'APG':np.nan,
+            'STOCK':(np.nan)
+            })
         
 
 
 
 allStats_df = pd.DataFrame(allStats)
-for index,row in allStats_df.iterrows():
-    allStats_df['Name'][index] = outputRoster_df['Name'][check_string(row['Name'], outputRoster_df['Name'])]
+dict_lookup = dict(zip(allStats_df['Name'], outputRoster_df['Name']))
+allStats_df = allStats_df.replace({'Name':dict_lookup})
 
 allStats_df.to_markdown('outputs/roster.md',stralign='center', numalign='center',index=False)
 
