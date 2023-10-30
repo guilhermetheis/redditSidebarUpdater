@@ -1,0 +1,19 @@
+|                                     Name                                     |  PPG  |  FG%  |  3P%  |  RBG  |  APG  |  STOCK  |
+|:----------------------------------------------------------------------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|      [Holiday](https://www.espn.com/nba/player/_/id/3995/jrue-holiday)       |  13   | 47.8  | 22.2  |   7   |  4.5  |    2    |
+| [Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | 23.5  | 51.9  | 46.7  |  8.5  |  0.5  |    4    |
+|      [Tatum](https://www.espn.com/nba/player/_/id/4065648/jayson-tatum)      |  28   |  50   | 33.3  |  9.5  |  4.5  |    2    |
+|      [Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown)      |  19   | 45.5  | 27.3  |   6   |   3   |   1.5   |
+|     [White](https://www.espn.com/nba/player/_/id/3078576/derrick-white)      |  20   | 61.9  |  60   |   6   |  2.5  |   3.5   |
+|       [Horford](https://www.espn.com/nba/player/_/id/3213/al-horford)        |   4   |  30   |  40   |  8.5  |   2   |   0.5   |
+|  [Pritchard](https://www.espn.com/nba/player/_/id/4066354/payton-pritchard)  |  3.5  |  40   |  25   |  0.5  |   1   |    0    |
+|      [Kornet](https://www.espn.com/nba/player/_/id/3064560/luke-kornet)      |   0   |   0   |   0   |   1   |   2   |    1    |
+|   [Brissett](https://www.espn.com/nba/player/_/id/4278031/oshae-brissett)    |   2   |  50   |   0   |   5   |   0   |    0    |
+|     [Banton](https://www.espn.com/nba/player/_/id/4397885/dalano-banton)     |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
+|  [Mykhailiuk](https://www.espn.com/nba/player/_/id/3133602/svi-mykhailiuk)   |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
+|     [Queta](https://www.espn.com/nba/player/_/id/4397424/neemias-queta)      |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
+|    [Stevens](https://www.espn.com/nba/player/_/id/4066405/lamar-stevens)     |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
+|      [Hauser](https://www.espn.com/nba/player/_/id/4065804/sam-hauser)       |  1.5  | 16.7  | 16.7  |  1.5  |   0   |    1    |
+|      [Walsh](https://www.espn.com/nba/player/_/id/4683689/jordan-walsh)      |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
+|      [Davison](https://www.espn.com/nba/player/_/id/4576085/jd-davison)      |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
+|     [Knight](https://www.espn.com/nba/player/_/id/4067325/nathan-knight)     |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
