@@ -2,4 +2,4 @@
 |:-----------:|:---------------------------------:|:---------:|:------:|
 | Wed, Oct 25 |      @ [Knicks](/r/NYKnicks)      | W 108-104 |        |
 | Fri, Oct 27 |        vs [Heat](/r/heat)         | W 119-111 |        |
-| Mon, Oct 30 | @ [Wizards](/r/washingtonwizards) |           |  LIVE  |
+| Mon, Oct 30 | @ [Wizards](/r/washingtonwizards) | W 126-107 |        |
