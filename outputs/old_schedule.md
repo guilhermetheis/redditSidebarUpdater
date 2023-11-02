@@ -1,6 +1,6 @@
 |    DATE     |         OPPONENT          |  RESULT  |  TIME   |
 |:-----------:|:-------------------------:|:--------:|:-------:|
-| Wed, Nov 1  |     vs [](/r/pacers)      |          | 7:30 PM |
+| Wed, Nov 1  |     vs [](/r/pacers)      |          |  LIVE   |
 | Sat, Nov 4  |      @ [](/r/gonets)      |          | 8:00 PM |
 | Mon, Nov 6  |   @ [](/r/timberwolves)   |          | 8:00 PM |
 | Wed, Nov 8  |      @ [](/r/sixers)      |          | 7:00 PM |
