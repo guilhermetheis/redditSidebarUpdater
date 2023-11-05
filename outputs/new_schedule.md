@@ -1,7 +1,7 @@
 |    DATE     |             OPPONENT             |  RESULT   |  TIME   |
 |:-----------:|:--------------------------------:|:---------:|:-------:|
 | Wed, Nov 1  |      vs [Pacers](/r/pacers)      | W 155-104 |         |
-| Sat, Nov 4  |       @ [Nets](/r/GoNets)        |           | 8:00 PM |
+| Sat, Nov 4  |       @ [Nets](/r/GoNets)        |           |  LIVE   |
 | Mon, Nov 6  |   @ [Wolves](/r/timberwolves)    |           | 8:00 PM |
 | Wed, Nov 8  |      @ [Philly](/r/sixers)       |           | 7:00 PM |
 | Fri, Nov 10 |       vs [Nets](/r/GoNets)       |           | 7:30 PM |

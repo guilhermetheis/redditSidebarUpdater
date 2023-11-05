@@ -1,7 +1,7 @@
 | Team                             |  W  |  L  |  W%   |  GB   |
 |:---------------------------------|:---:|:---:|:-----:|:-----:|
 | [](/r/bostonceltics) Celtics     |  4  |  0  | 1.000 | 0.000 |
-| [](/r/sixers) Philly             |  3  |  1  | 0.750 | 1.000 |
+| [](/r/sixers) Philly             |  4  |  1  | 0.800 | 0.500 |
 | [](/r/atlantahawks) Hawks        |  3  |  2  | 0.600 | 1.500 |
 | [](/r/gonets) Nets               |  3  |  2  | 0.600 | 1.500 |
 | [](/r/mkebucks) Bucks            |  3  |  2  | 0.600 | 1.500 |
