@@ -5,7 +5,7 @@
 | Mon, Nov 6  |   @ [Wolves](/r/timberwolves)    | L 114-109 OT |         |
 | Wed, Nov 8  |      @ [Philly](/r/sixers)       |  L 106-103   |         |
 | Fri, Nov 10 |       vs [Nets](/r/GoNets)       |  W 121-107   |         |
-| Sat, Nov 11 | vs [Raptors](/r/torontoraptors)  |              | 7:00 PM |
+| Sat, Nov 11 | vs [Raptors](/r/torontoraptors)  |              |  LIVE   |
 | Mon, Nov 13 |     vs [Knicks](/r/NYKnicks)     |              | 7:30 PM |
 | Wed, Nov 15 |      @ [Philly](/r/sixers)       |              | 7:30 PM |
 | Fri, Nov 17 |  @ [Raptors](/r/torontoraptors)  |              | 7:30 PM |
