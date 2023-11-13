@@ -6,12 +6,12 @@
 | [Heat](/r/heat)                 |  5  |  4  | 0.556 | 2.500 |
 | [Hawks](/r/AtlantaHawks)        |  5  |  4  | 0.556 | 2.500 |
 | [Magic](/r/OrlandoMagic)        |  5  |  4  | 0.556 | 2.500 |
+| [Knicks](/r/NYKnicks)           |  5  |  4  | 0.556 | 2.500 |
 | [Bucks](/r/MkeBucks)            |  5  |  4  | 0.556 | 2.500 |
-| [Knicks](/r/NYKnicks)           |  4  |  4  | 0.500 | 3.000 |
-| [Cavs](/r/clevelandcavs)        |  4  |  5  | 0.444 | 3.500 |
+| [Nets](/r/GoNets)               |  5  |  5  | 0.500 | 3.000 |
 | [Raptors](/r/torontoraptors)    |  4  |  5  | 0.444 | 3.500 |
-| [Nets](/r/GoNets)               |  4  |  5  | 0.444 | 3.500 |
-| [Hornets](/r/CharlotteHornets)  |  3  |  5  | 0.375 | 4.000 |
+| [Cavs](/r/clevelandcavs)        |  4  |  5  | 0.444 | 3.500 |
 | [Bulls](/r/chicagobulls)        |  3  |  6  | 0.333 | 4.500 |
-| [Wizards](/r/washingtonwizards) |  2  |  6  | 0.250 | 5.000 |
+| [Hornets](/r/CharlotteHornets)  |  3  |  6  | 0.333 | 4.500 |
+| [Wizards](/r/washingtonwizards) |  2  |  7  | 0.222 | 5.500 |
 | [Pistons](/r/DetroitPistons)    |  2  |  8  | 0.200 | 6.000 |
