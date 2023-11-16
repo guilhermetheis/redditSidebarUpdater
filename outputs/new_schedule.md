@@ -7,7 +7,7 @@
 | Fri, Nov 10 |       vs [Nets](/r/GoNets)       |  W 121-107   |         |
 | Sat, Nov 11 | vs [Raptors](/r/torontoraptors)  |   W 117-94   |         |
 | Mon, Nov 13 |     vs [Knicks](/r/NYKnicks)     |   W 114-98   |         |
-| Wed, Nov 15 |      @ [Philly](/r/sixers)       |              | 7:30 PM |
+| Wed, Nov 15 |      @ [Philly](/r/sixers)       |  W 117-107   |         |
 | Fri, Nov 17 |  @ [Raptors](/r/torontoraptors)  |              | 7:30 PM |
 | Sun, Nov 19 | @ [Memphis](/r/memphisgrizzlies) |              | 8:00 PM |
 | Mon, Nov 20 | @ [Hornets](/r/CharlotteHornets) |              | 7:00 PM |
