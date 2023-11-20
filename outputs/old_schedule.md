@@ -9,7 +9,7 @@
 | Mon, Nov 13 |    vs [](/r/nyknicks)     |   W 114-98   |         |
 | Wed, Nov 15 |      @ [](/r/sixers)      |  W 117-107   |         |
 | Fri, Nov 17 |  @ [](/r/torontoraptors)  |  W 108-105   |         |
-| Sun, Nov 19 | @ [](/r/memphisgrizzlies) |              | 8:00 PM |
+| Sun, Nov 19 | @ [](/r/memphisgrizzlies) |  W 102-100   |         |
 | Mon, Nov 20 | @ [](/r/charlottehornets) |              | 7:00 PM |
 | Wed, Nov 22 |    vs [](/r/mkebucks)     |              | 7:30 PM |
 | Fri, Nov 24 |   @ [](/r/orlandomagic)   |              | 2:30 PM |
