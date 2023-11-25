@@ -12,6 +12,6 @@
 | Sun, Nov 19 | @ [Memphis](/r/memphisgrizzlies) |  W 102-100   |         |
 | Mon, Nov 20 | @ [Hornets](/r/CharlotteHornets) | L 121-118 OT |         |
 | Wed, Nov 22 |     vs [Bucks](/r/MkeBucks)      |  W 119-116   |         |
-| Fri, Nov 24 |    @ [Magic](/r/OrlandoMagic)    |              | 2:30 PM |
+| Fri, Nov 24 |    @ [Magic](/r/OrlandoMagic)    |   L 113-96   |         |
 | Sun, Nov 26 |   vs [Hawks](/r/AtlantaHawks)    |              | 6:00 PM |
 | Tue, Nov 28 |   vs [Bulls](/r/chicagobulls)    |              | 7:30 PM |
