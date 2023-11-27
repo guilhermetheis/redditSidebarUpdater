@@ -13,5 +13,5 @@
 | Mon, Nov 20 | @ [](/r/charlottehornets) | L 121-118 OT |         |
 | Wed, Nov 22 |    vs [](/r/mkebucks)     |  W 119-116   |         |
 | Fri, Nov 24 |   @ [](/r/orlandomagic)   |   L 113-96   |         |
-| Sun, Nov 26 |  vs [](/r/atlantahawks)   |              | 6:00 PM |
+| Sun, Nov 26 |  vs [](/r/atlantahawks)   |              |  LIVE   |
 | Tue, Nov 28 |  vs [](/r/chicagobulls)   |              | 7:30 PM |

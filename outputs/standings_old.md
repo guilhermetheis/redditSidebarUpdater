@@ -1,8 +1,8 @@
 | Team                             |  W  |  L  |  W%   |   GB   |
 |:---------------------------------|:---:|:---:|:-----:|:------:|
 | [](/r/bostonceltics) Celtics     | 12  |  4  | 0.750 | 0.000  |
+| [](/r/mkebucks) Bucks            | 12  |  5  | 0.706 | 0.500  |
 | [](/r/orlandomagic) Magic        | 11  |  5  | 0.688 | 1.000  |
-| [](/r/mkebucks) Bucks            | 11  |  5  | 0.688 | 1.000  |
 | [](/r/sixers) Philly             | 11  |  5  | 0.688 | 1.000  |
 | [](/r/nyknicks) Knicks           |  9  |  6  | 0.600 | 2.500  |
 | [](/r/pacers) Pacers             |  9  |  6  | 0.600 | 2.500  |
