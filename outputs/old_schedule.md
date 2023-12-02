@@ -1,15 +1,15 @@
-|    DATE     |         OPPONENT         |  RESULT  |   TIME   |
-|:-----------:|:------------------------:|:--------:|:--------:|
-| Fri, Dec 1  |     vs [](/r/sixers)     |          | 7:30 PM  |
-| Mon, Dec 4  |     @ [](/r/pacers)      |          | 7:30 PM  |
-| Tue, Dec 12 | vs [](/r/clevelandcavs)  |          | 7:30 PM  |
-| Thu, Dec 14 | vs [](/r/clevelandcavs)  |          | 7:30 PM  |
-| Fri, Dec 15 |  vs [](/r/orlandomagic)  |          | 7:30 PM  |
-| Sun, Dec 17 |  vs [](/r/orlandomagic)  |          | 3:00 PM  |
-| Tue, Dec 19 |    @ [](/r/warriors)     |          | 10:00 PM |
-| Wed, Dec 20 |      @ [](/r/kings)      |          | 10:00 PM |
-| Sat, Dec 23 |   @ [](/r/laclippers)    |          | 3:30 PM  |
-| Mon, Dec 25 |     @ [](/r/lakers)      |          | 5:00 PM  |
-| Thu, Dec 28 | vs [](/r/detroitpistons) |          | 7:30 PM  |
-| Fri, Dec 29 | vs [](/r/torontoraptors) |          | 7:30 PM  |
-| Sun, Dec 31 |    @ [](/r/nbaspurs)     |          | 7:00 PM  |
+|    DATE     |         OPPONENT         |  RESULT   |   TIME   |
+|:-----------:|:------------------------:|:---------:|:--------:|
+| Fri, Dec 1  |     vs [](/r/sixers)     | W 125-119 |          |
+| Mon, Dec 4  |     @ [](/r/pacers)      |           | 7:30 PM  |
+| Tue, Dec 12 | vs [](/r/clevelandcavs)  |           | 7:30 PM  |
+| Thu, Dec 14 | vs [](/r/clevelandcavs)  |           | 7:30 PM  |
+| Fri, Dec 15 |  vs [](/r/orlandomagic)  |           | 7:30 PM  |
+| Sun, Dec 17 |  vs [](/r/orlandomagic)  |           | 3:00 PM  |
+| Tue, Dec 19 |    @ [](/r/warriors)     |           | 10:00 PM |
+| Wed, Dec 20 |      @ [](/r/kings)      |           | 10:00 PM |
+| Sat, Dec 23 |   @ [](/r/laclippers)    |           | 3:30 PM  |
+| Mon, Dec 25 |     @ [](/r/lakers)      |           | 5:00 PM  |
+| Thu, Dec 28 | vs [](/r/detroitpistons) |           | 7:30 PM  |
+| Fri, Dec 29 | vs [](/r/torontoraptors) |           | 7:30 PM  |
+| Sun, Dec 31 |    @ [](/r/nbaspurs)     |           | 7:00 PM  |
