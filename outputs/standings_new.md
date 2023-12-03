@@ -11,7 +11,7 @@
 | [Hawks](/r/AtlantaHawks)        |  9  |  9  | 0.500 | 5.500  |
 | [Nets](/r/GoNets)               |  9  |  9  | 0.500 | 5.500  |
 | [Raptors](/r/torontoraptors)    |  9  | 11  | 0.450 | 6.500  |
-| [Hornets](/r/CharlotteHornets)  |  6  | 11  | 0.353 | 8.000  |
+| [Hornets](/r/CharlotteHornets)  |  6  | 12  | 0.333 | 8.500  |
 | [Bulls](/r/chicagobulls)        |  6  | 14  | 0.300 | 9.500  |
 | [Wizards](/r/washingtonwizards) |  3  | 16  | 0.158 | 12.000 |
 | [Pistons](/r/DetroitPistons)    |  2  | 17  | 0.105 | 13.000 |
