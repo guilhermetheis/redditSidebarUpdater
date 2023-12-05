@@ -1,7 +1,7 @@
 |    DATE     |         OPPONENT         |  RESULT   |   TIME   |
 |:-----------:|:------------------------:|:---------:|:--------:|
 | Fri, Dec 1  |     vs [](/r/sixers)     | W 125-119 |          |
-| Mon, Dec 4  |     @ [](/r/pacers)      |           | 7:30 PM  |
+| Mon, Dec 4  |     @ [](/r/pacers)      | L 122-112 |          |
 | Tue, Dec 12 | vs [](/r/clevelandcavs)  |           | 7:30 PM  |
 | Thu, Dec 14 | vs [](/r/clevelandcavs)  |           | 7:30 PM  |
 | Fri, Dec 15 |  vs [](/r/orlandomagic)  |           | 7:30 PM  |
