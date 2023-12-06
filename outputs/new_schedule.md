@@ -2,6 +2,7 @@
 |:-----------:|:-------------------------------:|:---------:|:--------:|
 | Fri, Dec 1  |     vs [Philly](/r/sixers)      | W 125-119 |          |
 | Mon, Dec 4  |      @ [Pacers](/r/pacers)      | L 122-112 |          |
+| Fri, Dec 8  |    vs [Knicks](/r/NYKnicks)     |           | 7:30 PM  |
 | Tue, Dec 12 |   vs [Cavs](/r/clevelandcavs)   |           | 7:30 PM  |
 | Thu, Dec 14 |   vs [Cavs](/r/clevelandcavs)   |           | 7:30 PM  |
 | Fri, Dec 15 |   vs [Magic](/r/OrlandoMagic)   |           | 7:30 PM  |

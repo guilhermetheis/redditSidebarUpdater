@@ -2,6 +2,7 @@
 |:-----------:|:------------------------:|:---------:|:--------:|
 | Fri, Dec 1  |     vs [](/r/sixers)     | W 125-119 |          |
 | Mon, Dec 4  |     @ [](/r/pacers)      | L 122-112 |          |
+| Fri, Dec 8  |    vs [](/r/nyknicks)    |           | 7:30 PM  |
 | Tue, Dec 12 | vs [](/r/clevelandcavs)  |           | 7:30 PM  |
 | Thu, Dec 14 | vs [](/r/clevelandcavs)  |           | 7:30 PM  |
 | Fri, Dec 15 |  vs [](/r/orlandomagic)  |           | 7:30 PM  |
