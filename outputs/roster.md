@@ -16,4 +16,3 @@
 |      [Hauser](https://www.espn.com/nba/player/_/id/4065804/sam-hauser)       |  9.6  | 45.9  | 43.5  |  3.6  |  0.9  |   0.9   |
 |      [Walsh](https://www.espn.com/nba/player/_/id/4683689/jordan-walsh)      |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
 |      [Davison](https://www.espn.com/nba/player/_/id/4576085/jd-davison)      |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
-|     [Knight](https://www.espn.com/nba/player/_/id/4067325/nathan-knight)     |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
