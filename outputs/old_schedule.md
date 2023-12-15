@@ -4,7 +4,7 @@
 | Mon, Dec 4  |     @ [](/r/pacers)      | L 122-112 |          |
 | Fri, Dec 8  |    vs [](/r/nyknicks)    | W 133-123 |          |
 | Tue, Dec 12 | vs [](/r/clevelandcavs)  | W 120-113 |          |
-| Thu, Dec 14 | vs [](/r/clevelandcavs)  |           | 7:30 PM  |
+| Thu, Dec 14 | vs [](/r/clevelandcavs)  | W 116-107 |          |
 | Fri, Dec 15 |  vs [](/r/orlandomagic)  |           | 7:30 PM  |
 | Sun, Dec 17 |  vs [](/r/orlandomagic)  |           | 3:00 PM  |
 | Tue, Dec 19 |    @ [](/r/warriors)     |           | 10:00 PM |
