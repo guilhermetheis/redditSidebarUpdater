@@ -1,7 +1,7 @@
 | Team                            |  W  |  L  |  W%   |   GB   |
 |:--------------------------------|:---:|:---:|:-----:|:------:|
 | [Celtics](/r/bostonceltics)     | 20  |  5  | 0.800 | 0.000  |
-| [Bucks](/r/MkeBucks)            | 18  |  7  | 0.720 | 2.000  |
+| [Bucks](/r/MkeBucks)            | 19  |  7  | 0.731 | 1.500  |
 | [Philly](/r/sixers)             | 18  |  7  | 0.720 | 2.000  |
 | [Magic](/r/OrlandoMagic)        | 16  |  9  | 0.640 | 4.000  |
 | [Heat](/r/heat)                 | 15  | 11  | 0.577 | 5.500  |
@@ -13,5 +13,5 @@
 | [Hawks](/r/AtlantaHawks)        | 10  | 15  | 0.400 | 10.000 |
 | [Bulls](/r/chicagobulls)        | 10  | 17  | 0.370 | 11.000 |
 | [Hornets](/r/CharlotteHornets)  |  7  | 17  | 0.292 | 12.500 |
-| [Wizards](/r/washingtonwizards) |  4  | 20  | 0.167 | 15.500 |
+| [Wizards](/r/washingtonwizards) |  4  | 21  | 0.160 | 16.000 |
 | [Pistons](/r/DetroitPistons)    |  2  | 24  | 0.077 | 18.500 |
