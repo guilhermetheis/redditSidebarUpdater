@@ -6,7 +6,7 @@
 | Tue, Dec 12 |   vs [Cavs](/r/clevelandcavs)   | W 120-113 |          |
 | Thu, Dec 14 |   vs [Cavs](/r/clevelandcavs)   | W 116-107 |          |
 | Fri, Dec 15 |   vs [Magic](/r/OrlandoMagic)   | W 128-111 |          |
-| Sun, Dec 17 |   vs [Magic](/r/OrlandoMagic)   |           | 3:00 PM  |
+| Sun, Dec 17 |   vs [Magic](/r/OrlandoMagic)   | W 114-97  |          |
 | Tue, Dec 19 |    @ [Warriors](/r/warriors)    |           | 10:00 PM |
 | Wed, Dec 20 |       @ [Kings](/r/kings)       |           | 10:00 PM |
 | Sat, Dec 23 |   @ [Clippers](/r/LAClippers)   |           | 3:30 PM  |
