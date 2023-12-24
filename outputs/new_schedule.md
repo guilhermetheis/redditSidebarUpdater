@@ -9,7 +9,7 @@
 | Sun, Dec 17 |   vs [Magic](/r/OrlandoMagic)   |   W 114-97   |         |
 | Tue, Dec 19 |    @ [Warriors](/r/warriors)    | L 132-126 OT |         |
 | Wed, Dec 20 |       @ [Kings](/r/kings)       |  W 144-119   |         |
-| Sat, Dec 23 |   @ [Clippers](/r/LAClippers)   |              | 3:30 PM |
+| Sat, Dec 23 |   @ [Clippers](/r/LAClippers)   |  W 145-108   |         |
 | Mon, Dec 25 |      @ [Lakers](/r/lakers)      |              | 5:00 PM |
 | Thu, Dec 28 | vs [Pistons](/r/DetroitPistons) |              | 7:30 PM |
 | Fri, Dec 29 | vs [Raptors](/r/torontoraptors) |              | 7:30 PM |
