@@ -12,5 +12,5 @@
 | Sat, Dec 23 |   @ [Clippers](/r/LAClippers)   |  W 145-108   |         |
 | Mon, Dec 25 |      @ [Lakers](/r/lakers)      |  W 126-115   |         |
 | Thu, Dec 28 | vs [Pistons](/r/DetroitPistons) | W 128-122 OT |         |
-| Fri, Dec 29 | vs [Raptors](/r/torontoraptors) |              | 7:30 PM |
+| Fri, Dec 29 | vs [Raptors](/r/torontoraptors) |  W 120-118   |         |
 | Sun, Dec 31 |     @ [Spurs](/r/NBASpurs)      |              | 7:00 PM |
