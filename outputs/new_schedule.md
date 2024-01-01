@@ -1,16 +1,18 @@
-|    DATE     |            OPPONENT             |    RESULT    |  TIME   |
-|:-----------:|:-------------------------------:|:------------:|:-------:|
-| Fri, Dec 1  |     vs [Philly](/r/sixers)      |  W 125-119   |         |
-| Mon, Dec 4  |      @ [Pacers](/r/pacers)      |  L 122-112   |         |
-| Fri, Dec 8  |    vs [Knicks](/r/NYKnicks)     |  W 133-123   |         |
-| Tue, Dec 12 |   vs [Cavs](/r/clevelandcavs)   |  W 120-113   |         |
-| Thu, Dec 14 |   vs [Cavs](/r/clevelandcavs)   |  W 116-107   |         |
-| Fri, Dec 15 |   vs [Magic](/r/OrlandoMagic)   |  W 128-111   |         |
-| Sun, Dec 17 |   vs [Magic](/r/OrlandoMagic)   |   W 114-97   |         |
-| Tue, Dec 19 |    @ [Warriors](/r/warriors)    | L 132-126 OT |         |
-| Wed, Dec 20 |       @ [Kings](/r/kings)       |  W 144-119   |         |
-| Sat, Dec 23 |   @ [Clippers](/r/LAClippers)   |  W 145-108   |         |
-| Mon, Dec 25 |      @ [Lakers](/r/lakers)      |  W 126-115   |         |
-| Thu, Dec 28 | vs [Pistons](/r/DetroitPistons) | W 128-122 OT |         |
-| Fri, Dec 29 | vs [Raptors](/r/torontoraptors) |  W 120-118   |         |
-| Sun, Dec 31 |     @ [Spurs](/r/NBASpurs)      |              | 7:00 PM |
+|    DATE     |            OPPONENT            |  RESULT  |  TIME   |
+|:-----------:|:------------------------------:|:--------:|:-------:|
+| Tue, Jan 2  |    @ [Thunder](/r/Thunder)     |          | 8:00 PM |
+| Fri, Jan 5  |     vs [Jazz](/r/UtahJazz)     |          | 7:00 PM |
+| Sat, Jan 6  |     @ [Pacers](/r/pacers)      |          | 7:00 PM |
+| Mon, Jan 8  |     @ [Pacers](/r/pacers)      |          | 7:00 PM |
+| Wed, Jan 10 |  vs [Wolves](/r/timberwolves)  |          | 7:00 PM |
+| Thu, Jan 11 |     @ [Bucks](/r/MkeBucks)     |          | 7:30 PM |
+| Sat, Jan 13 |    vs [Houston](/r/rockets)    |          | 7:00 PM |
+| Mon, Jan 15 | @ [Raptors](/r/torontoraptors) |          | 7:30 PM |
+| Wed, Jan 17 |    vs [Spurs](/r/NBASpurs)     |          | 7:30 PM |
+| Fri, Jan 19 | vs [Denver](/r/denvernuggets)  |          | 7:30 PM |
+| Sun, Jan 21 |    @ [Houston](/r/rockets)     |          | 7:00 PM |
+| Mon, Jan 22 |    @ [Dallas](/r/Mavericks)    |          | 8:30 PM |
+| Thu, Jan 25 |       @ [Heat](/r/heat)        |          | 7:30 PM |
+| Sat, Jan 27 |  vs [Clippers](/r/LAClippers)  |          | 7:00 PM |
+| Mon, Jan 29 | vs [Pelicans](/r/NOLAPelicans) |          | 7:30 PM |
+| Tue, Jan 30 |     vs [Pacers](/r/pacers)     |          | 7:30 PM |

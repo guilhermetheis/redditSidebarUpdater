@@ -10,8 +10,8 @@
 | [](/r/nyknicks) Knicks           | 17  | 15  | 0.531 | 8.500  |
 | [](/r/gonets) Nets               | 15  | 17  | 0.469 | 10.500 |
 | [](/r/chicagobulls) Bulls        | 15  | 19  | 0.441 | 11.500 |
-| [](/r/atlantahawks) Hawks        | 12  | 19  | 0.387 | 13.000 |
+| [](/r/atlantahawks) Hawks        | 13  | 19  | 0.406 | 12.500 |
 | [](/r/torontoraptors) Raptors    | 12  | 20  | 0.375 | 13.500 |
 | [](/r/charlottehornets) Hornets  |  7  | 23  | 0.233 | 17.500 |
-| [](/r/washingtonwizards) Wizards |  6  | 25  | 0.194 | 19.000 |
+| [](/r/washingtonwizards) Wizards |  6  | 26  | 0.188 | 19.500 |
 | [](/r/detroitpistons) Pistons    |  3  | 29  | 0.094 | 22.500 |
