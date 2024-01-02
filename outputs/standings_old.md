@@ -7,7 +7,7 @@
 | [](/r/orlandomagic) Magic        | 19  | 13  | 0.594 | 7.000  |
 | [](/r/clevelandcavs) Cavs        | 18  | 14  | 0.563 | 8.000  |
 | [](/r/pacers) Pacers             | 17  | 14  | 0.548 | 8.500  |
-| [](/r/nyknicks) Knicks           | 17  | 15  | 0.531 | 9.000  |
+| [](/r/nyknicks) Knicks           | 18  | 15  | 0.545 | 8.500  |
 | [](/r/gonets) Nets               | 15  | 18  | 0.455 | 11.500 |
 | [](/r/chicagobulls) Bulls        | 15  | 19  | 0.441 | 12.000 |
 | [](/r/atlantahawks) Hawks        | 13  | 19  | 0.406 | 13.000 |
