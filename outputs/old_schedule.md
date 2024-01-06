@@ -1,7 +1,7 @@
 |    DATE     |        OPPONENT         |  RESULT   |  TIME   |
 |:-----------:|:-----------------------:|:---------:|:-------:|
 | Tue, Jan 2  |    @ [](/r/thunder)     | L 127-123 |         |
-| Fri, Jan 5  |   vs [](/r/utahjazz)    |           | 7:00 PM |
+| Fri, Jan 5  |   vs [](/r/utahjazz)    |           |  LIVE   |
 | Sat, Jan 6  |     @ [](/r/pacers)     |           | 7:00 PM |
 | Mon, Jan 8  |     @ [](/r/pacers)     |           | 7:00 PM |
 | Wed, Jan 10 | vs [](/r/timberwolves)  |           | 7:00 PM |
