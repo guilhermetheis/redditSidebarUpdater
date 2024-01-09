@@ -3,7 +3,7 @@
 | Tue, Jan 2  |    @ [Thunder](/r/Thunder)     | L 127-123 |         |
 | Fri, Jan 5  |     vs [Jazz](/r/UtahJazz)     | W 126-97  |         |
 | Sat, Jan 6  |     @ [Pacers](/r/pacers)      | W 118-101 |         |
-| Mon, Jan 8  |     @ [Pacers](/r/pacers)      |           | 7:00 PM |
+| Mon, Jan 8  |     @ [Pacers](/r/pacers)      |           |  LIVE   |
 | Wed, Jan 10 |  vs [Wolves](/r/timberwolves)  |           | 7:00 PM |
 | Thu, Jan 11 |     @ [Bucks](/r/MkeBucks)     |           | 7:30 PM |
 | Sat, Jan 13 |    vs [Houston](/r/rockets)    |           | 7:00 PM |

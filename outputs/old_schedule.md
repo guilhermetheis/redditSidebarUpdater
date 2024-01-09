@@ -3,7 +3,7 @@
 | Tue, Jan 2  |    @ [](/r/thunder)     | L 127-123 |         |
 | Fri, Jan 5  |   vs [](/r/utahjazz)    | W 126-97  |         |
 | Sat, Jan 6  |     @ [](/r/pacers)     | W 118-101 |         |
-| Mon, Jan 8  |     @ [](/r/pacers)     |           | 7:00 PM |
+| Mon, Jan 8  |     @ [](/r/pacers)     |           |  LIVE   |
 | Wed, Jan 10 | vs [](/r/timberwolves)  |           | 7:00 PM |
 | Thu, Jan 11 |    @ [](/r/mkebucks)    |           | 7:30 PM |
 | Sat, Jan 13 |    vs [](/r/rockets)    |           | 7:00 PM |
