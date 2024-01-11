@@ -4,7 +4,7 @@
 | Fri, Jan 5  |   vs [](/r/utahjazz)    | W 126-97  |         |
 | Sat, Jan 6  |     @ [](/r/pacers)     | W 118-101 |         |
 | Mon, Jan 8  |     @ [](/r/pacers)     | L 133-131 |         |
-| Wed, Jan 10 | vs [](/r/timberwolves)  |           | 7:00 PM |
+| Wed, Jan 10 | vs [](/r/timberwolves)  |           |  LIVE   |
 | Thu, Jan 11 |    @ [](/r/mkebucks)    |           | 7:30 PM |
 | Sat, Jan 13 |    vs [](/r/rockets)    |           | 7:00 PM |
 | Mon, Jan 15 | @ [](/r/torontoraptors) |           | 7:30 PM |
