@@ -6,7 +6,7 @@
 | Mon, Jan 8  |     @ [Pacers](/r/pacers)      |  L 133-131   |         |
 | Wed, Jan 10 |  vs [Wolves](/r/timberwolves)  | W 127-120 OT |         |
 | Thu, Jan 11 |     @ [Bucks](/r/MkeBucks)     |  L 135-102   |         |
-| Sat, Jan 13 |    vs [Houston](/r/rockets)    |              |  LIVE   |
+| Sat, Jan 13 |    vs [Houston](/r/rockets)    |  W 145-113   |         |
 | Mon, Jan 15 | @ [Raptors](/r/torontoraptors) |              | 7:30 PM |
 | Wed, Jan 17 |    vs [Spurs](/r/NBASpurs)     |              | 7:30 PM |
 | Fri, Jan 19 | vs [Denver](/r/denvernuggets)  |              | 7:30 PM |
