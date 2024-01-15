@@ -3,8 +3,8 @@
 | [](/r/bostonceltics) Celtics     | 30  |  9  | 0.769 | 0.000  |
 | [](/r/mkebucks) Bucks            | 27  | 12  | 0.692 | 3.000  |
 | [](/r/sixers) Philly             | 24  | 13  | 0.649 | 5.000  |
-| [](/r/pacers) Pacers             | 23  | 15  | 0.605 | 6.500  |
 | [](/r/clevelandcavs) Cavs        | 22  | 15  | 0.595 | 7.000  |
+| [](/r/pacers) Pacers             | 23  | 16  | 0.590 | 7.000  |
 | [](/r/nyknicks) Knicks           | 23  | 16  | 0.590 | 7.000  |
 | [](/r/heat) Heat                 | 22  | 16  | 0.579 | 7.500  |
 | [](/r/orlandomagic) Magic        | 21  | 18  | 0.538 | 9.000  |
