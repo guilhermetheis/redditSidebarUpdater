@@ -7,7 +7,7 @@
 | Wed, Jan 10 | vs [](/r/timberwolves)  | W 127-120 OT |         |
 | Thu, Jan 11 |    @ [](/r/mkebucks)    |  L 135-102   |         |
 | Sat, Jan 13 |    vs [](/r/rockets)    |  W 145-113   |         |
-| Mon, Jan 15 | @ [](/r/torontoraptors) |              | 7:30 PM |
+| Mon, Jan 15 | @ [](/r/torontoraptors) |   W 105-96   |         |
 | Wed, Jan 17 |   vs [](/r/nbaspurs)    |              | 7:30 PM |
 | Fri, Jan 19 | vs [](/r/denvernuggets) |              | 7:30 PM |
 | Sun, Jan 21 |    @ [](/r/rockets)     |              | 7:00 PM |
