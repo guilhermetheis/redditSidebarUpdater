@@ -9,7 +9,7 @@
 | Sat, Jan 13 |    vs [Houston](/r/rockets)    |  W 145-113   |         |
 | Mon, Jan 15 | @ [Raptors](/r/torontoraptors) |   W 105-96   |         |
 | Wed, Jan 17 |    vs [Spurs](/r/NBASpurs)     |   W 117-98   |         |
-| Fri, Jan 19 | vs [Denver](/r/denvernuggets)  |              | 7:30 PM |
+| Fri, Jan 19 | vs [Denver](/r/denvernuggets)  |  L 102-100   |         |
 | Sun, Jan 21 |    @ [Houston](/r/rockets)     |              | 7:00 PM |
 | Mon, Jan 22 |    @ [Dallas](/r/Mavericks)    |              | 8:30 PM |
 | Thu, Jan 25 |       @ [Heat](/r/heat)        |              | 7:30 PM |
