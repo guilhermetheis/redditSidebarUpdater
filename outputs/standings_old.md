@@ -1,7 +1,7 @@
 | Team                             |  W  |  L  |  W%   |   GB   |
 |:---------------------------------|:---:|:---:|:-----:|:------:|
 | [](/r/bostonceltics) Celtics     | 32  | 10  | 0.762 | 0.000  |
-| [](/r/mkebucks) Bucks            | 28  | 13  | 0.683 | 3.500  |
+| [](/r/mkebucks) Bucks            | 29  | 13  | 0.690 | 3.000  |
 | [](/r/sixers) Philly             | 27  | 13  | 0.675 | 4.000  |
 | [](/r/clevelandcavs) Cavs        | 24  | 15  | 0.615 | 6.500  |
 | [](/r/nyknicks) Knicks           | 25  | 17  | 0.595 | 7.000  |
@@ -14,4 +14,4 @@
 | [](/r/torontoraptors) Raptors    | 16  | 26  | 0.381 | 16.000 |
 | [](/r/charlottehornets) Hornets  |  9  | 30  | 0.231 | 21.500 |
 | [](/r/washingtonwizards) Wizards |  7  | 33  | 0.175 | 24.000 |
-| [](/r/detroitpistons) Pistons    |  4  | 37  | 0.098 | 27.500 |
+| [](/r/detroitpistons) Pistons    |  4  | 38  | 0.095 | 28.000 |
