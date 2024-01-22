@@ -10,7 +10,7 @@
 | [Magic](/r/OrlandoMagic)        | 22  | 20  | 0.524 | 10.000 |
 | [Bulls](/r/chicagobulls)        | 21  | 23  | 0.477 | 12.000 |
 | [Hawks](/r/AtlantaHawks)        | 18  | 24  | 0.429 | 14.000 |
-| [Nets](/r/GoNets)               | 17  | 24  | 0.415 | 14.500 |
+| [Nets](/r/GoNets)               | 17  | 25  | 0.405 | 15.000 |
 | [Raptors](/r/torontoraptors)    | 16  | 27  | 0.372 | 16.500 |
 | [Hornets](/r/CharlotteHornets)  |  9  | 31  | 0.225 | 22.000 |
 | [Wizards](/r/washingtonwizards) |  7  | 34  | 0.171 | 24.500 |
