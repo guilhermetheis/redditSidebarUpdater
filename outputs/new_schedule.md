@@ -11,7 +11,7 @@
 | Wed, Jan 17 |    vs [Spurs](/r/NBASpurs)     |   W 117-98   |         |
 | Fri, Jan 19 | vs [Denver](/r/denvernuggets)  |  L 102-100   |         |
 | Sun, Jan 21 |    @ [Houston](/r/rockets)     |  W 116-107   |         |
-| Mon, Jan 22 |    @ [Dallas](/r/Mavericks)    |              | 8:30 PM |
+| Mon, Jan 22 |    @ [Dallas](/r/Mavericks)    |  W 119-110   |         |
 | Thu, Jan 25 |       @ [Heat](/r/heat)        |              | 7:30 PM |
 | Sat, Jan 27 |  vs [Clippers](/r/LAClippers)  |              | 7:00 PM |
 | Mon, Jan 29 | vs [Pelicans](/r/NOLAPelicans) |              | 7:30 PM |

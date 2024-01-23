@@ -11,7 +11,7 @@
 | Wed, Jan 17 |   vs [](/r/nbaspurs)    |   W 117-98   |         |
 | Fri, Jan 19 | vs [](/r/denvernuggets) |  L 102-100   |         |
 | Sun, Jan 21 |    @ [](/r/rockets)     |  W 116-107   |         |
-| Mon, Jan 22 |   @ [](/r/mavericks)    |              | 8:30 PM |
+| Mon, Jan 22 |   @ [](/r/mavericks)    |  W 119-110   |         |
 | Thu, Jan 25 |      @ [](/r/heat)      |              | 7:30 PM |
 | Sat, Jan 27 |  vs [](/r/laclippers)   |              | 7:00 PM |
 | Mon, Jan 29 | vs [](/r/nolapelicans)  |              | 7:30 PM |
