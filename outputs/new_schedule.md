@@ -13,6 +13,6 @@
 | Sun, Jan 21 |    @ [Houston](/r/rockets)     |  W 116-107   |         |
 | Mon, Jan 22 |    @ [Dallas](/r/Mavericks)    |  W 119-110   |         |
 | Thu, Jan 25 |       @ [Heat](/r/heat)        |  W 143-110   |         |
-| Sat, Jan 27 |  vs [Clippers](/r/LAClippers)  |              |  LIVE   |
+| Sat, Jan 27 |  vs [Clippers](/r/LAClippers)  |   L 115-96   |         |
 | Mon, Jan 29 | vs [Pelicans](/r/NOLAPelicans) |              | 7:30 PM |
 | Tue, Jan 30 |     vs [Pacers](/r/pacers)     |              | 7:30 PM |
