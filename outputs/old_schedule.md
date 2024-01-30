@@ -14,5 +14,5 @@
 | Mon, Jan 22 |   @ [](/r/mavericks)    |  W 119-110   |         |
 | Thu, Jan 25 |      @ [](/r/heat)      |  W 143-110   |         |
 | Sat, Jan 27 |  vs [](/r/laclippers)   |   L 115-96   |         |
-| Mon, Jan 29 | vs [](/r/nolapelicans)  |              | 7:30 PM |
+| Mon, Jan 29 | vs [](/r/nolapelicans)  |  W 118-112   |         |
 | Tue, Jan 30 |    vs [](/r/pacers)     |              | 7:30 PM |
