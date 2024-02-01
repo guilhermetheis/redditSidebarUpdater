@@ -1,18 +1,12 @@
-|    DATE     |        OPPONENT         |    RESULT    |  TIME  |
-|:-----------:|:-----------------------:|:------------:|:------:|
-| Tue, Jan 2  |    @ [](/r/thunder)     |  L 127-123   |        |
-| Fri, Jan 5  |   vs [](/r/utahjazz)    |   W 126-97   |        |
-| Sat, Jan 6  |     @ [](/r/pacers)     |  W 118-101   |        |
-| Mon, Jan 8  |     @ [](/r/pacers)     |  L 133-131   |        |
-| Wed, Jan 10 | vs [](/r/timberwolves)  | W 127-120 OT |        |
-| Thu, Jan 11 |    @ [](/r/mkebucks)    |  L 135-102   |        |
-| Sat, Jan 13 |    vs [](/r/rockets)    |  W 145-113   |        |
-| Mon, Jan 15 | @ [](/r/torontoraptors) |   W 105-96   |        |
-| Wed, Jan 17 |   vs [](/r/nbaspurs)    |   W 117-98   |        |
-| Fri, Jan 19 | vs [](/r/denvernuggets) |  L 102-100   |        |
-| Sun, Jan 21 |    @ [](/r/rockets)     |  W 116-107   |        |
-| Mon, Jan 22 |   @ [](/r/mavericks)    |  W 119-110   |        |
-| Thu, Jan 25 |      @ [](/r/heat)      |  W 143-110   |        |
-| Sat, Jan 27 |  vs [](/r/laclippers)   |   L 115-96   |        |
-| Mon, Jan 29 | vs [](/r/nolapelicans)  |  W 118-112   |        |
-| Tue, Jan 30 |    vs [](/r/pacers)     |  W 129-124   |        |
+|    DATE     |          OPPONENT           |  RESULT  |  TIME   |
+|:-----------:|:---------------------------:|:--------:|:-------:|
+| Thu, Feb 1  |      vs [](/r/lakers)       |          | 7:30 PM |
+| Sun, Feb 4  | vs [](/r/memphisgrizzlies)  |          | 6:00 PM |
+| Wed, Feb 7  |   vs [](/r/atlantahawks)    |          | 7:30 PM |
+| Fri, Feb 9  | vs [](/r/washingtonwizards) |          | 7:30 PM |
+| Sun, Feb 11 |        @ [](/r/heat)        |          | 2:00 PM |
+| Tue, Feb 13 |       @ [](/r/gonets)       |          | 7:30 PM |
+| Wed, Feb 14 |      vs [](/r/gonets)       |          | 7:30 PM |
+| Thu, Feb 22 |    @ [](/r/chicagobulls)    |          | 8:00 PM |
+| Sat, Feb 24 |      @ [](/r/nyknicks)      |          | 8:30 PM |
+| Tue, Feb 27 |      vs [](/r/sixers)       |          | 7:30 PM |
