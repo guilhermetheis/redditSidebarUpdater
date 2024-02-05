@@ -1,7 +1,7 @@
 |    DATE     |          OPPONENT           |  RESULT   |  TIME   |
 |:-----------:|:---------------------------:|:---------:|:-------:|
 | Thu, Feb 1  |      vs [](/r/lakers)       | L 114-105 |         |
-| Sun, Feb 4  | vs [](/r/memphisgrizzlies)  |           | 6:00 PM |
+| Sun, Feb 4  | vs [](/r/memphisgrizzlies)  |           |  LIVE   |
 | Wed, Feb 7  |   vs [](/r/atlantahawks)    |           | 7:30 PM |
 | Fri, Feb 9  | vs [](/r/washingtonwizards) |           | 7:30 PM |
 | Sun, Feb 11 |        @ [](/r/heat)        |           | 2:00 PM |
