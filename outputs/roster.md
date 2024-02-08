@@ -12,7 +12,7 @@
 |     [Banton](https://www.espn.com/nba/player/_/id/4397885/dalano-banton)     |  2.3  | 37.3  | 12.5  |  1.5  |  0.8  |   0.3   |
 |  [Mykhailiuk](https://www.espn.com/nba/player/_/id/3133602/svi-mykhailiuk)   |  2.8  | 33.3  | 30.8  |  0.9  |  0.5  |   0.3   |
 |     [Queta](https://www.espn.com/nba/player/_/id/4397424/neemias-queta)      |  4.8  | 60.8  |   0   |  4.5  |  0.5  |    1    |
-|    [Stevens](https://www.espn.com/nba/player/_/id/4066405/lamar-stevens)     |  2.8  | 46.7  | 37.5  |  1.6  |  0.4  |   0.6   |
+|    [Tillman](https://www.espn.com/nba/player/_/id/4277964/xavier-tillman)    |   6   | 40.8  | 22.6  |  4.6  |  1.7  |   2.2   |
 |      [Hauser](https://www.espn.com/nba/player/_/id/4065804/sam-hauser)       |  8.2  | 44.7  | 41.6  |  3.4  |   1   |   0.7   |
 |      [Walsh](https://www.espn.com/nba/player/_/id/4683689/jordan-walsh)      |  0.7  |  50   |   0   |   2   |  0.7  |   0.3   |
 |      [Davison](https://www.espn.com/nba/player/_/id/4576085/jd-davison)      |   1   |   0   |   0   |   1   |   0   |    0    |
