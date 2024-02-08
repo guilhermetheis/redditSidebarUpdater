@@ -2,7 +2,7 @@
 |:-----------:|:----------------------------------:|:---------:|:-------:|
 | Thu, Feb 1  |       vs [Lakers](/r/lakers)       | L 114-105 |         |
 | Sun, Feb 4  | vs [Memphis](/r/memphisgrizzlies)  | W 131-91  |         |
-| Wed, Feb 7  |    vs [Hawks](/r/AtlantaHawks)     |           | 7:30 PM |
+| Wed, Feb 7  |    vs [Hawks](/r/AtlantaHawks)     | W 125-117 |         |
 | Fri, Feb 9  | vs [Wizards](/r/washingtonwizards) |           | 7:30 PM |
 | Sun, Feb 11 |         @ [Heat](/r/heat)          |           | 2:00 PM |
 | Tue, Feb 13 |        @ [Nets](/r/GoNets)         |           | 7:30 PM |
