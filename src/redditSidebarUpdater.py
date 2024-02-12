@@ -272,7 +272,7 @@ if numRows == len(table_schedule_init):
     table_schedule_playedGames = table_schedule_toBePlayed.iloc[:0,:].copy()
 else:
     table_schedule_playedGames = table_schedule_init[0:numRows]
-    table_schedule_playedGames.columns = table_schedule_playedGames.iloc[0]
+    table_schedule_playedGames.columns = table_schedule_playedGames.iloc[1]
     table_schedule_playedGames = table_schedule_playedGames.reset_index()
     table_schedule_playedGames = table_schedule_playedGames.drop([0], axis=0)
     table_schedule_toBePlayed = table_schedule_init[numRows:]
