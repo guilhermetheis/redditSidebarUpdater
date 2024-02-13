@@ -1,17 +1,17 @@
 | Team                            |  W  |  L  |  W%   |   GB   |
 |:--------------------------------|:---:|:---:|:-----:|:------:|
 | [Celtics](/r/bostonceltics)     | 41  | 12  | 0.774 | 0.000  |
-| [Cavs](/r/clevelandcavs)        | 35  | 16  | 0.686 | 5.000  |
-| [Bucks](/r/MkeBucks)            | 34  | 19  | 0.642 | 7.000  |
-| [Knicks](/r/NYKnicks)           | 33  | 20  | 0.623 | 8.000  |
-| [Philly](/r/sixers)             | 31  | 21  | 0.596 | 9.500  |
-| [Pacers](/r/pacers)             | 30  | 24  | 0.556 | 11.500 |
+| [Cavs](/r/clevelandcavs)        | 35  | 17  | 0.673 | 5.500  |
+| [Bucks](/r/MkeBucks)            | 35  | 19  | 0.648 | 6.500  |
+| [Knicks](/r/NYKnicks)           | 33  | 21  | 0.611 | 8.500  |
+| [Philly](/r/sixers)             | 32  | 21  | 0.604 | 9.000  |
 | [Magic](/r/OrlandoMagic)        | 29  | 24  | 0.547 | 12.000 |
+| [Pacers](/r/pacers)             | 30  | 25  | 0.545 | 12.000 |
 | [Heat](/r/heat)                 | 28  | 25  | 0.528 | 13.000 |
-| [Bulls](/r/chicagobulls)        | 25  | 28  | 0.472 | 16.000 |
-| [Hawks](/r/AtlantaHawks)        | 24  | 29  | 0.453 | 17.000 |
+| [Bulls](/r/chicagobulls)        | 26  | 28  | 0.481 | 15.500 |
+| [Hawks](/r/AtlantaHawks)        | 24  | 30  | 0.444 | 17.500 |
 | [Nets](/r/GoNets)               | 21  | 31  | 0.404 | 19.500 |
-| [Raptors](/r/torontoraptors)    | 19  | 34  | 0.358 | 22.000 |
-| [Hornets](/r/CharlotteHornets)  | 11  | 41  | 0.212 | 29.500 |
-| [Wizards](/r/washingtonwizards) |  9  | 43  | 0.173 | 31.500 |
+| [Raptors](/r/torontoraptors)    | 19  | 35  | 0.352 | 22.500 |
+| [Hornets](/r/CharlotteHornets)  | 12  | 41  | 0.226 | 29.000 |
+| [Wizards](/r/washingtonwizards) |  9  | 44  | 0.170 | 32.000 |
 | [Pistons](/r/DetroitPistons)    |  8  | 44  | 0.154 | 32.500 |
