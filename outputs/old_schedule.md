@@ -6,7 +6,7 @@
 | Fri, Feb 9  | vs [](/r/washingtonwizards) | W 133-129 |         |
 | Sun, Feb 11 |        @ [](/r/heat)        | W 110-106 |         |
 | Tue, Feb 13 |       @ [](/r/gonets)       | W 118-110 |         |
-| Wed, Feb 14 |      vs [](/r/gonets)       |           | 7:30 PM |
+| Wed, Feb 14 |      vs [](/r/gonets)       | W 136-86  |         |
 | Thu, Feb 22 |    @ [](/r/chicagobulls)    |           | 8:00 PM |
 | Sat, Feb 24 |      @ [](/r/nyknicks)      |           | 8:30 PM |
 | Tue, Feb 27 |      vs [](/r/sixers)       |           | 7:30 PM |
