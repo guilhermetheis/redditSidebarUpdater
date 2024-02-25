@@ -8,5 +8,5 @@
 | Tue, Feb 13 |       @ [](/r/gonets)       | W 118-110 |         |
 | Wed, Feb 14 |      vs [](/r/gonets)       | W 136-86  |         |
 | Thu, Feb 22 |    @ [](/r/chicagobulls)    | W 129-112 |         |
-| Sat, Feb 24 |      @ [](/r/nyknicks)      |           | 8:30 PM |
+| Sat, Feb 24 |      @ [](/r/nyknicks)      | W 116-102 |         |
 | Tue, Feb 27 |      vs [](/r/sixers)       |           | 7:30 PM |

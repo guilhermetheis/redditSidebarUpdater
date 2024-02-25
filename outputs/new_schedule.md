@@ -8,5 +8,5 @@
 | Tue, Feb 13 |        @ [Nets](/r/GoNets)         | W 118-110 |         |
 | Wed, Feb 14 |        vs [Nets](/r/GoNets)        | W 136-86  |         |
 | Thu, Feb 22 |     @ [Bulls](/r/chicagobulls)     | W 129-112 |         |
-| Sat, Feb 24 |      @ [Knicks](/r/NYKnicks)       |           | 8:30 PM |
+| Sat, Feb 24 |      @ [Knicks](/r/NYKnicks)       | W 116-102 |         |
 | Tue, Feb 27 |       vs [Philly](/r/sixers)       |           | 7:30 PM |
