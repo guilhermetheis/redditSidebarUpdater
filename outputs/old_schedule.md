@@ -2,7 +2,7 @@
 |:-----------:|:--------------------------:|:---------:|:--------:|
 | Fri, Mar 1  |    vs [](/r/mavericks)     | W 138-110 |          |
 | Sun, Mar 3  |     vs [](/r/warriors)     | W 140-88  |          |
-| Tue, Mar 5  |   @ [](/r/clevelandcavs)   |           | 7:30 PM  |
+| Tue, Mar 5  |   @ [](/r/clevelandcavs)   | L 105-104 |          |
 | Thu, Mar 7  |   @ [](/r/denvernuggets)   |           | 10:00 PM |
 | Sat, Mar 9  |       @ [](/r/suns)        |           | 8:30 PM  |
 | Mon, Mar 11 |      @ [](/r/ripcity)      |           | 10:30 PM |
