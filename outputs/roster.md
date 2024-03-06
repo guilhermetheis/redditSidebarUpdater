@@ -11,9 +11,9 @@
 |   [Springer](https://www.espn.com/nba/player/_/id/4432164/jaden-springer)    |  3.6  | 38.1  | 20.5  |  1.7  |   1   |    1    |
 |   [Brissett](https://www.espn.com/nba/player/_/id/4278031/oshae-brissett)    |  3.7  | 45.5  | 27.9  |  2.8  |  0.8  |   0.5   |
 |  [Mykhailiuk](https://www.espn.com/nba/player/_/id/3133602/svi-mykhailiuk)   |  2.8  | 35.1  | 32.2  |   1   |  0.5  |   0.3   |
-|     [Queta](https://www.espn.com/nba/player/_/id/4397424/neemias-queta)      |  4.9  | 61.3  |   0   |  4.4  |  0.5  |    1    |
 |    [Tillman](https://www.espn.com/nba/player/_/id/4277964/xavier-tillman)    |  5.9  | 42.1  | 23.6  |  4.4  |  1.6  |   2.2   |
 |      [Hauser](https://www.espn.com/nba/player/_/id/4065804/sam-hauser)       |  7.9  | 44.7  | 41.7  |  3.4  |  0.9  |   0.7   |
 |      [Walsh](https://www.espn.com/nba/player/_/id/4683689/jordan-walsh)      |  0.5  |  20   |   0   |  2.8  |  0.5  |   0.8   |
 |      [Davison](https://www.espn.com/nba/player/_/id/4576085/jd-davison)      |   1   |   0   |   0   |   1   |   0   |    0    |
 |    [Peterson](https://www.espn.com/nba/player/_/id/4397689/drew-peterson)    |   3   |  100  |  100  |   0   |   1   |    0    |
+|     [Queta](https://www.espn.com/nba/player/_/id/4397424/neemias-queta)      |  4.9  | 61.3  |   0   |  4.4  |  0.5  |    1    |
