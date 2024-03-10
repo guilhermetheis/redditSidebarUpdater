@@ -4,7 +4,7 @@
 | Sun, Mar 3  |    vs [Warriors](/r/warriors)     | W 140-88  |          |
 | Tue, Mar 5  |    @ [Cavs](/r/clevelandcavs)     | L 105-104 |          |
 | Thu, Mar 7  |   @ [Denver](/r/denvernuggets)    | L 115-109 |          |
-| Sat, Mar 9  |         @ [Suns](/r/suns)         |           | 8:30 PM  |
+| Sat, Mar 9  |         @ [Suns](/r/suns)         | W 117-107 |          |
 | Mon, Mar 11 |      @ [Blazers](/r/ripcity)      |           | 10:30 PM |
 | Tue, Mar 12 |       @ [Jazz](/r/UtahJazz)       |           | 9:00 PM  |
 | Thu, Mar 14 |        vs [Suns](/r/suns)         |           | 7:30 PM  |
