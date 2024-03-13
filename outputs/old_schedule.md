@@ -6,7 +6,7 @@
 | Thu, Mar 7  |   @ [](/r/denvernuggets)   | L 115-109 |         |
 | Sat, Mar 9  |       @ [](/r/suns)        | W 117-107 |         |
 | Mon, Mar 11 |      @ [](/r/ripcity)      | W 121-99  |         |
-| Tue, Mar 12 |     @ [](/r/utahjazz)      |           | 9:00 PM |
+| Tue, Mar 12 |     @ [](/r/utahjazz)      | W 123-107 |         |
 | Thu, Mar 14 |       vs [](/r/suns)       |           | 7:30 PM |
 | Sun, Mar 17 | @ [](/r/washingtonwizards) |           | 6:00 PM |
 | Mon, Mar 18 |  vs [](/r/detroitpistons)  |           | 7:30 PM |
