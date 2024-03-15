@@ -7,7 +7,7 @@
 | Sat, Mar 9  |       @ [](/r/suns)        | W 117-107 |         |
 | Mon, Mar 11 |      @ [](/r/ripcity)      | W 121-99  |         |
 | Tue, Mar 12 |     @ [](/r/utahjazz)      | W 123-107 |         |
-| Thu, Mar 14 |       vs [](/r/suns)       |           | 7:30 PM |
+| Thu, Mar 14 |       vs [](/r/suns)       |           |  LIVE   |
 | Sun, Mar 17 | @ [](/r/washingtonwizards) |           | 6:00 PM |
 | Mon, Mar 18 |  vs [](/r/detroitpistons)  |           | 7:30 PM |
 | Wed, Mar 20 |     vs [](/r/mkebucks)     |           | 7:30 PM |
