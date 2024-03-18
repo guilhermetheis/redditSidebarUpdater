@@ -8,7 +8,7 @@
 | Mon, Mar 11 |      @ [Blazers](/r/ripcity)      | W 121-99  |         |
 | Tue, Mar 12 |       @ [Jazz](/r/UtahJazz)       | W 123-107 |         |
 | Thu, Mar 14 |        vs [Suns](/r/suns)         | W 127-112 |         |
-| Sun, Mar 17 | @ [Wizards](/r/washingtonwizards) |           | 6:00 PM |
+| Sun, Mar 17 | @ [Wizards](/r/washingtonwizards) | W 130-104 |         |
 | Mon, Mar 18 |  vs [Pistons](/r/DetroitPistons)  |           | 7:30 PM |
 | Wed, Mar 20 |      vs [Bucks](/r/MkeBucks)      |           | 7:30 PM |
 | Fri, Mar 22 |  @ [Pistons](/r/DetroitPistons)   |           | 7:00 PM |
