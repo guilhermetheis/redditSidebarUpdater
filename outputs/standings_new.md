@@ -9,8 +9,8 @@
 | [Heat](/r/heat)                 | 37  | 30  | 0.552 | 16.000 |
 | [Philly](/r/sixers)             | 37  | 30  | 0.552 | 16.000 |
 | [Bulls](/r/chicagobulls)        | 33  | 35  | 0.485 | 20.500 |
-| [Hawks](/r/AtlantaHawks)        | 29  | 37  | 0.439 | 23.500 |
-| [Nets](/r/GoNets)               | 26  | 41  | 0.388 | 27.000 |
+| [Hawks](/r/AtlantaHawks)        | 30  | 37  | 0.448 | 23.000 |
+| [Nets](/r/GoNets)               | 26  | 42  | 0.382 | 27.500 |
 | [Raptors](/r/torontoraptors)    | 23  | 45  | 0.338 | 30.500 |
 | [Hornets](/r/CharlotteHornets)  | 17  | 51  | 0.250 | 36.500 |
 | [Pistons](/r/DetroitPistons)    | 12  | 55  | 0.179 | 41.000 |
