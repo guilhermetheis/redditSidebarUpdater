@@ -9,7 +9,7 @@
 | Tue, Mar 12 |     @ [](/r/utahjazz)      | W 123-107 |         |
 | Thu, Mar 14 |       vs [](/r/suns)       | W 127-112 |         |
 | Sun, Mar 17 | @ [](/r/washingtonwizards) | W 130-104 |         |
-| Mon, Mar 18 |  vs [](/r/detroitpistons)  |           |  LIVE   |
+| Mon, Mar 18 |  vs [](/r/detroitpistons)  | W 119-94  |         |
 | Wed, Mar 20 |     vs [](/r/mkebucks)     |           | 7:30 PM |
 | Fri, Mar 22 |  @ [](/r/detroitpistons)   |           | 7:00 PM |
 | Sat, Mar 23 |   @ [](/r/chicagobulls)    |           | 8:00 PM |
