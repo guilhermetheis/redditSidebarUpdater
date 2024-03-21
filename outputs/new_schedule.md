@@ -10,7 +10,7 @@
 | Thu, Mar 14 |        vs [Suns](/r/suns)         | W 127-112 |         |
 | Sun, Mar 17 | @ [Wizards](/r/washingtonwizards) | W 130-104 |         |
 | Mon, Mar 18 |  vs [Pistons](/r/DetroitPistons)  | W 119-94  |         |
-| Wed, Mar 20 |      vs [Bucks](/r/MkeBucks)      |           |  LIVE   |
+| Wed, Mar 20 |      vs [Bucks](/r/MkeBucks)      | W 122-119 |         |
 | Fri, Mar 22 |  @ [Pistons](/r/DetroitPistons)   |           | 7:00 PM |
 | Sat, Mar 23 |    @ [Bulls](/r/chicagobulls)     |           | 8:00 PM |
 | Mon, Mar 25 |    @ [Hawks](/r/AtlantaHawks)     |           | 7:30 PM |
