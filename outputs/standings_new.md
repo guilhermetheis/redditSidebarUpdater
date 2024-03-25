@@ -1,11 +1,11 @@
 | Team                            |  W  |  L  |  W%   |   GB   |
 |:--------------------------------|:---:|:---:|:-----:|:------:|
 | [Celtics](/r/bostonceltics)     | 57  | 14  | 0.803 | 0.000  |
-| [Bucks](/r/MkeBucks)            | 45  | 25  | 0.643 | 11.500 |
+| [Bucks](/r/MkeBucks)            | 46  | 25  | 0.648 | 11.000 |
 | [Cavs](/r/clevelandcavs)        | 43  | 28  | 0.606 | 14.000 |
 | [Knicks](/r/NYKnicks)           | 42  | 28  | 0.600 | 14.500 |
 | [Magic](/r/OrlandoMagic)        | 42  | 29  | 0.592 | 15.000 |
-| [Pacers](/r/pacers)             | 40  | 31  | 0.563 | 17.000 |
+| [Pacers](/r/pacers)             | 40  | 32  | 0.556 | 17.500 |
 | [Heat](/r/heat)                 | 39  | 32  | 0.549 | 18.000 |
 | [Philly](/r/sixers)             | 39  | 32  | 0.549 | 18.000 |
 | [Bulls](/r/chicagobulls)        | 34  | 37  | 0.479 | 23.000 |
