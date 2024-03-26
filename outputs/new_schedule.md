@@ -13,6 +13,6 @@
 | Wed, Mar 20 |      vs [Bucks](/r/MkeBucks)      | W 122-119 |         |
 | Fri, Mar 22 |  @ [Pistons](/r/DetroitPistons)   | W 129-102 |         |
 | Sat, Mar 23 |    @ [Bulls](/r/chicagobulls)     | W 124-113 |         |
-| Mon, Mar 25 |    @ [Hawks](/r/AtlantaHawks)     |           |  LIVE   |
+| Mon, Mar 25 |    @ [Hawks](/r/AtlantaHawks)     | L 120-118 |         |
 | Thu, Mar 28 |    @ [Hawks](/r/AtlantaHawks)     |           | 7:30 PM |
 | Sat, Mar 30 |   @ [Pelicans](/r/NOLAPelicans)   |           | 5:00 PM |
