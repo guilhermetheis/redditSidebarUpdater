@@ -13,6 +13,6 @@
 | Wed, Mar 20 |     vs [](/r/mkebucks)     | W 122-119 |         |
 | Fri, Mar 22 |  @ [](/r/detroitpistons)   | W 129-102 |         |
 | Sat, Mar 23 |   @ [](/r/chicagobulls)    | W 124-113 |         |
-| Mon, Mar 25 |   @ [](/r/atlantahawks)    |           | 7:30 PM |
+| Mon, Mar 25 |   @ [](/r/atlantahawks)    |           |  LIVE   |
 | Thu, Mar 28 |   @ [](/r/atlantahawks)    |           | 7:30 PM |
 | Sat, Mar 30 |   @ [](/r/nolapelicans)    |           | 5:00 PM |
