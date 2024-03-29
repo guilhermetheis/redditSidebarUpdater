@@ -14,5 +14,5 @@
 | Fri, Mar 22 |  @ [](/r/detroitpistons)   | W 129-102 |         |
 | Sat, Mar 23 |   @ [](/r/chicagobulls)    | W 124-113 |         |
 | Mon, Mar 25 |   @ [](/r/atlantahawks)    | L 120-118 |         |
-| Thu, Mar 28 |   @ [](/r/atlantahawks)    |           | 7:30 PM |
+| Thu, Mar 28 |   @ [](/r/atlantahawks)    |           |  LIVE   |
 | Sat, Mar 30 |   @ [](/r/nolapelicans)    |           | 5:00 PM |
