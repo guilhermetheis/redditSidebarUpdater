@@ -1,18 +1,10 @@
-|    DATE     |             OPPONENT              |    RESULT    |  TIME  |
-|:-----------:|:---------------------------------:|:------------:|:------:|
-| Fri, Mar 1  |     vs [Dallas](/r/Mavericks)     |  W 138-110   |        |
-| Sun, Mar 3  |    vs [Warriors](/r/warriors)     |   W 140-88   |        |
-| Tue, Mar 5  |    @ [Cavs](/r/clevelandcavs)     |  L 105-104   |        |
-| Thu, Mar 7  |   @ [Denver](/r/denvernuggets)    |  L 115-109   |        |
-| Sat, Mar 9  |         @ [Suns](/r/suns)         |  W 117-107   |        |
-| Mon, Mar 11 |      @ [Blazers](/r/ripcity)      |   W 121-99   |        |
-| Tue, Mar 12 |       @ [Jazz](/r/UtahJazz)       |  W 123-107   |        |
-| Thu, Mar 14 |        vs [Suns](/r/suns)         |  W 127-112   |        |
-| Sun, Mar 17 | @ [Wizards](/r/washingtonwizards) |  W 130-104   |        |
-| Mon, Mar 18 |  vs [Pistons](/r/DetroitPistons)  |   W 119-94   |        |
-| Wed, Mar 20 |      vs [Bucks](/r/MkeBucks)      |  W 122-119   |        |
-| Fri, Mar 22 |  @ [Pistons](/r/DetroitPistons)   |  W 129-102   |        |
-| Sat, Mar 23 |    @ [Bulls](/r/chicagobulls)     |  W 124-113   |        |
-| Mon, Mar 25 |    @ [Hawks](/r/AtlantaHawks)     |  L 120-118   |        |
-| Thu, Mar 28 |    @ [Hawks](/r/AtlantaHawks)     | L 123-122 OT |        |
-| Sat, Mar 30 |   @ [Pelicans](/r/NOLAPelicans)   |   W 104-92   |        |
+|    DATE     |              OPPONENT              |  RESULT  |  TIME   |
+|:-----------:|:----------------------------------:|:--------:|:-------:|
+| Mon, Apr 1  |  @ [Hornets](/r/CharlotteHornets)  |          | 7:00 PM |
+| Wed, Apr 3  |      vs [Thunder](/r/Thunder)      |          | 7:30 PM |
+| Fri, Apr 5  |        vs [Kings](/r/kings)        |          | 7:30 PM |
+| Sun, Apr 7  |      vs [Blazers](/r/ripcity)      |          | 6:00 PM |
+| Tue, Apr 9  |       @ [Bucks](/r/MkeBucks)       |          | 7:30 PM |
+| Thu, Apr 11 |      vs [Knicks](/r/NYKnicks)      |          | 7:30 PM |
+| Fri, Apr 12 | vs [Hornets](/r/CharlotteHornets)  |          | 7:30 PM |
+| Sun, Apr 14 | vs [Wizards](/r/washingtonwizards) |          | 1:00 PM |
