@@ -1,6 +1,6 @@
 |    DATE     |          OPPONENT           |  RESULT  |  TIME   |
 |:-----------:|:---------------------------:|:--------:|:-------:|
-| Mon, Apr 1  |  @ [](/r/charlottehornets)  |          | 7:00 PM |
+| Mon, Apr 1  |  @ [](/r/charlottehornets)  |          |  LIVE   |
 | Wed, Apr 3  |      vs [](/r/thunder)      |          | 7:30 PM |
 | Fri, Apr 5  |       vs [](/r/kings)       |          | 7:30 PM |
 | Sun, Apr 7  |      vs [](/r/ripcity)      |          | 6:00 PM |
