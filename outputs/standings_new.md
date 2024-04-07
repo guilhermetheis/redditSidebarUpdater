@@ -2,7 +2,7 @@
 |:--------------------------------|:---:|:---:|:-----:|:------:|
 | [Celtics](/r/bostonceltics)     | 61  | 16  | 0.792 | 0.000  |
 | [Bucks](/r/MkeBucks)            | 47  | 30  | 0.610 | 14.000 |
-| [Cavs](/r/clevelandcavs)        | 46  | 31  | 0.597 | 15.000 |
+| [Cavs](/r/clevelandcavs)        | 46  | 32  | 0.590 | 15.500 |
 | [Magic](/r/OrlandoMagic)        | 45  | 32  | 0.584 | 16.000 |
 | [Knicks](/r/NYKnicks)           | 45  | 32  | 0.584 | 16.000 |
 | [Pacers](/r/pacers)             | 44  | 34  | 0.564 | 17.500 |
