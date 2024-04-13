@@ -6,5 +6,5 @@
 | Sun, Apr 7  |      vs [Blazers](/r/ripcity)      | W 124-107 |         |
 | Tue, Apr 9  |       @ [Bucks](/r/MkeBucks)       | L 104-91  |         |
 | Thu, Apr 11 |      vs [Knicks](/r/NYKnicks)      | L 118-109 |         |
-| Fri, Apr 12 | vs [Hornets](/r/CharlotteHornets)  |           | 7:30 PM |
+| Fri, Apr 12 | vs [Hornets](/r/CharlotteHornets)  |           |  LIVE   |
 | Sun, Apr 14 | vs [Wizards](/r/washingtonwizards) |           | 1:00 PM |
