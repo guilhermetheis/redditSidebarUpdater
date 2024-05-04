@@ -1,17 +1,17 @@
 | Team                             |  W  |  L  |  W%   |   GB   |
 |:---------------------------------|:---:|:---:|:-----:|:------:|
-| [](/r/bostonceltics) Celtics     | 63  | 18  | 0.778 | 0.000  |
-| [](/r/mkebucks) Bucks            | 49  | 32  | 0.605 | 14.000 |
-| [](/r/nyknicks) Knicks           | 49  | 32  | 0.605 | 14.000 |
-| [](/r/clevelandcavs) Cavs        | 48  | 33  | 0.593 | 15.000 |
-| [](/r/orlandomagic) Magic        | 46  | 35  | 0.568 | 17.000 |
-| [](/r/pacers) Pacers             | 46  | 35  | 0.568 | 17.000 |
-| [](/r/sixers) Philly             | 46  | 35  | 0.568 | 17.000 |
-| [](/r/heat) Heat                 | 45  | 36  | 0.556 | 18.000 |
-| [](/r/chicagobulls) Bulls        | 39  | 42  | 0.481 | 24.000 |
-| [](/r/atlantahawks) Hawks        | 36  | 45  | 0.444 | 27.000 |
-| [](/r/gonets) Nets               | 32  | 49  | 0.395 | 31.000 |
-| [](/r/torontoraptors) Raptors    | 25  | 56  | 0.309 | 38.000 |
-| [](/r/charlottehornets) Hornets  | 20  | 61  | 0.247 | 43.000 |
-| [](/r/washingtonwizards) Wizards | 15  | 66  | 0.185 | 48.000 |
-| [](/r/detroitpistons) Pistons    | 14  | 67  | 0.173 | 49.000 |
+| [](/r/bostonceltics) Celtics     | 64  | 18  | 0.780 | 0.000  |
+| [](/r/nyknicks) Knicks           | 50  | 32  | 0.610 | 14.000 |
+| [](/r/mkebucks) Bucks            | 49  | 33  | 0.598 | 15.000 |
+| [](/r/clevelandcavs) Cavs        | 48  | 34  | 0.585 | 16.000 |
+| [](/r/orlandomagic) Magic        | 47  | 35  | 0.573 | 17.000 |
+| [](/r/pacers) Pacers             | 47  | 35  | 0.573 | 17.000 |
+| [](/r/sixers) Philly             | 47  | 35  | 0.573 | 17.000 |
+| [](/r/heat) Heat                 | 46  | 36  | 0.561 | 18.000 |
+| [](/r/chicagobulls) Bulls        | 39  | 43  | 0.476 | 25.000 |
+| [](/r/atlantahawks) Hawks        | 36  | 46  | 0.439 | 28.000 |
+| [](/r/gonets) Nets               | 32  | 50  | 0.390 | 32.000 |
+| [](/r/torontoraptors) Raptors    | 25  | 57  | 0.305 | 39.000 |
+| [](/r/charlottehornets) Hornets  | 21  | 61  | 0.256 | 43.000 |
+| [](/r/washingtonwizards) Wizards | 15  | 67  | 0.183 | 49.000 |
+| [](/r/detroitpistons) Pistons    | 14  | 68  | 0.171 | 50.000 |
