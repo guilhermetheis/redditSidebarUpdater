@@ -272,7 +272,7 @@ if numRows == len(table_schedule_init):
     table_schedule_playedGames = table_schedule_toBePlayed.iloc[:0,:].copy()
 else:
     table_schedule_playedGames = table_schedule_init[0:numRows]
-    table_schedule_playedGames.columns = table_schedule_playedGames.iloc[1]
+    table_schedule_playedGames.columns = table_schedule_playedGames.iloc[0]
     table_schedule_playedGames = table_schedule_playedGames.reset_index()
     table_schedule_playedGames = table_schedule_playedGames.drop([0], axis=0)
     table_schedule_toBePlayed = table_schedule_init[numRows:]
@@ -281,13 +281,24 @@ else:
     table_schedule_toBePlayed = table_schedule_toBePlayed.drop([0], axis=0)
         
 
+table_schedule_toBePlayed.columns = table_schedule_toBePlayed.iloc[0]
+table_schedule_toBePlayed = table_schedule_toBePlayed[1:].reset_index(drop=True)
+if table_schedule_playedGames.empty:
+    table_schedule_playedGames.columns = table_schedule_toBePlayed.columns
+else:
+    table_schedule_playedGames.columns = table_schedule_playedGames.iloc[0]
+    table_schedule_playedGames = table_schedule_playedGames[1:].reset_index(drop=True)
 
-boleeanPlayed = table_schedule_playedGames['DATE'].str.contains(month)
 
+#To be played
 boleeanToBePlayed = table_schedule_toBePlayed['DATE'].str.contains(month)
-
-finaltable_schedule_playedGames = table_schedule_playedGames[boleeanPlayed]
 finaltable_schedule_toBePlayed = table_schedule_toBePlayed[boleeanToBePlayed]
+#Played
+boleeanPlayed = table_schedule_playedGames['DATE'].str.contains(month)
+finaltable_schedule_playedGames = table_schedule_playedGames[boleeanPlayed]
+
+
+
 
 
 finaltable_schedule_toBePlayed = finaltable_schedule_toBePlayed[['DATE', 'OPPONENT','TIME']]
