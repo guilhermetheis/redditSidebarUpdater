@@ -1,10 +1,7 @@
-|    DATE     |          OPPONENT           |  RESULT  |  TIME   |
-|:-----------:|:---------------------------:|:--------:|:-------:|
-| Wed, May 1  |     vs [Heat](/r/heat)      | W 118-84 |         |
-| Tue, May 7  | vs [Cavs](/r/clevelandcavs) |          |  LIVE   |
-| Thu, May 9  | vs [Cavs](/r/clevelandcavs) |          | 7:00 PM |
-| Sat, May 11 | @ [Cavs](/r/clevelandcavs)  |          | 8:30 PM |
-| Mon, May 13 | @ [Cavs](/r/clevelandcavs)  |          | 7:00 PM |
-| Wed, May 15 | vs [Cavs](/r/clevelandcavs) |          |   TBD   |
-| Fri, May 17 | @ [Cavs](/r/clevelandcavs)  |          |   TBD   |
-| Sun, May 19 | vs [Cavs](/r/clevelandcavs) |          |   TBD   |
+|    DATE     |             OPPONENT              |  TIME   |
+|:-----------:|:---------------------------------:|:-------:|
+| Tue, Oct 22 |     vs [Knicks](/r/NYKnicks)      | 7:30 PM |
+| Thu, Oct 24 | @ [Wizards](/r/washingtonwizards) | 7:00 PM |
+| Sat, Oct 26 |  @ [Pistons](/r/DetroitPistons)   | 7:00 PM |
+| Mon, Oct 28 |      vs [Bucks](/r/MkeBucks)      | 7:30 PM |
+| Wed, Oct 30 |       @ [Pacers](/r/pacers)       | 7:00 PM |
