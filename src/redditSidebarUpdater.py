@@ -281,7 +281,7 @@ else:
     table_schedule_toBePlayed = table_schedule_toBePlayed.drop([0], axis=0)
         
 
-table_schedule_toBePlayed.columns = table_schedule_toBePlayed.iloc[0]
+#table_schedule_toBePlayed.columns = table_schedule_toBePlayed.iloc[0]
 table_schedule_toBePlayed = table_schedule_toBePlayed[1:].reset_index(drop=True)
 if table_schedule_playedGames.empty:
     table_schedule_playedGames.columns = table_schedule_toBePlayed.columns
