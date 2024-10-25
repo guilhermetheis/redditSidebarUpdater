@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct 21 12:29:06 2022
+Created by Guilherme Theis
 
-@author: Guilherme Theis
+Current version = 0.1.01
 """
 
 
