@@ -11,7 +11,7 @@
 | [Hawks](/r/AtlantaHawks)        |  2  |  3  | 0.400 | 3.000 |
 | [Pacers](/r/pacers)             |  2  |  3  | 0.400 | 3.000 |
 | [Nets](/r/GoNets)               |  2  |  3  | 0.400 | 3.000 |
-| [Bucks](/r/MkeBucks)            |  1  |  3  | 0.250 | 3.500 |
 | [Philly](/r/sixers)             |  1  |  3  | 0.250 | 3.500 |
 | [Raptors](/r/torontoraptors)    |  1  |  4  | 0.200 | 4.000 |
+| [Bucks](/r/MkeBucks)            |  1  |  4  | 0.200 | 4.000 |
 | [Pistons](/r/DetroitPistons)    |  1  |  4  | 0.200 | 4.000 |

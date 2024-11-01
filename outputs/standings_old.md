@@ -11,7 +11,7 @@
 | [](/r/atlantahawks) Hawks        |  2  |  3  | 0.400 | 3.000 |
 | [](/r/pacers) Pacers             |  2  |  3  | 0.400 | 3.000 |
 | [](/r/gonets) Nets               |  2  |  3  | 0.400 | 3.000 |
-| [](/r/mkebucks) Bucks            |  1  |  3  | 0.250 | 3.500 |
 | [](/r/sixers) Philly             |  1  |  3  | 0.250 | 3.500 |
 | [](/r/torontoraptors) Raptors    |  1  |  4  | 0.200 | 4.000 |
+| [](/r/mkebucks) Bucks            |  1  |  4  | 0.200 | 4.000 |
 | [](/r/detroitpistons) Pistons    |  1  |  4  | 0.200 | 4.000 |
