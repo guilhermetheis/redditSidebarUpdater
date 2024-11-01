@@ -1,7 +1,15 @@
-|    DATE     |             OPPONENT              |    RESULT    |  TIME  |
-|:-----------:|:---------------------------------:|:------------:|:------:|
-| Tue, Oct 22 |     vs [Knicks](/r/NYKnicks)      |  W 132-109   |        |
-| Thu, Oct 24 | @ [Wizards](/r/washingtonwizards) |  W 122-102   |        |
-| Sat, Oct 26 |  @ [Pistons](/r/DetroitPistons)   |  W 124-118   |        |
-| Mon, Oct 28 |      vs [Bucks](/r/MkeBucks)      |  W 119-108   |        |
-| Wed, Oct 30 |       @ [Pacers](/r/pacers)       | L 135-132 OT |        |
+|    DATE     |             OPPONENT              |  RESULT  |  TIME   |
+|:-----------:|:---------------------------------:|:--------:|:-------:|
+| Sat, Nov 2  | @ [Hornets](/r/CharlotteHornets)  |          | 6:00 PM |
+| Mon, Nov 4  |    @ [Hawks](/r/AtlantaHawks)     |          | 7:45 PM |
+| Wed, Nov 6  |    vs [Warriors](/r/warriors)     |          | 7:30 PM |
+| Fri, Nov 8  |       vs [Nets](/r/GoNets)        |          | 7:30 PM |
+| Sun, Nov 10 |      @ [Bucks](/r/MkeBucks)       |          | 3:30 PM |
+| Tue, Nov 12 |    vs [Hawks](/r/AtlantaHawks)    |          | 7:00 PM |
+| Wed, Nov 13 |        @ [Nets](/r/GoNets)        |          | 7:30 PM |
+| Sat, Nov 16 |  vs [Raptors](/r/torontoraptors)  |          | 8:00 PM |
+| Tue, Nov 19 |    vs [Cavs](/r/clevelandcavs)    |          | 7:00 PM |
+| Fri, Nov 22 | @ [Wizards](/r/washingtonwizards) |          | 7:00 PM |
+| Sun, Nov 24 |   vs [Wolves](/r/timberwolves)    |          | 3:30 PM |
+| Mon, Nov 25 |   vs [Clippers](/r/LAClippers)    |          | 7:30 PM |
+| Fri, Nov 29 |    @ [Bulls](/r/chicagobulls)     |          | 8:00 PM |
