@@ -1,7 +1,7 @@
 |    DATE     |          OPPONENT          |  RESULT   |  TIME   |
 |:-----------:|:--------------------------:|:---------:|:-------:|
 | Fri, Nov 1  | @ [](/r/charlottehornets)  | W 124-109 |         |
-| Mon, Nov 4  |   @ [](/r/atlantahawks)    |           | 7:45 PM |
+| Sat, Nov 2  | @ [](/r/charlottehornets)  | W 113-103 |         |
 | Wed, Nov 6  |     vs [](/r/warriors)     |           | 7:30 PM |
 | Fri, Nov 8  |      vs [](/r/gonets)      |           | 7:30 PM |
 | Sun, Nov 10 |     @ [](/r/mkebucks)      |           | 3:30 PM |
