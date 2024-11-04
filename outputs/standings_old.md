@@ -5,10 +5,10 @@
 | [](/r/nyknicks) Knicks           |  3  |  2  | 0.600 | 3.000 |
 | [](/r/heat) Heat                 |  3  |  2  | 0.600 | 3.000 |
 | [](/r/chicagobulls) Bulls        |  3  |  3  | 0.500 | 3.500 |
-| [](/r/orlandomagic) Magic        |  3  |  3  | 0.500 | 3.500 |
+| [](/r/orlandomagic) Magic        |  3  |  4  | 0.429 | 4.000 |
+| [](/r/atlantahawks) Hawks        |  3  |  4  | 0.429 | 4.000 |
 | [](/r/gonets) Nets               |  3  |  4  | 0.429 | 4.000 |
 | [](/r/washingtonwizards) Wizards |  2  |  3  | 0.400 | 4.000 |
-| [](/r/atlantahawks) Hawks        |  2  |  4  | 0.333 | 4.500 |
 | [](/r/pacers) Pacers             |  2  |  4  | 0.333 | 4.500 |
 | [](/r/charlottehornets) Hornets  |  2  |  4  | 0.333 | 4.500 |
 | [](/r/torontoraptors) Raptors    |  2  |  5  | 0.286 | 5.000 |
