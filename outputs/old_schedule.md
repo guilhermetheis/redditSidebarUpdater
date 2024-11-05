@@ -2,7 +2,7 @@
 |:-----------:|:--------------------------:|:---------:|:-------:|
 | Fri, Nov 1  | @ [](/r/charlottehornets)  | W 124-109 |         |
 | Sat, Nov 2  | @ [](/r/charlottehornets)  | W 113-103 |         |
-| Mon, Nov 4  |   @ [](/r/atlantahawks)    |           |  LIVE   |
+| Mon, Nov 4  |   @ [](/r/atlantahawks)    | W 123-93  |         |
 | Wed, Nov 6  |     vs [](/r/warriors)     |           | 7:30 PM |
 | Fri, Nov 8  |      vs [](/r/gonets)      |           | 7:30 PM |
 | Sun, Nov 10 |     @ [](/r/mkebucks)      |           | 3:30 PM |
