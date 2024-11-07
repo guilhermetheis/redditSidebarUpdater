@@ -3,7 +3,7 @@
 | Fri, Nov 1  | @ [Hornets](/r/CharlotteHornets)  | W 124-109 |         |
 | Sat, Nov 2  | @ [Hornets](/r/CharlotteHornets)  | W 113-103 |         |
 | Mon, Nov 4  |    @ [Hawks](/r/AtlantaHawks)     | W 123-93  |         |
-| Wed, Nov 6  |    vs [Warriors](/r/warriors)     |           |  LIVE   |
+| Wed, Nov 6  |    vs [Warriors](/r/warriors)     | L 118-112 |         |
 | Fri, Nov 8  |       vs [Nets](/r/GoNets)        |           | 7:30 PM |
 | Sun, Nov 10 |      @ [Bucks](/r/MkeBucks)       |           | 3:30 PM |
 | Tue, Nov 12 |    vs [Hawks](/r/AtlantaHawks)    |           | 7:00 PM |
