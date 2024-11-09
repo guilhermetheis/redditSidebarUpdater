@@ -4,7 +4,7 @@
 | Sat, Nov 2  | @ [](/r/charlottehornets)  | W 113-103 |         |
 | Mon, Nov 4  |   @ [](/r/atlantahawks)    | W 123-93  |         |
 | Wed, Nov 6  |     vs [](/r/warriors)     | L 118-112 |         |
-| Fri, Nov 8  |      vs [](/r/gonets)      |           | 7:30 PM |
+| Fri, Nov 8  |      vs [](/r/gonets)      |           |  LIVE   |
 | Sun, Nov 10 |     @ [](/r/mkebucks)      |           | 3:30 PM |
 | Tue, Nov 12 |   vs [](/r/atlantahawks)   |           | 7:00 PM |
 | Wed, Nov 13 |      @ [](/r/gonets)       |           | 7:30 PM |
