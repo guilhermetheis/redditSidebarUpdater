@@ -5,7 +5,7 @@
 | Mon, Nov 4  |    @ [Hawks](/r/AtlantaHawks)     |   W 123-93   |         |
 | Wed, Nov 6  |    vs [Warriors](/r/warriors)     |  L 118-112   |         |
 | Fri, Nov 8  |       vs [Nets](/r/GoNets)        | W 108-104 OT |         |
-| Sun, Nov 10 |      @ [Bucks](/r/MkeBucks)       |              | 3:30 PM |
+| Sun, Nov 10 |      @ [Bucks](/r/MkeBucks)       |  W 113-107   |         |
 | Tue, Nov 12 |    vs [Hawks](/r/AtlantaHawks)    |              | 7:00 PM |
 | Wed, Nov 13 |        @ [Nets](/r/GoNets)        |              | 7:30 PM |
 | Sat, Nov 16 |  vs [Raptors](/r/torontoraptors)  |              | 8:00 PM |
