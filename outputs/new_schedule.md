@@ -7,7 +7,7 @@
 | Fri, Nov 8  |       vs [Nets](/r/GoNets)        | W 108-104 OT |         |
 | Sun, Nov 10 |      @ [Bucks](/r/MkeBucks)       |  W 113-107   |         |
 | Tue, Nov 12 |    vs [Hawks](/r/AtlantaHawks)    |  L 117-116   |         |
-| Wed, Nov 13 |        @ [Nets](/r/GoNets)        |              |  LIVE   |
+| Wed, Nov 13 |        @ [Nets](/r/GoNets)        |  W 139-114   |         |
 | Sat, Nov 16 |  vs [Raptors](/r/torontoraptors)  |              | 8:00 PM |
 | Tue, Nov 19 |    vs [Cavs](/r/clevelandcavs)    |              | 7:00 PM |
 | Fri, Nov 22 | @ [Wizards](/r/washingtonwizards) |              | 7:00 PM |
