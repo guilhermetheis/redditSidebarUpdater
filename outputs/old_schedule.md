@@ -8,7 +8,7 @@
 | Sun, Nov 10 |     @ [](/r/mkebucks)      |  W 113-107   |         |
 | Tue, Nov 12 |   vs [](/r/atlantahawks)   |  L 117-116   |         |
 | Wed, Nov 13 |      @ [](/r/gonets)       |  W 139-114   |         |
-| Sat, Nov 16 |  vs [](/r/torontoraptors)  |              |  LIVE   |
+| Sat, Nov 16 |  vs [](/r/torontoraptors)  | W 126-123 OT |         |
 | Tue, Nov 19 |  vs [](/r/clevelandcavs)   |              | 7:00 PM |
 | Fri, Nov 22 | @ [](/r/washingtonwizards) |              | 7:00 PM |
 | Sun, Nov 24 |   vs [](/r/timberwolves)   |              | 3:30 PM |
