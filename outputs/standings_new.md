@@ -2,8 +2,8 @@
 |:--------------------------------|:---:|:---:|:-----:|:------:|
 | [Cavs](/r/clevelandcavs)        | 16  |  1  | 0.941 | 0.000  |
 | [Celtics](/r/bostonceltics)     | 13  |  3  | 0.813 | 2.500  |
-| [Knicks](/r/NYKnicks)           |  9  |  6  | 0.600 | 6.000  |
 | [Magic](/r/OrlandoMagic)        | 10  |  7  | 0.588 | 6.000  |
+| [Knicks](/r/NYKnicks)           |  9  |  7  | 0.563 | 6.500  |
 | [Heat](/r/heat)                 |  6  |  7  | 0.462 | 8.000  |
 | [Bucks](/r/MkeBucks)            |  7  |  9  | 0.438 | 8.500  |
 | [Bulls](/r/chicagobulls)        |  7  | 10  | 0.412 | 9.000  |
