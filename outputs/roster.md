@@ -3,7 +3,7 @@
 |      [Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown)      | 25.6  | 43.5  | 32.7  |  6.7  |  4.4  |   1.4   |
 |      [Tatum](https://www.espn.com/nba/player/_/id/4065648/jayson-tatum)      | 28.9  |  45   | 37.4  |  8.2  |  5.9  |    2    |
 |      [Holiday](https://www.espn.com/nba/player/_/id/3995/jrue-holiday)       | 12.6  | 47.7  |  37   |  4.1  |  3.8  |   1.1   |
-| [Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
+| [Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | 20.1  | 51.6  | 37.5  |  7.2  |   2   |   2.6   |
 |     [White](https://www.espn.com/nba/player/_/id/3078576/derrick-white)      | 18.4  |  47   | 40.6  |  4.7  |  4.3  |    2    |
 |       [Horford](https://www.espn.com/nba/player/_/id/3213/al-horford)        | 10.1  | 49.5  | 44.6  |  5.4  |  2.4  |   1.8   |
 |  [Pritchard](https://www.espn.com/nba/player/_/id/4066354/payton-pritchard)  | 14.5  | 46.9  | 41.3  |  2.6  |  2.9  |   1.2   |

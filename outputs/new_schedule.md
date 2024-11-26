@@ -12,5 +12,5 @@
 | Tue, Nov 19 |    vs [Cavs](/r/clevelandcavs)    |  W 120-117   |         |
 | Fri, Nov 22 | @ [Wizards](/r/washingtonwizards) |   W 108-96   |         |
 | Sun, Nov 24 |   vs [Wolves](/r/timberwolves)    |  W 107-105   |         |
-| Mon, Nov 25 |   vs [Clippers](/r/LAClippers)    |              | 7:30 PM |
+| Mon, Nov 25 |   vs [Clippers](/r/LAClippers)    |              |  LIVE   |
 | Fri, Nov 29 |    @ [Bulls](/r/chicagobulls)     |              | 8:00 PM |
