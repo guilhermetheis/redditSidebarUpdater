@@ -13,4 +13,4 @@
 | Fri, Nov 22 | @ [](/r/washingtonwizards) |   W 108-96   |        |
 | Sun, Nov 24 |   vs [](/r/timberwolves)   |  W 107-105   |        |
 | Mon, Nov 25 |    vs [](/r/laclippers)    |   W 126-94   |        |
-| Fri, Nov 29 |   @ [](/r/chicagobulls)    |              |  LIVE  |
+| Fri, Nov 29 |   @ [](/r/chicagobulls)    |  W 138-129   |        |
