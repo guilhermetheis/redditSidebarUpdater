@@ -1,16 +1,14 @@
-|    DATE     |          OPPONENT          |    RESULT    |  TIME  |
-|:-----------:|:--------------------------:|:------------:|:------:|
-| Fri, Nov 1  | @ [](/r/charlottehornets)  |  W 124-109   |        |
-| Sat, Nov 2  | @ [](/r/charlottehornets)  |  W 113-103   |        |
-| Mon, Nov 4  |   @ [](/r/atlantahawks)    |   W 123-93   |        |
-| Wed, Nov 6  |     vs [](/r/warriors)     |  L 118-112   |        |
-| Fri, Nov 8  |      vs [](/r/gonets)      | W 108-104 OT |        |
-| Sun, Nov 10 |     @ [](/r/mkebucks)      |  W 113-107   |        |
-| Tue, Nov 12 |   vs [](/r/atlantahawks)   |  L 117-116   |        |
-| Wed, Nov 13 |      @ [](/r/gonets)       |  W 139-114   |        |
-| Sat, Nov 16 |  vs [](/r/torontoraptors)  | W 126-123 OT |        |
-| Tue, Nov 19 |  vs [](/r/clevelandcavs)   |  W 120-117   |        |
-| Fri, Nov 22 | @ [](/r/washingtonwizards) |   W 108-96   |        |
-| Sun, Nov 24 |   vs [](/r/timberwolves)   |  W 107-105   |        |
-| Mon, Nov 25 |    vs [](/r/laclippers)    |   W 126-94   |        |
-| Fri, Nov 29 |   @ [](/r/chicagobulls)    |  W 138-129   |        |
+|    DATE     |          OPPONENT          |  RESULT  |  TIME   |
+|:-----------:|:--------------------------:|:--------:|:-------:|
+| Sun, Dec 1  |   @ [](/r/clevelandcavs)   |          | 6:00 PM |
+| Mon, Dec 2  |       vs [](/r/heat)       |          | 7:30 PM |
+| Wed, Dec 4  |  vs [](/r/detroitpistons)  |          | 7:30 PM |
+| Fri, Dec 6  |     vs [](/r/mkebucks)     |          | 7:30 PM |
+| Sat, Dec 7  | vs [](/r/memphisgrizzlies) |          | 8:00 PM |
+| Thu, Dec 19 |   vs [](/r/chicagobulls)   |          | 7:30 PM |
+| Sat, Dec 21 |   @ [](/r/chicagobulls)    |          | 8:00 PM |
+| Mon, Dec 23 |   @ [](/r/orlandomagic)    |          | 7:00 PM |
+| Wed, Dec 25 |      vs [](/r/sixers)      |          | 5:00 PM |
+| Fri, Dec 27 |      vs [](/r/pacers)      |          | 7:30 PM |
+| Sun, Dec 29 |      vs [](/r/pacers)      |          | 6:00 PM |
+| Tue, Dec 31 |  vs [](/r/torontoraptors)  |          | 3:00 PM |

@@ -1,16 +1,14 @@
-|    DATE     |             OPPONENT              |    RESULT    |  TIME  |
-|:-----------:|:---------------------------------:|:------------:|:------:|
-| Fri, Nov 1  | @ [Hornets](/r/CharlotteHornets)  |  W 124-109   |        |
-| Sat, Nov 2  | @ [Hornets](/r/CharlotteHornets)  |  W 113-103   |        |
-| Mon, Nov 4  |    @ [Hawks](/r/AtlantaHawks)     |   W 123-93   |        |
-| Wed, Nov 6  |    vs [Warriors](/r/warriors)     |  L 118-112   |        |
-| Fri, Nov 8  |       vs [Nets](/r/GoNets)        | W 108-104 OT |        |
-| Sun, Nov 10 |      @ [Bucks](/r/MkeBucks)       |  W 113-107   |        |
-| Tue, Nov 12 |    vs [Hawks](/r/AtlantaHawks)    |  L 117-116   |        |
-| Wed, Nov 13 |        @ [Nets](/r/GoNets)        |  W 139-114   |        |
-| Sat, Nov 16 |  vs [Raptors](/r/torontoraptors)  | W 126-123 OT |        |
-| Tue, Nov 19 |    vs [Cavs](/r/clevelandcavs)    |  W 120-117   |        |
-| Fri, Nov 22 | @ [Wizards](/r/washingtonwizards) |   W 108-96   |        |
-| Sun, Nov 24 |   vs [Wolves](/r/timberwolves)    |  W 107-105   |        |
-| Mon, Nov 25 |   vs [Clippers](/r/LAClippers)    |   W 126-94   |        |
-| Fri, Nov 29 |    @ [Bulls](/r/chicagobulls)     |  W 138-129   |        |
+|    DATE     |             OPPONENT              |  RESULT  |  TIME   |
+|:-----------:|:---------------------------------:|:--------:|:-------:|
+| Sun, Dec 1  |    @ [Cavs](/r/clevelandcavs)     |          | 6:00 PM |
+| Mon, Dec 2  |        vs [Heat](/r/heat)         |          | 7:30 PM |
+| Wed, Dec 4  |  vs [Pistons](/r/DetroitPistons)  |          | 7:30 PM |
+| Fri, Dec 6  |      vs [Bucks](/r/MkeBucks)      |          | 7:30 PM |
+| Sat, Dec 7  | vs [Memphis](/r/memphisgrizzlies) |          | 8:00 PM |
+| Thu, Dec 19 |    vs [Bulls](/r/chicagobulls)    |          | 7:30 PM |
+| Sat, Dec 21 |    @ [Bulls](/r/chicagobulls)     |          | 8:00 PM |
+| Mon, Dec 23 |    @ [Magic](/r/OrlandoMagic)     |          | 7:00 PM |
+| Wed, Dec 25 |      vs [Philly](/r/sixers)       |          | 5:00 PM |
+| Fri, Dec 27 |      vs [Pacers](/r/pacers)       |          | 7:30 PM |
+| Sun, Dec 29 |      vs [Pacers](/r/pacers)       |          | 6:00 PM |
+| Tue, Dec 31 |  vs [Raptors](/r/torontoraptors)  |          | 3:00 PM |
