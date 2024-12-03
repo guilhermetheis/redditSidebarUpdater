@@ -1,7 +1,7 @@
 |    DATE     |             OPPONENT              |  RESULT   |  TIME   |
 |:-----------:|:---------------------------------:|:---------:|:-------:|
 | Sun, Dec 1  |    @ [Cavs](/r/clevelandcavs)     | L 115-111 |         |
-| Mon, Dec 2  |        vs [Heat](/r/heat)         |           | 7:30 PM |
+| Mon, Dec 2  |        vs [Heat](/r/heat)         |           |  LIVE   |
 | Wed, Dec 4  |  vs [Pistons](/r/DetroitPistons)  |           | 7:30 PM |
 | Fri, Dec 6  |      vs [Bucks](/r/MkeBucks)      |           | 7:30 PM |
 | Sat, Dec 7  | vs [Memphis](/r/memphisgrizzlies) |           | 8:00 PM |
