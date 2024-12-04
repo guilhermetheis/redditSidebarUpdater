@@ -5,6 +5,8 @@
 | Wed, Dec 4  |  vs [](/r/detroitpistons)  |           | 7:30 PM |
 | Fri, Dec 6  |     vs [](/r/mkebucks)     |           | 7:30 PM |
 | Sat, Dec 7  | vs [](/r/memphisgrizzlies) |           | 8:00 PM |
+| Thu, Dec 12 |  vs [](/r/detroitpistons)  |           | 7:30 PM |
+| Sun, Dec 15 | @ [](/r/washingtonwizards) |           | 6:00 PM |
 | Thu, Dec 19 |   vs [](/r/chicagobulls)   |           | 7:30 PM |
 | Sat, Dec 21 |   @ [](/r/chicagobulls)    |           | 8:00 PM |
 | Mon, Dec 23 |   @ [](/r/orlandomagic)    |           | 7:00 PM |
