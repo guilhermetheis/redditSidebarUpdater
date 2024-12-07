@@ -3,7 +3,7 @@
 | Sun, Dec 1  |   @ [](/r/clevelandcavs)   | L 115-111 |         |
 | Mon, Dec 2  |       vs [](/r/heat)       | W 108-89  |         |
 | Wed, Dec 4  |  vs [](/r/detroitpistons)  | W 130-120 |         |
-| Fri, Dec 6  |     vs [](/r/mkebucks)     |           | 7:30 PM |
+| Fri, Dec 6  |     vs [](/r/mkebucks)     |           |  LIVE   |
 | Sat, Dec 7  | vs [](/r/memphisgrizzlies) |           | 8:00 PM |
 | Thu, Dec 12 |  vs [](/r/detroitpistons)  |           | 7:30 PM |
 | Sun, Dec 15 | @ [](/r/washingtonwizards) |           | 6:00 PM |
