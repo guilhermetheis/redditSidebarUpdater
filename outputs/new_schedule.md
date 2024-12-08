@@ -4,7 +4,7 @@
 | Mon, Dec 2  |        vs [Heat](/r/heat)         | W 108-89  |         |
 | Wed, Dec 4  |  vs [Pistons](/r/DetroitPistons)  | W 130-120 |         |
 | Fri, Dec 6  |      vs [Bucks](/r/MkeBucks)      | W 111-105 |         |
-| Sat, Dec 7  | vs [Memphis](/r/memphisgrizzlies) |           |  LIVE   |
+| Sat, Dec 7  | vs [Memphis](/r/memphisgrizzlies) | L 127-121 |         |
 | Thu, Dec 12 |  vs [Pistons](/r/DetroitPistons)  |           | 7:30 PM |
 | Sun, Dec 15 | @ [Wizards](/r/washingtonwizards) |           | 6:00 PM |
 | Thu, Dec 19 |    vs [Bulls](/r/chicagobulls)    |           | 7:30 PM |
