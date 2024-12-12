@@ -3,10 +3,10 @@
 | [Cavs](/r/clevelandcavs)        | 21  |  4  | 0.840 | 0.000  |
 | [Celtics](/r/bostonceltics)     | 19  |  5  | 0.792 | 1.500  |
 | [Magic](/r/OrlandoMagic)        | 17  | 10  | 0.630 | 5.000  |
-| [Knicks](/r/NYKnicks)           | 15  |  9  | 0.625 | 5.500  |
+| [Knicks](/r/NYKnicks)           | 15  | 10  | 0.600 | 6.000  |
 | [Heat](/r/heat)                 | 12  | 10  | 0.545 | 7.500  |
 | [Bucks](/r/MkeBucks)            | 13  | 11  | 0.542 | 7.500  |
-| [Hawks](/r/AtlantaHawks)        | 13  | 12  | 0.520 | 8.000  |
+| [Hawks](/r/AtlantaHawks)        | 14  | 12  | 0.538 | 7.500  |
 | [Nets](/r/GoNets)               | 10  | 14  | 0.417 | 10.500 |
 | [Pacers](/r/pacers)             | 10  | 15  | 0.400 | 11.000 |
 | [Bulls](/r/chicagobulls)        | 10  | 15  | 0.400 | 11.000 |
