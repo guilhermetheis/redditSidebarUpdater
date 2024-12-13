@@ -5,7 +5,7 @@
 | Wed, Dec 4  |  vs [](/r/detroitpistons)  | W 130-120 |         |
 | Fri, Dec 6  |     vs [](/r/mkebucks)     | W 111-105 |         |
 | Sat, Dec 7  | vs [](/r/memphisgrizzlies) | L 127-121 |         |
-| Thu, Dec 12 |  vs [](/r/detroitpistons)  |           | 7:30 PM |
+| Thu, Dec 12 |  vs [](/r/detroitpistons)  |           |  LIVE   |
 | Sun, Dec 15 | @ [](/r/washingtonwizards) |           | 6:00 PM |
 | Thu, Dec 19 |   vs [](/r/chicagobulls)   |           | 7:30 PM |
 | Sat, Dec 21 |   @ [](/r/chicagobulls)    |           | 8:00 PM |
