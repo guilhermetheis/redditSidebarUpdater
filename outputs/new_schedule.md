@@ -6,7 +6,7 @@
 | Fri, Dec 6  |      vs [Bucks](/r/MkeBucks)      | W 111-105 |         |
 | Sat, Dec 7  | vs [Memphis](/r/memphisgrizzlies) | L 127-121 |         |
 | Thu, Dec 12 |  vs [Pistons](/r/DetroitPistons)  | W 123-99  |         |
-| Sun, Dec 15 | @ [Wizards](/r/washingtonwizards) |           | 6:00 PM |
+| Sun, Dec 15 | @ [Wizards](/r/washingtonwizards) | W 112-98  |         |
 | Thu, Dec 19 |    vs [Bulls](/r/chicagobulls)    |           | 7:30 PM |
 | Sat, Dec 21 |    @ [Bulls](/r/chicagobulls)     |           | 8:00 PM |
 | Mon, Dec 23 |    @ [Magic](/r/OrlandoMagic)     |           | 7:00 PM |
