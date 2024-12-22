@@ -8,7 +8,7 @@
 | Thu, Dec 12 |  vs [](/r/detroitpistons)  | W 123-99  |         |
 | Sun, Dec 15 | @ [](/r/washingtonwizards) | W 112-98  |         |
 | Thu, Dec 19 |   vs [](/r/chicagobulls)   | L 117-108 |         |
-| Sat, Dec 21 |   @ [](/r/chicagobulls)    |           |  LIVE   |
+| Sat, Dec 21 |   @ [](/r/chicagobulls)    | W 123-98  |         |
 | Mon, Dec 23 |   @ [](/r/orlandomagic)    |           | 7:00 PM |
 | Wed, Dec 25 |      vs [](/r/sixers)      |           | 5:00 PM |
 | Fri, Dec 27 |      vs [](/r/pacers)      |           | 7:30 PM |
