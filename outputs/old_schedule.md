@@ -12,5 +12,5 @@
 | Mon, Dec 23 |   @ [](/r/orlandomagic)    | L 108-104 |         |
 | Wed, Dec 25 |      vs [](/r/sixers)      | L 118-114 |         |
 | Fri, Dec 27 |      vs [](/r/pacers)      | W 142-105 |         |
-| Sun, Dec 29 |      vs [](/r/pacers)      |           | 6:00 PM |
+| Sun, Dec 29 |      vs [](/r/pacers)      | L 123-114 |         |
 | Tue, Dec 31 |  vs [](/r/torontoraptors)  |           | 3:00 PM |
