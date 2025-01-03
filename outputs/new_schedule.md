@@ -1,6 +1,6 @@
 |    DATE     |            OPPONENT            |  RESULT  |   TIME   |
 |:-----------:|:------------------------------:|:--------:|:--------:|
-| Thu, Jan 2  |  @ [Wolves](/r/timberwolves)   |          | 7:30 PM  |
+| Thu, Jan 2  |  @ [Wolves](/r/timberwolves)   |          |   LIVE   |
 | Fri, Jan 3  |    @ [Houston](/r/rockets)     |          | 8:00 PM  |
 | Sun, Jan 5  |    @ [Thunder](/r/Thunder)     |          | 3:30 PM  |
 | Tue, Jan 7  |  @ [Denver](/r/denvernuggets)  |          | 10:00 PM |
