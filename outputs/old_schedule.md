@@ -1,7 +1,7 @@
 |    DATE     |        OPPONENT         |  RESULT   |   TIME   |
 |:-----------:|:-----------------------:|:---------:|:--------:|
 | Thu, Jan 2  |  @ [](/r/timberwolves)  | W 118-115 |          |
-| Fri, Jan 3  |    @ [](/r/rockets)     |           |   LIVE   |
+| Fri, Jan 3  |    @ [](/r/rockets)     | W 109-86  |          |
 | Sun, Jan 5  |    @ [](/r/thunder)     |           | 3:30 PM  |
 | Tue, Jan 7  | @ [](/r/denvernuggets)  |           | 10:00 PM |
 | Fri, Jan 10 |     vs [](/r/kings)     |           | 7:30 PM  |
