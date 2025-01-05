@@ -2,14 +2,14 @@
 |:--------------------------------|:---:|:---:|:-----:|:------:|
 | [Cavs](/r/clevelandcavs)        | 30  |  4  | 0.882 | 0.000  |
 | [Celtics](/r/bostonceltics)     | 26  |  9  | 0.743 | 4.500  |
-| [Knicks](/r/NYKnicks)           | 24  | 11  | 0.686 | 6.500  |
+| [Knicks](/r/NYKnicks)           | 24  | 12  | 0.667 | 7.000  |
 | [Magic](/r/OrlandoMagic)        | 21  | 15  | 0.583 | 10.000 |
-| [Bucks](/r/MkeBucks)            | 17  | 15  | 0.531 | 12.000 |
-| [Heat](/r/heat)                 | 17  | 15  | 0.531 | 12.000 |
-| [Hawks](/r/AtlantaHawks)        | 18  | 17  | 0.514 | 12.500 |
-| [Pacers](/r/pacers)             | 17  | 18  | 0.486 | 13.500 |
-| [Pistons](/r/DetroitPistons)    | 16  | 18  | 0.471 | 14.000 |
-| [Bulls](/r/chicagobulls)        | 15  | 19  | 0.441 | 15.000 |
+| [Bucks](/r/MkeBucks)            | 17  | 16  | 0.515 | 12.500 |
+| [Heat](/r/heat)                 | 17  | 16  | 0.515 | 12.500 |
+| [Hawks](/r/AtlantaHawks)        | 18  | 18  | 0.500 | 13.000 |
+| [Pacers](/r/pacers)             | 18  | 18  | 0.500 | 13.000 |
+| [Pistons](/r/DetroitPistons)    | 17  | 18  | 0.486 | 13.500 |
+| [Bulls](/r/chicagobulls)        | 16  | 19  | 0.457 | 14.500 |
 | [Philly](/r/sixers)             | 14  | 19  | 0.424 | 15.500 |
 | [Nets](/r/GoNets)               | 13  | 22  | 0.371 | 17.500 |
 | [Raptors](/r/torontoraptors)    |  8  | 27  | 0.229 | 22.500 |
