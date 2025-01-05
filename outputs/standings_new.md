@@ -10,8 +10,8 @@
 | [Pacers](/r/pacers)             | 17  | 18  | 0.486 | 13.500 |
 | [Pistons](/r/DetroitPistons)    | 16  | 18  | 0.471 | 14.000 |
 | [Bulls](/r/chicagobulls)        | 15  | 19  | 0.441 | 15.000 |
-| [Philly](/r/sixers)             | 13  | 19  | 0.406 | 16.000 |
-| [Nets](/r/GoNets)               | 13  | 21  | 0.382 | 17.000 |
+| [Philly](/r/sixers)             | 14  | 19  | 0.424 | 15.500 |
+| [Nets](/r/GoNets)               | 13  | 22  | 0.371 | 17.500 |
 | [Raptors](/r/torontoraptors)    |  8  | 27  | 0.229 | 22.500 |
 | [Hornets](/r/CharlotteHornets)  |  7  | 26  | 0.212 | 22.500 |
 | [Wizards](/r/washingtonwizards) |  6  | 26  | 0.188 | 23.000 |
