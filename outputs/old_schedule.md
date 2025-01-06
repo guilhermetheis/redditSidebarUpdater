@@ -2,7 +2,7 @@
 |:-----------:|:-----------------------:|:---------:|:--------:|
 | Thu, Jan 2  |  @ [](/r/timberwolves)  | W 118-115 |          |
 | Fri, Jan 3  |    @ [](/r/rockets)     | W 109-86  |          |
-| Sun, Jan 5  |    @ [](/r/thunder)     |           | 3:30 PM  |
+| Sun, Jan 5  |    @ [](/r/thunder)     | L 105-92  |          |
 | Tue, Jan 7  | @ [](/r/denvernuggets)  |           | 10:00 PM |
 | Fri, Jan 10 |     vs [](/r/kings)     |           | 7:30 PM  |
 | Sun, Jan 12 | vs [](/r/nolapelicans)  |           | 6:00 PM  |
