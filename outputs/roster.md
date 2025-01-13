@@ -1,18 +1,18 @@
 |                                     Name                                     |  PPG  |  FG%  |  3P%  |  RBG  |  APG  |  STOCK  |
 |:----------------------------------------------------------------------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:|
-|      [Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown)      | 24.1  |  46   | 32.2  |  5.8  |  4.7  |   1.6   |
-|      [Tatum](https://www.espn.com/nba/player/_/id/4065648/jayson-tatum)      | 27.8  | 46.1  | 36.4  |  9.3  |  5.5  |   1.8   |
-|      [Holiday](https://www.espn.com/nba/player/_/id/3995/jrue-holiday)       |  12   | 45.3  | 34.5  |  4.2  |  3.9  |   1.4   |
-| [Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | 18.5  | 45.3  | 34.9  |   7   |  1.6  |   2.1   |
-|     [White](https://www.espn.com/nba/player/_/id/3078576/derrick-white)      | 16.7  | 44.6  | 38.5  |  4.4  |  4.4  |   2.2   |
-|       [Horford](https://www.espn.com/nba/player/_/id/3213/al-horford)        |  8.5  | 42.1  |  36   |  5.4  |  2.2  |   1.6   |
-|  [Pritchard](https://www.espn.com/nba/player/_/id/4066354/payton-pritchard)  | 14.7  | 46.4  | 41.4  |  3.7  |  3.3  |    1    |
+|      [Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown)      | 23.8  |  46   | 31.9  |  5.9  |  4.8  |   1.6   |
+|      [Tatum](https://www.espn.com/nba/player/_/id/4065648/jayson-tatum)      | 28.1  | 46.2  | 35.9  |  9.4  |  5.3  |   1.8   |
+|      [Holiday](https://www.espn.com/nba/player/_/id/3995/jrue-holiday)       | 11.8  | 45.1  | 34.3  |  4.2  |   4   |   1.5   |
+| [Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | 18.6  | 44.5  | 34.7  |  7.3  |  1.6  |   2.2   |
+|     [White](https://www.espn.com/nba/player/_/id/3078576/derrick-white)      | 16.4  | 44.3  | 37.9  |  4.4  |  4.3  |   2.3   |
+|       [Horford](https://www.espn.com/nba/player/_/id/3213/al-horford)        |  8.5  | 42.7  |  37   |  5.5  |  2.1  |   1.5   |
+|  [Pritchard](https://www.espn.com/nba/player/_/id/4066354/payton-pritchard)  | 14.6  | 46.2  | 41.3  |  3.6  |  3.3  |    1    |
 |   [Springer](https://www.espn.com/nba/player/_/id/4432164/jaden-springer)    |  1.3  | 28.6  |   0   |  0.9  |  0.3  |   0.3   |
 | [Scheierman](https://www.espn.com/nba/player/_/id/4593841/baylor-scheierman) |  0.8  |  10   |   0   |  1.4  |  0.4  |   0.2   |
 |    [Tillman](https://www.espn.com/nba/player/_/id/4277964/xavier-tillman)    |  1.1  | 27.8  | 21.1  |  1.5  |  0.3  |   0.5   |
 |     [Queta](https://www.espn.com/nba/player/_/id/4397424/neemias-queta)      |  5.4  | 66.1  |   0   |  4.2  |  0.6  |   1.1   |
-|      [Hauser](https://www.espn.com/nba/player/_/id/4065804/sam-hauser)       |  7.7  | 43.3  | 37.4  |   3   |  1.1  |   0.9   |
-|      [Kornet](https://www.espn.com/nba/player/_/id/3064560/luke-kornet)      |  4.6  |  63   |   0   |  5.1  |  1.5  |   1.5   |
+|      [Hauser](https://www.espn.com/nba/player/_/id/4065804/sam-hauser)       |  7.6  | 43.3  | 37.6  |   3   |  1.1  |   0.9   |
+|      [Kornet](https://www.espn.com/nba/player/_/id/3064560/luke-kornet)      |  4.7  | 63.3  |   0   |  5.1  |  1.5  |   1.5   |
 |      [Walsh](https://www.espn.com/nba/player/_/id/4683689/jordan-walsh)      |  1.7  |  34   |  25   |  1.3  |  0.3  |   0.6   |
 |      [Davison](https://www.espn.com/nba/player/_/id/4576085/jd-davison)      |  1.2  |  40   | 33.3  |  0.4  |  0.2  |   0.2   |
 |    [Peterson](https://www.espn.com/nba/player/_/id/4397689/drew-peterson)    |  3.2  |  50   | 41.2  |  2.1  |  0.7  |   0.4   |
