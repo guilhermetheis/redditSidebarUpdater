@@ -5,7 +5,7 @@
 | Sun, Jan 5  |    @ [](/r/thunder)     | L 105-92  |          |
 | Tue, Jan 7  | @ [](/r/denvernuggets)  | W 118-106 |          |
 | Fri, Jan 10 |     vs [](/r/kings)     | L 114-97  |          |
-| Sun, Jan 12 | vs [](/r/nolapelicans)  |           | 6:00 PM  |
+| Sun, Jan 12 | vs [](/r/nolapelicans)  | W 120-119 |          |
 | Wed, Jan 15 | @ [](/r/torontoraptors) |           | 7:30 PM  |
 | Fri, Jan 17 | vs [](/r/orlandomagic)  |           | 7:00 PM  |
 | Sat, Jan 18 | vs [](/r/atlantahawks)  |           | 7:00 PM  |
