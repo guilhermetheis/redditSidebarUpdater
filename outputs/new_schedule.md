@@ -6,7 +6,7 @@
 | Tue, Jan 7  |  @ [Denver](/r/denvernuggets)  | W 118-106 |          |
 | Fri, Jan 10 |      vs [Kings](/r/kings)      | L 114-97  |          |
 | Sun, Jan 12 | vs [Pelicans](/r/NOLAPelicans) | W 120-119 |          |
-| Wed, Jan 15 | @ [Raptors](/r/torontoraptors) |           | 7:30 PM  |
+| Wed, Jan 15 | @ [Raptors](/r/torontoraptors) |           |   LIVE   |
 | Fri, Jan 17 |  vs [Magic](/r/OrlandoMagic)   |           | 7:00 PM  |
 | Sat, Jan 18 |  vs [Hawks](/r/AtlantaHawks)   |           | 7:00 PM  |
 | Mon, Jan 20 |   @ [Warriors](/r/warriors)    |           | 5:00 PM  |
