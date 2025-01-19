@@ -7,7 +7,7 @@
 | [Pacers](/r/pacers)             | 23  | 19  | 0.548 | 12.000 |
 | [Magic](/r/OrlandoMagic)        | 23  | 20  | 0.535 | 12.500 |
 | [Hawks](/r/AtlantaHawks)        | 21  | 19  | 0.525 | 13.000 |
-| [Pistons](/r/DetroitPistons)    | 21  | 20  | 0.512 | 13.500 |
+| [Pistons](/r/DetroitPistons)    | 21  | 21  | 0.500 | 14.000 |
 | [Heat](/r/heat)                 | 20  | 20  | 0.500 | 14.000 |
 | [Bulls](/r/chicagobulls)        | 18  | 24  | 0.429 | 17.000 |
 | [Philly](/r/sixers)             | 15  | 24  | 0.385 | 18.500 |

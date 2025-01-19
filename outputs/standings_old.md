@@ -7,7 +7,7 @@
 | [](/r/pacers) Pacers             | 23  | 19  | 0.548 | 12.000 |
 | [](/r/orlandomagic) Magic        | 23  | 20  | 0.535 | 12.500 |
 | [](/r/atlantahawks) Hawks        | 21  | 19  | 0.525 | 13.000 |
-| [](/r/detroitpistons) Pistons    | 21  | 20  | 0.512 | 13.500 |
+| [](/r/detroitpistons) Pistons    | 21  | 21  | 0.500 | 14.000 |
 | [](/r/heat) Heat                 | 20  | 20  | 0.500 | 14.000 |
 | [](/r/chicagobulls) Bulls        | 18  | 24  | 0.429 | 17.000 |
 | [](/r/sixers) Philly             | 15  | 24  | 0.385 | 18.500 |

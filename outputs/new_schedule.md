@@ -8,7 +8,7 @@
 | Sun, Jan 12 | vs [Pelicans](/r/NOLAPelicans) | W 120-119 |          |
 | Wed, Jan 15 | @ [Raptors](/r/torontoraptors) | L 110-97  |          |
 | Fri, Jan 17 |  vs [Magic](/r/OrlandoMagic)   | W 121-94  |          |
-| Sat, Jan 18 |  vs [Hawks](/r/AtlantaHawks)   |           | 7:00 PM  |
+| Sat, Jan 18 |  vs [Hawks](/r/AtlantaHawks)   |           |   LIVE   |
 | Mon, Jan 20 |   @ [Warriors](/r/warriors)    |           | 5:00 PM  |
 | Wed, Jan 22 |  @ [Clippers](/r/LAClippers)   |           | 10:30 PM |
 | Thu, Jan 23 |     @ [Lakers](/r/lakers)      |           | 10:00 PM |
