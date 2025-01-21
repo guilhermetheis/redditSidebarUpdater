@@ -9,7 +9,7 @@
 | [Magic](/r/OrlandoMagic)        | 23  | 21  | 0.523 | 14.000 |
 | [Heat](/r/heat)                 | 21  | 20  | 0.512 | 14.500 |
 | [Pistons](/r/DetroitPistons)    | 22  | 21  | 0.512 | 14.500 |
-| [Bulls](/r/chicagobulls)        | 18  | 25  | 0.419 | 18.500 |
+| [Bulls](/r/chicagobulls)        | 19  | 25  | 0.432 | 18.000 |
 | [Philly](/r/sixers)             | 15  | 26  | 0.366 | 20.500 |
 | [Nets](/r/GoNets)               | 14  | 29  | 0.326 | 22.500 |
 | [Hornets](/r/CharlotteHornets)  | 11  | 28  | 0.282 | 23.500 |
