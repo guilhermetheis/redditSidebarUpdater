@@ -12,7 +12,7 @@
 | Mon, Jan 20 |    @ [](/r/warriors)    |   W 125-85   |         |
 | Wed, Jan 22 |   @ [](/r/laclippers)   | W 117-113 OT |         |
 | Thu, Jan 23 |     @ [](/r/lakers)     |   L 117-96   |         |
-| Sat, Jan 25 |   @ [](/r/mavericks)    |              | 5:30 PM |
+| Sat, Jan 25 |   @ [](/r/mavericks)    |  W 122-107   |         |
 | Mon, Jan 27 |    vs [](/r/rockets)    |              | 7:30 PM |
 | Wed, Jan 29 | vs [](/r/chicagobulls)  |              | 7:30 PM |
 | Fri, Jan 31 |  @ [](/r/nolapelicans)  |              | 8:00 PM |
