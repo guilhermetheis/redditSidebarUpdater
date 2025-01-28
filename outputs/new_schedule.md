@@ -13,6 +13,6 @@
 | Wed, Jan 22 |  @ [Clippers](/r/LAClippers)   | W 117-113 OT |         |
 | Thu, Jan 23 |     @ [Lakers](/r/lakers)      |   L 117-96   |         |
 | Sat, Jan 25 |    @ [Dallas](/r/Mavericks)    |  W 122-107   |         |
-| Mon, Jan 27 |    vs [Houston](/r/rockets)    |              | 7:30 PM |
+| Mon, Jan 27 |    vs [Houston](/r/rockets)    |              |  LIVE   |
 | Wed, Jan 29 |  vs [Bulls](/r/chicagobulls)   |              | 7:30 PM |
 | Fri, Jan 31 | @ [Pelicans](/r/NOLAPelicans)  |              | 8:00 PM |
