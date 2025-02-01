@@ -1,18 +1,13 @@
-|    DATE     |            OPPONENT            |    RESULT    |  TIME   |
-|:-----------:|:------------------------------:|:------------:|:-------:|
-| Thu, Jan 2  |  @ [Wolves](/r/timberwolves)   |  W 118-115   |         |
-| Fri, Jan 3  |    @ [Houston](/r/rockets)     |   W 109-86   |         |
-| Sun, Jan 5  |    @ [Thunder](/r/Thunder)     |   L 105-92   |         |
-| Tue, Jan 7  |  @ [Denver](/r/denvernuggets)  |  W 118-106   |         |
-| Fri, Jan 10 |      vs [Kings](/r/kings)      |   L 114-97   |         |
-| Sun, Jan 12 | vs [Pelicans](/r/NOLAPelicans) |  W 120-119   |         |
-| Wed, Jan 15 | @ [Raptors](/r/torontoraptors) |   L 110-97   |         |
-| Fri, Jan 17 |  vs [Magic](/r/OrlandoMagic)   |   W 121-94   |         |
-| Sat, Jan 18 |  vs [Hawks](/r/AtlantaHawks)   | L 119-115 OT |         |
-| Mon, Jan 20 |   @ [Warriors](/r/warriors)    |   W 125-85   |         |
-| Wed, Jan 22 |  @ [Clippers](/r/LAClippers)   | W 117-113 OT |         |
-| Thu, Jan 23 |     @ [Lakers](/r/lakers)      |   L 117-96   |         |
-| Sat, Jan 25 |    @ [Dallas](/r/Mavericks)    |  W 122-107   |         |
-| Mon, Jan 27 |    vs [Houston](/r/rockets)    |  L 114-112   |         |
-| Wed, Jan 29 |  vs [Bulls](/r/chicagobulls)   |  W 122-100   |         |
-| Fri, Jan 31 | @ [Pelicans](/r/NOLAPelicans)  |              | 8:00 PM |
+|    DATE     |            OPPONENT            |  RESULT  |  TIME   |
+|:-----------:|:------------------------------:|:--------:|:-------:|
+| Sun, Feb 2  |     @ [Philly](/r/sixers)      |          | 6:00 PM |
+| Tue, Feb 4  |   @ [Cavs](/r/clevelandcavs)   |          | 7:30 PM |
+| Thu, Feb 6  |   vs [Dallas](/r/Mavericks)    |          | 7:30 PM |
+| Sat, Feb 8  |    @ [Knicks](/r/NYKnicks)     |          | 8:30 PM |
+| Mon, Feb 10 |       @ [Heat](/r/heat)        |          | 7:30 PM |
+| Wed, Feb 12 |    vs [Spurs](/r/NBASpurs)     |          | 7:00 PM |
+| Thu, Feb 20 |     @ [Philly](/r/sixers)      |          | 7:00 PM |
+| Sun, Feb 23 |    vs [Knicks](/r/NYKnicks)    |          | 1:00 PM |
+| Tue, Feb 25 | @ [Raptors](/r/torontoraptors) |          | 7:00 PM |
+| Wed, Feb 26 | @ [Pistons](/r/DetroitPistons) |          | 7:00 PM |
+| Fri, Feb 28 |  vs [Cavs](/r/clevelandcavs)   |          | 7:30 PM |

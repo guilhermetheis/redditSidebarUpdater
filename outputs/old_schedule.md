@@ -1,18 +1,13 @@
-|    DATE     |        OPPONENT         |    RESULT    |  TIME   |
-|:-----------:|:-----------------------:|:------------:|:-------:|
-| Thu, Jan 2  |  @ [](/r/timberwolves)  |  W 118-115   |         |
-| Fri, Jan 3  |    @ [](/r/rockets)     |   W 109-86   |         |
-| Sun, Jan 5  |    @ [](/r/thunder)     |   L 105-92   |         |
-| Tue, Jan 7  | @ [](/r/denvernuggets)  |  W 118-106   |         |
-| Fri, Jan 10 |     vs [](/r/kings)     |   L 114-97   |         |
-| Sun, Jan 12 | vs [](/r/nolapelicans)  |  W 120-119   |         |
-| Wed, Jan 15 | @ [](/r/torontoraptors) |   L 110-97   |         |
-| Fri, Jan 17 | vs [](/r/orlandomagic)  |   W 121-94   |         |
-| Sat, Jan 18 | vs [](/r/atlantahawks)  | L 119-115 OT |         |
-| Mon, Jan 20 |    @ [](/r/warriors)    |   W 125-85   |         |
-| Wed, Jan 22 |   @ [](/r/laclippers)   | W 117-113 OT |         |
-| Thu, Jan 23 |     @ [](/r/lakers)     |   L 117-96   |         |
-| Sat, Jan 25 |   @ [](/r/mavericks)    |  W 122-107   |         |
-| Mon, Jan 27 |    vs [](/r/rockets)    |  L 114-112   |         |
-| Wed, Jan 29 | vs [](/r/chicagobulls)  |  W 122-100   |         |
-| Fri, Jan 31 |  @ [](/r/nolapelicans)  |              | 8:00 PM |
+|    DATE     |        OPPONENT         |  RESULT  |  TIME   |
+|:-----------:|:-----------------------:|:--------:|:-------:|
+| Sun, Feb 2  |     @ [](/r/sixers)     |          | 6:00 PM |
+| Tue, Feb 4  | @ [](/r/clevelandcavs)  |          | 7:30 PM |
+| Thu, Feb 6  |   vs [](/r/mavericks)   |          | 7:30 PM |
+| Sat, Feb 8  |    @ [](/r/nyknicks)    |          | 8:30 PM |
+| Mon, Feb 10 |      @ [](/r/heat)      |          | 7:30 PM |
+| Wed, Feb 12 |   vs [](/r/nbaspurs)    |          | 7:00 PM |
+| Thu, Feb 20 |     @ [](/r/sixers)     |          | 7:00 PM |
+| Sun, Feb 23 |   vs [](/r/nyknicks)    |          | 1:00 PM |
+| Tue, Feb 25 | @ [](/r/torontoraptors) |          | 7:00 PM |
+| Wed, Feb 26 | @ [](/r/detroitpistons) |          | 7:00 PM |
+| Fri, Feb 28 | vs [](/r/clevelandcavs) |          | 7:30 PM |
