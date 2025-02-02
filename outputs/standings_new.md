@@ -3,12 +3,12 @@
 | [Cavs](/r/clevelandcavs)        | 39  |  9  | 0.813 | 0.000  |
 | [Celtics](/r/bostonceltics)     | 34  | 15  | 0.694 | 5.500  |
 | [Knicks](/r/NYKnicks)           | 32  | 16  | 0.667 | 7.000  |
+| [Pacers](/r/pacers)             | 27  | 20  | 0.574 | 11.500 |
 | [Bucks](/r/MkeBucks)            | 26  | 20  | 0.565 | 12.000 |
-| [Pacers](/r/pacers)             | 26  | 20  | 0.565 | 12.000 |
 | [Pistons](/r/DetroitPistons)    | 24  | 24  | 0.500 | 15.000 |
 | [Heat](/r/heat)                 | 23  | 23  | 0.500 | 15.000 |
-| [Magic](/r/OrlandoMagic)        | 24  | 25  | 0.490 | 15.500 |
-| [Hawks](/r/AtlantaHawks)        | 22  | 26  | 0.458 | 17.000 |
+| [Magic](/r/OrlandoMagic)        | 24  | 26  | 0.480 | 16.000 |
+| [Hawks](/r/AtlantaHawks)        | 22  | 27  | 0.449 | 17.500 |
 | [Bulls](/r/chicagobulls)        | 21  | 28  | 0.429 | 18.500 |
 | [Philly](/r/sixers)             | 19  | 28  | 0.404 | 19.500 |
 | [Raptors](/r/torontoraptors)    | 15  | 33  | 0.313 | 24.000 |
