@@ -1,7 +1,7 @@
 |    DATE     |            OPPONENT            |  RESULT   |  TIME   |
 |:-----------:|:------------------------------:|:---------:|:-------:|
 | Sun, Feb 2  |     @ [Philly](/r/sixers)      | W 118-110 |         |
-| Tue, Feb 4  |   @ [Cavs](/r/clevelandcavs)   |           | 7:30 PM |
+| Tue, Feb 4  |   @ [Cavs](/r/clevelandcavs)   |           |  LIVE   |
 | Thu, Feb 6  |   vs [Dallas](/r/Mavericks)    |           | 7:30 PM |
 | Sat, Feb 8  |    @ [Knicks](/r/NYKnicks)     |           | 8:30 PM |
 | Mon, Feb 10 |       @ [Heat](/r/heat)        |           | 7:30 PM |
