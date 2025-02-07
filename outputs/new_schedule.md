@@ -2,7 +2,7 @@
 |:-----------:|:------------------------------:|:---------:|:-------:|
 | Sun, Feb 2  |     @ [Philly](/r/sixers)      | W 118-110 |         |
 | Tue, Feb 4  |   @ [Cavs](/r/clevelandcavs)   | W 112-105 |         |
-| Thu, Feb 6  |   vs [Dallas](/r/Mavericks)    |           | 7:30 PM |
+| Thu, Feb 6  |   vs [Dallas](/r/Mavericks)    |           |  LIVE   |
 | Sat, Feb 8  |    @ [Knicks](/r/NYKnicks)     |           | 8:30 PM |
 | Mon, Feb 10 |       @ [Heat](/r/heat)        |           | 7:30 PM |
 | Wed, Feb 12 |    vs [Spurs](/r/NBASpurs)     |           | 7:00 PM |
