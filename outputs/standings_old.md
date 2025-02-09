@@ -3,7 +3,7 @@
 | [](/r/clevelandcavs) Cavs        | 42  | 10  | 0.808 | 0.000  |
 | [](/r/bostonceltics) Celtics     | 36  | 16  | 0.692 | 6.000  |
 | [](/r/nyknicks) Knicks           | 34  | 17  | 0.667 | 7.500  |
-| [](/r/pacers) Pacers             | 29  | 21  | 0.580 | 12.000 |
+| [](/r/pacers) Pacers             | 29  | 22  | 0.569 | 12.500 |
 | [](/r/mkebucks) Bucks            | 27  | 23  | 0.540 | 14.000 |
 | [](/r/detroitpistons) Pistons    | 26  | 26  | 0.500 | 16.000 |
 | [](/r/heat) Heat                 | 25  | 25  | 0.500 | 16.000 |

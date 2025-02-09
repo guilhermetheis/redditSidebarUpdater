@@ -7,6 +7,7 @@
 |     [White](https://www.espn.com/nba/player/_/id/3078576/derrick-white)      | 16.1  | 44.1  |  38   |  4.2  |  4.1  |   2.1   |
 |       [Horford](https://www.espn.com/nba/player/_/id/3213/al-horford)        |  7.9  | 40.8  |  35   |  5.3  |  1.9  |   1.5   |
 |  [Pritchard](https://www.espn.com/nba/player/_/id/4066354/payton-pritchard)  | 13.9  |  47   | 41.5  |  3.7  |  3.4  |   1.1   |
+|      [Craig](https://www.espn.com/nba/player/_/id/2528693/torrey-craig)      |  6.9  | 48.9  | 42.9  |  2.8  |  0.6  |   0.3   |
 | [Scheierman](https://www.espn.com/nba/player/_/id/4593841/baylor-scheierman) |   1   | 17.6  |  8.3  |  1.4  |  0.4  |   0.2   |
 |    [Tillman](https://www.espn.com/nba/player/_/id/4277964/xavier-tillman)    |   1   |  25   | 18.2  |  1.4  |  0.3  |   0.5   |
 |     [Queta](https://www.espn.com/nba/player/_/id/4397424/neemias-queta)      |  5.2  | 65.9  |   0   |  3.7  |  0.7  |    1    |
