@@ -4,7 +4,7 @@
 | Tue, Feb 4  | @ [](/r/clevelandcavs)  | W 112-105 |         |
 | Thu, Feb 6  |   vs [](/r/mavericks)   | L 127-120 |         |
 | Sat, Feb 8  |    @ [](/r/nyknicks)    | W 131-104 |         |
-| Mon, Feb 10 |      @ [](/r/heat)      |           | 7:30 PM |
+| Mon, Feb 10 |      @ [](/r/heat)      |           |  LIVE   |
 | Wed, Feb 12 |   vs [](/r/nbaspurs)    |           | 7:00 PM |
 | Thu, Feb 20 |     @ [](/r/sixers)     |           | 7:00 PM |
 | Sun, Feb 23 |   vs [](/r/nyknicks)    |           | 1:00 PM |
