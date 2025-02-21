@@ -6,7 +6,7 @@
 | Sat, Feb 8  |    @ [Knicks](/r/NYKnicks)     | W 131-104 |         |
 | Mon, Feb 10 |       @ [Heat](/r/heat)        | W 103-85  |         |
 | Wed, Feb 12 |    vs [Spurs](/r/NBASpurs)     | W 116-103 |         |
-| Thu, Feb 20 |     @ [Philly](/r/sixers)      |           | 7:00 PM |
+| Thu, Feb 20 |     @ [Philly](/r/sixers)      |           |  LIVE   |
 | Sun, Feb 23 |    vs [Knicks](/r/NYKnicks)    |           | 1:00 PM |
 | Tue, Feb 25 | @ [Raptors](/r/torontoraptors) |           | 7:00 PM |
 | Wed, Feb 26 | @ [Pistons](/r/DetroitPistons) |           | 7:00 PM |
