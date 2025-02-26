@@ -8,6 +8,6 @@
 | Wed, Feb 12 |   vs [](/r/nbaspurs)    | W 116-103 |         |
 | Thu, Feb 20 |     @ [](/r/sixers)     | W 124-104 |         |
 | Sun, Feb 23 |   vs [](/r/nyknicks)    | W 118-105 |         |
-| Tue, Feb 25 | @ [](/r/torontoraptors) |           |  LIVE   |
+| Tue, Feb 25 | @ [](/r/torontoraptors) | W 111-101 |         |
 | Wed, Feb 26 | @ [](/r/detroitpistons) |           | 7:00 PM |
 | Fri, Feb 28 | vs [](/r/clevelandcavs) |           | 7:30 PM |
