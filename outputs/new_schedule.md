@@ -9,5 +9,5 @@
 | Thu, Feb 20 |     @ [Philly](/r/sixers)      | W 124-104 |         |
 | Sun, Feb 23 |    vs [Knicks](/r/NYKnicks)    | W 118-105 |         |
 | Tue, Feb 25 | @ [Raptors](/r/torontoraptors) | W 111-101 |         |
-| Wed, Feb 26 | @ [Pistons](/r/DetroitPistons) |           | 7:00 PM |
+| Wed, Feb 26 | @ [Pistons](/r/DetroitPistons) |           |  LIVE   |
 | Fri, Feb 28 |  vs [Cavs](/r/clevelandcavs)   |           | 7:30 PM |
