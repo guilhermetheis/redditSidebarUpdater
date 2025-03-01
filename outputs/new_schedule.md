@@ -1,13 +1,17 @@
-|    DATE     |            OPPONENT            |  RESULT   |  TIME   |
-|:-----------:|:------------------------------:|:---------:|:-------:|
-| Sun, Feb 2  |     @ [Philly](/r/sixers)      | W 118-110 |         |
-| Tue, Feb 4  |   @ [Cavs](/r/clevelandcavs)   | W 112-105 |         |
-| Thu, Feb 6  |   vs [Dallas](/r/Mavericks)    | L 127-120 |         |
-| Sat, Feb 8  |    @ [Knicks](/r/NYKnicks)     | W 131-104 |         |
-| Mon, Feb 10 |       @ [Heat](/r/heat)        | W 103-85  |         |
-| Wed, Feb 12 |    vs [Spurs](/r/NBASpurs)     | W 116-103 |         |
-| Thu, Feb 20 |     @ [Philly](/r/sixers)      | W 124-104 |         |
-| Sun, Feb 23 |    vs [Knicks](/r/NYKnicks)    | W 118-105 |         |
-| Tue, Feb 25 | @ [Raptors](/r/torontoraptors) | W 111-101 |         |
-| Wed, Feb 26 | @ [Pistons](/r/DetroitPistons) | L 117-97  |         |
-| Fri, Feb 28 |  vs [Cavs](/r/clevelandcavs)   |           | 7:30 PM |
+|    DATE     |             OPPONENT             |  RESULT  |   TIME   |
+|:-----------:|:--------------------------------:|:--------:|:--------:|
+| Sun, Mar 2  |  vs [Denver](/r/denvernuggets)   |          | 1:00 PM  |
+| Wed, Mar 5  |     vs [Blazers](/r/ripcity)     |          | 7:00 PM  |
+| Thu, Mar 6  |      vs [Philly](/r/sixers)      |          | 7:30 PM  |
+| Sat, Mar 8  |      vs [Lakers](/r/lakers)      |          | 8:30 PM  |
+| Mon, Mar 10 |      vs [Jazz](/r/UtahJazz)      |          | 7:30 PM  |
+| Wed, Mar 12 |     vs [Thunder](/r/Thunder)     |          | 7:30 PM  |
+| Fri, Mar 14 |        @ [Heat](/r/heat)         |          | 7:00 PM  |
+| Sat, Mar 15 |       @ [Nets](/r/GoNets)        |          | 6:00 PM  |
+| Tue, Mar 18 |       vs [Nets](/r/GoNets)       |          | 7:30 PM  |
+| Fri, Mar 21 |      @ [Jazz](/r/UtahJazz)       |          | 9:30 PM  |
+| Sun, Mar 23 |     @ [Blazers](/r/ripcity)      |          | 6:00 PM  |
+| Mon, Mar 24 |       @ [Kings](/r/kings)        |          | 10:00 PM |
+| Wed, Mar 26 |        @ [Suns](/r/suns)         |          | 10:00 PM |
+| Sat, Mar 29 |      @ [Spurs](/r/NBASpurs)      |          | 8:00 PM  |
+| Mon, Mar 31 | @ [Memphis](/r/memphisgrizzlies) |          | 7:30 PM  |
