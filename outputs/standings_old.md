@@ -13,5 +13,5 @@
 | [](/r/gonets) Nets               | 21  | 38  | 0.356 | 28.000 |
 | [](/r/sixers) Philly             | 20  | 38  | 0.345 | 28.500 |
 | [](/r/torontoraptors) Raptors    | 18  | 42  | 0.300 | 31.500 |
-| [](/r/charlottehornets) Hornets  | 14  | 44  | 0.241 | 34.500 |
-| [](/r/washingtonwizards) Wizards | 10  | 48  | 0.172 | 38.500 |
+| [](/r/charlottehornets) Hornets  | 14  | 45  | 0.237 | 35.000 |
+| [](/r/washingtonwizards) Wizards | 11  | 48  | 0.186 | 38.000 |
