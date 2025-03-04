@@ -15,4 +15,5 @@
 |      [Kornet](https://www.espn.com/nba/player/_/id/3064560/luke-kornet)      |  5.2  | 65.9  |   0   |  4.9  |  1.6  |   1.5   |
 |      [Walsh](https://www.espn.com/nba/player/_/id/4683689/jordan-walsh)      |  1.5  |  35   | 27.5  |  1.1  |  0.3  |   0.4   |
 |      [Davison](https://www.espn.com/nba/player/_/id/4576085/jd-davison)      |  1.3  | 28.6  |  25   |  0.4  |  0.3  |   0.3   |
+|     [Norris](https://www.espn.com/nba/player/_/id/4397104/miles-norris)      |  nan  |  nan  |  nan  |  nan  |  nan  |   nan   |
 |    [Peterson](https://www.espn.com/nba/player/_/id/4397689/drew-peterson)    |  2.6  |  50   |  45   |  1.7  |  0.7  |   0.3   |
