@@ -1,7 +1,7 @@
 |    DATE     |         OPPONENT          |  RESULT   |   TIME   |
 |:-----------:|:-------------------------:|:---------:|:--------:|
 | Sun, Mar 2  |  vs [](/r/denvernuggets)  | W 110-103 |          |
-| Wed, Mar 5  |     vs [](/r/ripcity)     |           | 7:00 PM  |
+| Wed, Mar 5  |     vs [](/r/ripcity)     |           |   LIVE   |
 | Thu, Mar 6  |     vs [](/r/sixers)      |           | 7:30 PM  |
 | Sat, Mar 8  |     vs [](/r/lakers)      |           | 8:30 PM  |
 | Mon, Mar 10 |    vs [](/r/utahjazz)     |           | 7:30 PM  |
