@@ -2,7 +2,7 @@
 |:-----------:|:-------------------------:|:---------:|:--------:|
 | Sun, Mar 2  |  vs [](/r/denvernuggets)  | W 110-103 |          |
 | Wed, Mar 5  |     vs [](/r/ripcity)     | W 128-118 |          |
-| Thu, Mar 6  |     vs [](/r/sixers)      |           | 7:30 PM  |
+| Thu, Mar 6  |     vs [](/r/sixers)      |           |   LIVE   |
 | Sat, Mar 8  |     vs [](/r/lakers)      |           | 8:30 PM  |
 | Mon, Mar 10 |    vs [](/r/utahjazz)     |           | 7:30 PM  |
 | Wed, Mar 12 |     vs [](/r/thunder)     |           | 7:30 PM  |
