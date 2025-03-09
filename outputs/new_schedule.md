@@ -3,7 +3,7 @@
 | Sun, Mar 2  |  vs [Denver](/r/denvernuggets)   | W 110-103 |          |
 | Wed, Mar 5  |     vs [Blazers](/r/ripcity)     | W 128-118 |          |
 | Thu, Mar 6  |      vs [Philly](/r/sixers)      | W 123-105 |          |
-| Sat, Mar 8  |      vs [Lakers](/r/lakers)      |           | 8:30 PM  |
+| Sat, Mar 8  |      vs [Lakers](/r/lakers)      | W 111-101 |          |
 | Mon, Mar 10 |      vs [Jazz](/r/UtahJazz)      |           | 7:30 PM  |
 | Wed, Mar 12 |     vs [Thunder](/r/Thunder)     |           | 7:30 PM  |
 | Fri, Mar 14 |        @ [Heat](/r/heat)         |           | 7:00 PM  |
