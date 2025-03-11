@@ -4,7 +4,7 @@
 | Wed, Mar 5  |     vs [](/r/ripcity)     | W 128-118 |          |
 | Thu, Mar 6  |     vs [](/r/sixers)      | W 123-105 |          |
 | Sat, Mar 8  |     vs [](/r/lakers)      | W 111-101 |          |
-| Mon, Mar 10 |    vs [](/r/utahjazz)     |           | 7:30 PM  |
+| Mon, Mar 10 |    vs [](/r/utahjazz)     | W 114-108 |          |
 | Wed, Mar 12 |     vs [](/r/thunder)     |           | 7:30 PM  |
 | Fri, Mar 14 |       @ [](/r/heat)       |           | 7:00 PM  |
 | Sat, Mar 15 |      @ [](/r/gonets)      |           | 6:00 PM  |
