@@ -5,7 +5,7 @@
 | Thu, Mar 6  |      vs [Philly](/r/sixers)      | W 123-105 |          |
 | Sat, Mar 8  |      vs [Lakers](/r/lakers)      | W 111-101 |          |
 | Mon, Mar 10 |      vs [Jazz](/r/UtahJazz)      | W 114-108 |          |
-| Wed, Mar 12 |     vs [Thunder](/r/Thunder)     |           |   LIVE   |
+| Wed, Mar 12 |     vs [Thunder](/r/Thunder)     | L 118-112 |          |
 | Fri, Mar 14 |        @ [Heat](/r/heat)         |           | 7:00 PM  |
 | Sat, Mar 15 |       @ [Nets](/r/GoNets)        |           | 6:00 PM  |
 | Tue, Mar 18 |       vs [Nets](/r/GoNets)       |           | 7:30 PM  |
