@@ -6,7 +6,7 @@
 | Sat, Mar 8  |     vs [](/r/lakers)      | W 111-101 |          |
 | Mon, Mar 10 |    vs [](/r/utahjazz)     | W 114-108 |          |
 | Wed, Mar 12 |     vs [](/r/thunder)     | L 118-112 |          |
-| Fri, Mar 14 |       @ [](/r/heat)       |           | 7:00 PM  |
+| Fri, Mar 14 |       @ [](/r/heat)       | W 103-91  |          |
 | Sat, Mar 15 |      @ [](/r/gonets)      |           | 6:00 PM  |
 | Tue, Mar 18 |     vs [](/r/gonets)      |           | 7:30 PM  |
 | Fri, Mar 21 |     @ [](/r/utahjazz)     |           | 9:30 PM  |
