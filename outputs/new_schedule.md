@@ -7,7 +7,7 @@
 | Mon, Mar 10 |      vs [Jazz](/r/UtahJazz)      | W 114-108 |          |
 | Wed, Mar 12 |     vs [Thunder](/r/Thunder)     | L 118-112 |          |
 | Fri, Mar 14 |        @ [Heat](/r/heat)         | W 103-91  |          |
-| Sat, Mar 15 |       @ [Nets](/r/GoNets)        |           | 6:00 PM  |
+| Sat, Mar 15 |       @ [Nets](/r/GoNets)        | W 115-113 |          |
 | Tue, Mar 18 |       vs [Nets](/r/GoNets)       |           | 7:30 PM  |
 | Fri, Mar 21 |      @ [Jazz](/r/UtahJazz)       |           | 9:30 PM  |
 | Sun, Mar 23 |     @ [Blazers](/r/ripcity)      |           | 6:00 PM  |
