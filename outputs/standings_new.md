@@ -3,7 +3,7 @@
 | [Cavs](/r/clevelandcavs)        | 56  | 11  | 0.836 | 0.000  |
 | [Celtics](/r/bostonceltics)     | 49  | 19  | 0.721 | 7.500  |
 | [Knicks](/r/NYKnicks)           | 42  | 24  | 0.636 | 13.500 |
-| [Bucks](/r/MkeBucks)            | 38  | 28  | 0.576 | 17.500 |
+| [Bucks](/r/MkeBucks)            | 38  | 29  | 0.567 | 18.000 |
 | [Pacers](/r/pacers)             | 37  | 29  | 0.561 | 18.500 |
 | [Pistons](/r/DetroitPistons)    | 37  | 31  | 0.544 | 19.500 |
 | [Hawks](/r/AtlantaHawks)        | 32  | 36  | 0.471 | 24.500 |
