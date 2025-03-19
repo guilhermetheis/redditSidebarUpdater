@@ -6,12 +6,12 @@
 | [Bucks](/r/MkeBucks)            | 38  | 29  | 0.567 | 18.000 |
 | [Pacers](/r/pacers)             | 38  | 29  | 0.567 | 18.000 |
 | [Pistons](/r/DetroitPistons)    | 38  | 31  | 0.551 | 19.000 |
-| [Hawks](/r/AtlantaHawks)        | 32  | 36  | 0.471 | 24.500 |
+| [Hawks](/r/AtlantaHawks)        | 33  | 36  | 0.478 | 24.000 |
 | [Magic](/r/OrlandoMagic)        | 32  | 37  | 0.464 | 25.000 |
 | [Bulls](/r/chicagobulls)        | 29  | 39  | 0.426 | 27.500 |
 | [Heat](/r/heat)                 | 29  | 39  | 0.426 | 27.500 |
 | [Raptors](/r/torontoraptors)    | 24  | 45  | 0.348 | 33.000 |
 | [Nets](/r/GoNets)               | 23  | 45  | 0.338 | 33.500 |
 | [Philly](/r/sixers)             | 23  | 45  | 0.338 | 33.500 |
-| [Hornets](/r/CharlotteHornets)  | 17  | 50  | 0.254 | 39.000 |
+| [Hornets](/r/CharlotteHornets)  | 17  | 51  | 0.250 | 39.500 |
 | [Wizards](/r/washingtonwizards) | 15  | 52  | 0.224 | 41.000 |
