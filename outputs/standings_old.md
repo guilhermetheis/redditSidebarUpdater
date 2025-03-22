@@ -7,11 +7,11 @@
 | [](/r/mkebucks) Bucks            | 39  | 30  | 0.565 | 17.000 |
 | [](/r/detroitpistons) Pistons    | 39  | 31  | 0.557 | 17.500 |
 | [](/r/atlantahawks) Hawks        | 33  | 36  | 0.478 | 23.000 |
-| [](/r/orlandomagic) Magic        | 32  | 38  | 0.457 | 24.500 |
+| [](/r/orlandomagic) Magic        | 33  | 38  | 0.465 | 24.000 |
 | [](/r/chicagobulls) Bulls        | 30  | 40  | 0.429 | 26.500 |
 | [](/r/heat) Heat                 | 29  | 40  | 0.420 | 27.000 |
 | [](/r/torontoraptors) Raptors    | 24  | 46  | 0.343 | 32.500 |
 | [](/r/sixers) Philly             | 23  | 46  | 0.333 | 33.000 |
 | [](/r/gonets) Nets               | 23  | 47  | 0.329 | 33.500 |
 | [](/r/charlottehornets) Hornets  | 18  | 51  | 0.261 | 38.000 |
-| [](/r/washingtonwizards) Wizards | 15  | 53  | 0.221 | 40.500 |
+| [](/r/washingtonwizards) Wizards | 15  | 54  | 0.217 | 41.000 |

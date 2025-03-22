@@ -9,7 +9,7 @@
 | Fri, Mar 14 |       @ [](/r/heat)       | W 103-91  |          |
 | Sat, Mar 15 |      @ [](/r/gonets)      | W 115-113 |          |
 | Tue, Mar 18 |     vs [](/r/gonets)      | W 104-96  |          |
-| Fri, Mar 21 |     @ [](/r/utahjazz)     |           | 9:30 PM  |
+| Fri, Mar 21 |     @ [](/r/utahjazz)     |           |   LIVE   |
 | Sun, Mar 23 |     @ [](/r/ripcity)      |           | 6:00 PM  |
 | Mon, Mar 24 |      @ [](/r/kings)       |           | 10:00 PM |
 | Wed, Mar 26 |       @ [](/r/suns)       |           | 10:00 PM |
