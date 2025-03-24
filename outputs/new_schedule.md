@@ -10,7 +10,7 @@
 | Sat, Mar 15 |       @ [Nets](/r/GoNets)        | W 115-113 |          |
 | Tue, Mar 18 |       vs [Nets](/r/GoNets)       | W 104-96  |          |
 | Fri, Mar 21 |      @ [Jazz](/r/UtahJazz)       | W 121-99  |          |
-| Sun, Mar 23 |     @ [Blazers](/r/ripcity)      |           | 6:00 PM  |
+| Sun, Mar 23 |     @ [Blazers](/r/ripcity)      | W 129-116 |          |
 | Mon, Mar 24 |       @ [Kings](/r/kings)        |           | 10:00 PM |
 | Wed, Mar 26 |        @ [Suns](/r/suns)         |           | 10:00 PM |
 | Sat, Mar 29 |      @ [Spurs](/r/NBASpurs)      |           | 8:00 PM  |
