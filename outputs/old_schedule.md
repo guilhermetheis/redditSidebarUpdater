@@ -11,7 +11,7 @@
 | Tue, Mar 18 |     vs [](/r/gonets)      | W 104-96  |          |
 | Fri, Mar 21 |     @ [](/r/utahjazz)     | W 121-99  |          |
 | Sun, Mar 23 |     @ [](/r/ripcity)      | W 129-116 |          |
-| Mon, Mar 24 |      @ [](/r/kings)       |           | 10:00 PM |
+| Mon, Mar 24 |      @ [](/r/kings)       | W 113-95  |          |
 | Wed, Mar 26 |       @ [](/r/suns)       |           | 10:00 PM |
 | Sat, Mar 29 |     @ [](/r/nbaspurs)     |           | 8:00 PM  |
 | Mon, Mar 31 | @ [](/r/memphisgrizzlies) |           | 7:30 PM  |
