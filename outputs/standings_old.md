@@ -12,6 +12,6 @@
 | [](/r/heat) Heat                 | 31  | 41  | 0.431 | 27.000 |
 | [](/r/torontoraptors) Raptors    | 25  | 47  | 0.347 | 33.000 |
 | [](/r/gonets) Nets               | 23  | 49  | 0.319 | 35.000 |
-| [](/r/sixers) Philly             | 23  | 49  | 0.319 | 35.000 |
+| [](/r/sixers) Philly             | 23  | 50  | 0.315 | 35.500 |
 | [](/r/charlottehornets) Hornets  | 18  | 54  | 0.250 | 40.000 |
-| [](/r/washingtonwizards) Wizards | 15  | 56  | 0.211 | 42.500 |
+| [](/r/washingtonwizards) Wizards | 16  | 56  | 0.222 | 42.000 |
