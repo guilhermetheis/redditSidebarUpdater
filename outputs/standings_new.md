@@ -8,7 +8,7 @@
 | [Bucks](/r/MkeBucks)            | 40  | 32  | 0.556 | 18.500 |
 | [Hawks](/r/AtlantaHawks)        | 35  | 38  | 0.479 | 24.000 |
 | [Magic](/r/OrlandoMagic)        | 35  | 39  | 0.473 | 24.500 |
-| [Bulls](/r/chicagobulls)        | 32  | 40  | 0.444 | 26.500 |
+| [Bulls](/r/chicagobulls)        | 33  | 40  | 0.452 | 26.000 |
 | [Heat](/r/heat)                 | 32  | 41  | 0.438 | 27.000 |
 | [Raptors](/r/torontoraptors)    | 26  | 47  | 0.356 | 33.000 |
 | [Philly](/r/sixers)             | 23  | 50  | 0.315 | 36.000 |
