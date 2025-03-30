@@ -1,18 +1,18 @@
 |                                     Name                                     |  PPG  |  FG%  |  3P%  |  RBG  |  APG  |  STOCK  |
 |:----------------------------------------------------------------------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:|
-|      [Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown)      | 22.6  | 45.9  |  32   |  5.9  |  4.6  |   1.6   |
-|      [Tatum](https://www.espn.com/nba/player/_/id/4065648/jayson-tatum)      | 27.1  | 45.5  | 35.2  |  8.7  |   6   |   1.6   |
-|      [Holiday](https://www.espn.com/nba/player/_/id/3995/jrue-holiday)       | 10.9  |  44   | 33.5  |  4.2  |  3.8  |   1.6   |
-| [Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | 19.7  | 48.9  | 40.3  |   7   |   2   |   2.4   |
-|     [White](https://www.espn.com/nba/player/_/id/3078576/derrick-white)      | 16.5  | 44.2  | 38.6  |  4.3  |  4.5  |    2    |
+|      [Brown](https://www.espn.com/nba/player/_/id/3917376/jaylen-brown)      | 22.4  | 46.1  | 31.9  |  5.9  |  4.6  |   1.5   |
+|      [Tatum](https://www.espn.com/nba/player/_/id/4065648/jayson-tatum)      | 27.2  | 45.5  | 35.1  |  8.7  |   6   |   1.6   |
+|      [Holiday](https://www.espn.com/nba/player/_/id/3995/jrue-holiday)       | 11.1  | 44.5  | 34.4  |  4.2  |  3.8  |   1.6   |
+| [Porzingis](https://www.espn.com/nba/player/_/id/3102531/kristaps-porzingis) | 19.4  | 48.6  |  40   |   7   |   2   |   2.4   |
+|     [White](https://www.espn.com/nba/player/_/id/3078576/derrick-white)      | 16.5  |  44   | 38.3  |  4.4  |  4.5  |    2    |
 |       [Horford](https://www.espn.com/nba/player/_/id/3213/al-horford)        |  8.6  | 41.8  | 35.6  |   6   |  2.1  |   1.5   |
 |  [Pritchard](https://www.espn.com/nba/player/_/id/4066354/payton-pritchard)  | 14.2  | 46.6  | 41.3  |  3.8  |  3.4  |   1.1   |
 |      [Craig](https://www.espn.com/nba/player/_/id/2528693/torrey-craig)      |  4.8  | 47.9  | 41.8  |  2.2  |  0.4  |   0.5   |
-| [Scheierman](https://www.espn.com/nba/player/_/id/4593841/baylor-scheierman) |   3   | 36.5  | 34.7  |  1.7  |   1   |   0.5   |
+| [Scheierman](https://www.espn.com/nba/player/_/id/4593841/baylor-scheierman) |  3.1  | 37.3  | 35.8  |  1.8  |   1   |   0.5   |
 |    [Tillman](https://www.espn.com/nba/player/_/id/4277964/xavier-tillman)    |   1   | 26.1  | 18.5  |  1.3  |  0.2  |   0.5   |
 |     [Queta](https://www.espn.com/nba/player/_/id/4397424/neemias-queta)      |  4.9  | 64.3  |   0   |  3.8  |  0.6  |   0.9   |
-|      [Hauser](https://www.espn.com/nba/player/_/id/4065804/sam-hauser)       |  8.1  | 45.4  | 41.8  |  3.1  |  0.9  |   0.8   |
-|      [Kornet](https://www.espn.com/nba/player/_/id/3064560/luke-kornet)      |  5.4  | 67.4  |   0   |  5.1  |  1.6  |   1.5   |
+|      [Hauser](https://www.espn.com/nba/player/_/id/4065804/sam-hauser)       |  8.2  |  45   | 41.4  |  3.1  |  0.9  |   0.8   |
+|      [Kornet](https://www.espn.com/nba/player/_/id/3064560/luke-kornet)      |  5.6  | 67.5  |   0   |  5.2  |  1.6  |   1.5   |
 |      [Walsh](https://www.espn.com/nba/player/_/id/4683689/jordan-walsh)      |  1.6  | 37.1  | 28.3  |  1.2  |  0.3  |   0.4   |
 |      [Davison](https://www.espn.com/nba/player/_/id/4576085/jd-davison)      |  1.7  | 42.9  | 33.3  |  0.6  |  0.4  |   0.3   |
 |     [Norris](https://www.espn.com/nba/player/_/id/4397104/miles-norris)      |   0   |   0   |   0   |   2   |   0   |    0    |
