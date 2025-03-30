@@ -13,5 +13,5 @@
 | Sun, Mar 23 |     @ [](/r/ripcity)      | W 129-116 |         |
 | Mon, Mar 24 |      @ [](/r/kings)       | W 113-95  |         |
 | Wed, Mar 26 |       @ [](/r/suns)       | W 132-102 |         |
-| Sat, Mar 29 |     @ [](/r/nbaspurs)     |           |  LIVE   |
+| Sat, Mar 29 |     @ [](/r/nbaspurs)     | W 121-111 |         |
 | Mon, Mar 31 | @ [](/r/memphisgrizzlies) |           | 7:30 PM |
