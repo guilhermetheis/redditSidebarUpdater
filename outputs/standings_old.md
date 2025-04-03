@@ -1,14 +1,14 @@
 | Team                             |  W  |  L  |  W%   |   GB   |
 |:---------------------------------|:---:|:---:|:-----:|:------:|
 | [](/r/clevelandcavs) Cavs        | 61  | 15  | 0.803 | 0.000  |
-| [](/r/bostonceltics) Celtics     | 56  | 19  | 0.747 | 4.500  |
+| [](/r/bostonceltics) Celtics     | 56  | 20  | 0.737 | 5.000  |
 | [](/r/nyknicks) Knicks           | 48  | 28  | 0.632 | 13.000 |
 | [](/r/pacers) Pacers             | 45  | 31  | 0.592 | 16.000 |
-| [](/r/detroitpistons) Pistons    | 42  | 33  | 0.560 | 18.500 |
+| [](/r/detroitpistons) Pistons    | 42  | 34  | 0.553 | 19.000 |
 | [](/r/mkebucks) Bucks            | 41  | 34  | 0.547 | 19.500 |
 | [](/r/orlandomagic) Magic        | 37  | 40  | 0.481 | 24.500 |
-| [](/r/atlantahawks) Hawks        | 36  | 39  | 0.480 | 24.500 |
-| [](/r/heat) Heat                 | 34  | 41  | 0.453 | 26.500 |
+| [](/r/atlantahawks) Hawks        | 36  | 40  | 0.474 | 25.000 |
+| [](/r/heat) Heat                 | 35  | 41  | 0.461 | 26.000 |
 | [](/r/chicagobulls) Bulls        | 34  | 42  | 0.447 | 27.000 |
 | [](/r/torontoraptors) Raptors    | 28  | 48  | 0.368 | 33.000 |
 | [](/r/gonets) Nets               | 25  | 51  | 0.329 | 36.000 |
