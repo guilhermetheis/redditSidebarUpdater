@@ -1,7 +1,7 @@
 |    DATE     |              OPPONENT              |  RESULT   |  TIME   |
 |:-----------:|:----------------------------------:|:---------:|:-------:|
 | Wed, Apr 2  |         vs [Heat](/r/heat)         | L 124-103 |         |
-| Fri, Apr 4  |         vs [Suns](/r/suns)         |           | 7:30 PM |
+| Fri, Apr 4  |         vs [Suns](/r/suns)         |           |  LIVE   |
 | Sun, Apr 6  | vs [Wizards](/r/washingtonwizards) |           | 6:00 PM |
 | Tue, Apr 8  |      @ [Knicks](/r/NYKnicks)       |           | 7:30 PM |
 | Wed, Apr 9  |     @ [Magic](/r/OrlandoMagic)     |           | 7:00 PM |
