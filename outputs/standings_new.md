@@ -5,7 +5,7 @@
 | [Knicks](/r/NYKnicks)           | 50  | 28  | 0.641 | 12.000 |
 | [Pacers](/r/pacers)             | 47  | 31  | 0.603 | 15.000 |
 | [Bucks](/r/MkeBucks)            | 44  | 34  | 0.564 | 18.000 |
-| [Pistons](/r/DetroitPistons)    | 43  | 35  | 0.551 | 19.000 |
+| [Pistons](/r/DetroitPistons)    | 43  | 36  | 0.544 | 19.500 |
 | [Magic](/r/OrlandoMagic)        | 38  | 40  | 0.487 | 24.000 |
 | [Hawks](/r/AtlantaHawks)        | 37  | 41  | 0.474 | 25.000 |
 | [Bulls](/r/chicagobulls)        | 36  | 42  | 0.462 | 26.000 |
