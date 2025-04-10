@@ -8,8 +8,8 @@
 | [Pistons](/r/DetroitPistons)    | 43  | 36  | 0.544 | 20.000 |
 | [Magic](/r/OrlandoMagic)        | 40  | 40  | 0.500 | 23.500 |
 | [Hawks](/r/AtlantaHawks)        | 37  | 42  | 0.468 | 26.000 |
-| [Bulls](/r/chicagobulls)        | 36  | 43  | 0.456 | 27.000 |
-| [Heat](/r/heat)                 | 36  | 43  | 0.456 | 27.000 |
+| [Bulls](/r/chicagobulls)        | 37  | 43  | 0.463 | 26.500 |
+| [Heat](/r/heat)                 | 36  | 44  | 0.450 | 27.500 |
 | [Raptors](/r/torontoraptors)    | 30  | 50  | 0.375 | 33.500 |
 | [Nets](/r/GoNets)               | 26  | 53  | 0.329 | 37.000 |
 | [Philly](/r/sixers)             | 24  | 56  | 0.300 | 39.500 |
