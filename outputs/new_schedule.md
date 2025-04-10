@@ -4,6 +4,6 @@
 | Fri, Apr 4  |         vs [Suns](/r/suns)         |  W 123-103   |         |
 | Sun, Apr 6  | vs [Wizards](/r/washingtonwizards) |   W 124-90   |         |
 | Tue, Apr 8  |      @ [Knicks](/r/NYKnicks)       | W 119-117 OT |         |
-| Wed, Apr 9  |     @ [Magic](/r/OrlandoMagic)     |              | 7:00 PM |
+| Wed, Apr 9  |     @ [Magic](/r/OrlandoMagic)     |   L 96-76    |         |
 | Fri, Apr 11 | vs [Hornets](/r/CharlotteHornets)  |              | 7:30 PM |
 | Sun, Apr 13 | vs [Hornets](/r/CharlotteHornets)  |              | 1:00 PM |
