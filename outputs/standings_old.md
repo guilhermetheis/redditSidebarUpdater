@@ -1,17 +1,17 @@
 | Team                             |  W  |  L  |  W%   |   GB   |
 |:---------------------------------|:---:|:---:|:-----:|:------:|
-| [](/r/clevelandcavs) Cavs        | 64  | 17  | 0.790 | 0.000  |
-| [](/r/bostonceltics) Celtics     | 60  | 21  | 0.741 | 4.000  |
-| [](/r/nyknicks) Knicks           | 50  | 31  | 0.617 | 14.000 |
-| [](/r/pacers) Pacers             | 49  | 32  | 0.605 | 15.000 |
-| [](/r/mkebucks) Bucks            | 47  | 34  | 0.580 | 17.000 |
-| [](/r/detroitpistons) Pistons    | 44  | 37  | 0.543 | 20.000 |
-| [](/r/orlandomagic) Magic        | 41  | 40  | 0.506 | 23.000 |
-| [](/r/atlantahawks) Hawks        | 39  | 42  | 0.481 | 25.000 |
-| [](/r/chicagobulls) Bulls        | 38  | 43  | 0.469 | 26.000 |
-| [](/r/heat) Heat                 | 37  | 44  | 0.457 | 27.000 |
-| [](/r/torontoraptors) Raptors    | 30  | 51  | 0.370 | 34.000 |
-| [](/r/gonets) Nets               | 26  | 55  | 0.321 | 38.000 |
-| [](/r/sixers) Philly             | 24  | 57  | 0.296 | 40.000 |
-| [](/r/charlottehornets) Hornets  | 19  | 62  | 0.235 | 45.000 |
-| [](/r/washingtonwizards) Wizards | 17  | 64  | 0.210 | 47.000 |
+| [](/r/clevelandcavs) Cavs        | 64  | 18  | 0.780 | 0.000  |
+| [](/r/bostonceltics) Celtics     | 61  | 21  | 0.744 | 3.000  |
+| [](/r/nyknicks) Knicks           | 51  | 31  | 0.622 | 13.000 |
+| [](/r/pacers) Pacers             | 50  | 32  | 0.610 | 14.000 |
+| [](/r/mkebucks) Bucks            | 48  | 34  | 0.585 | 16.000 |
+| [](/r/detroitpistons) Pistons    | 44  | 38  | 0.537 | 20.000 |
+| [](/r/orlandomagic) Magic        | 41  | 41  | 0.500 | 23.000 |
+| [](/r/heat) Heat                 | 37  | 45  | 0.451 | 27.000 |
+| [](/r/atlantahawks) Hawks        | 40  | 42  | 0.488 | 24.000 |
+| [](/r/chicagobulls) Bulls        | 39  | 43  | 0.476 | 25.000 |
+| [](/r/torontoraptors) Raptors    | 30  | 52  | 0.366 | 34.000 |
+| [](/r/gonets) Nets               | 26  | 56  | 0.317 | 38.000 |
+| [](/r/sixers) Philly             | 24  | 58  | 0.293 | 40.000 |
+| [](/r/charlottehornets) Hornets  | 19  | 63  | 0.232 | 45.000 |
+| [](/r/washingtonwizards) Wizards | 18  | 64  | 0.220 | 46.000 |
